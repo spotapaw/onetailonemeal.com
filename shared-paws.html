@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shared paws - One Tail One Meal</title>
+<meta name="description" content="Photos of street dogs and cats people have fed, rescued and cared for. Share yours.">
+<meta property="og:title" content="Shared paws - One Tail One Meal">
+<meta property="og:description" content="Photos of street dogs and cats people have fed, rescued and cared for. Share yours.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="One Tail One Meal">
+<meta property="og:image" content="https://onetailonemeal.com/assets/img/hero.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header class="nav">
+  <div class="wrap">
+    <a class="brand brand-otm" href="index.html"><img src="assets/img/logo.png" alt=""><span>One Tail One Meal</span></a>
+    <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+    <nav class="nav-links">
+      <a href="index.html#vision">Our plan</a>
+      <a href="food-truck.html">The truck</a>
+      <a href="shared-paws.html">Shared paws</a>
+      <a href="index.html#help">How to help</a>
+      <a href="https://spot-a-paw.com/" target="_blank" rel="noopener">Spot a Paw app</a>
+      <a class="btn btn-orange btn-sm" href="https://gofund.me/ea6b4eece" target="_blank" rel="noopener">Donate</a>
+    </nav>
+  </div>
+</header>
+
+<section class="phero short">
+  <div class="shot" style="background-image:url('assets/img/paws/dog-standing.jpg');background-position:center 40%"></div>
+  <div class="wrap">
+    <span class="eyebrow">Shared paws</span>
+    <h1>The ones <span class="accent">we helped</span></h1>
+    <p class="lead">Every animal here was fed, rescued or looked after by someone who stopped. Some are ours.
+      The rest were sent in by people like you.</p>
+    <div class="hero-cta"><a class="btn btn-orange" href="#share">Share your photo</a></div>
+  </div>
+</section>
+
+<section class="papyrus">
+  <div class="wrap">
+    <div class="paw-wall" id="paw-wall">
+      <figure class="paw founder"><img src="assets/img/paws/dog-eating.jpg" loading="lazy" decoding="async"
+        alt="A white and tan street dog lying beside a plate of food on a tiled pavement">
+        <figcaption><p>Lunch on the tiles.</p>
+        <span>One Tail One Meal &middot; Cairo</span></figcaption></figure>
+      <figure class="paw founder"><img src="assets/img/paws/dog-standing.jpg" loading="lazy" decoding="async"
+        alt="A young tan street dog with a dark face standing on a dusty road, looking at the camera">
+        <figcaption><p>Waiting to say hello.</p>
+        <span>One Tail One Meal &middot; Cairo</span></figcaption></figure>
+</div>
+  </div>
+</section>
+
+<section id="share">
+  <div class="wrap share">
+    <div>
+      <span class="eyebrow">Share yours</span>
+      <h2>Share your personal photos here</h2>
+      <p class="lead">Fed a dog on your street? Found a home for a kitten? Send us the photo and a line about
+        them, and we will add it to the wall.</p>
+      <ul class="rules">
+        <li>Only photos you took yourself.</li>
+        <li>We look at every photo before it goes up, so it will not appear straight away.</li>
+        <li>We remove your phone&rsquo;s location from the photo before it is sent.</li>
+        <li>No people&rsquo;s faces, please &mdash; the animals are the stars.</li>
+      </ul>
+    </div>
+    <form class="paw-form" id="paw-form" novalidate>
+      <label class="paw-drop" for="paw-photo">
+        <b>Choose a photo</b>
+        <span>JPEG or PNG, from your phone or computer</span>
+        <input type="file" id="paw-photo" name="photo" accept="image/jpeg,image/png,image/webp,image/heic,image/*">
+      </label>
+      <div class="paw-preview" hidden><img alt="Your photo"></div>
+      <label for="paw-name">Your first name <small>(optional)</small>
+        <input type="text" id="paw-name" name="name" maxlength="60" autocomplete="given-name"></label>
+      <label for="paw-place">Where <small>(optional, e.g. Maadi, Cairo)</small>
+        <input type="text" id="paw-place" name="place" maxlength="80"></label>
+      <label for="paw-story">Their story <small>(optional)</small>
+        <textarea id="paw-story" name="story" maxlength="400"></textarea></label>
+      <span class="paw-count">0 / 400</span>
+      <div class="hp" aria-hidden="true"><label for="paw-website">Website
+        <input type="text" id="paw-website" name="website" tabindex="-1" autocomplete="off"></label></div>
+      <label class="paw-consent" for="paw-consent"><input type="checkbox" id="paw-consent" name="consent">
+        <span>I took this photo and I&rsquo;m happy for One Tail One Meal to show it on this website.</span></label>
+      <button class="btn btn-orange" type="submit" style="justify-self:start">Send my photo</button>
+      <p class="paw-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="brand brand-otm" href="index.html" style="margin-bottom:.8rem"><img src="assets/img/logo.png" alt=""><span>One Tail One Meal</span></a>
+      <p style="max-width:38ch">No stray should go hungry. We are building a food truck for the street animals of Cairo, one meal at a time.</p>
+    </div>
+    <div>
+      <h4>The plan</h4>
+      <ul>
+        <li><a href="index.html#vision">What we are building</a></li>
+        <li><a href="food-truck.html">Inside the truck</a></li>
+        <li><a href="food-truck.html#money">Where the money goes</a></li>
+        <li><a href="food-truck.html#permits">Permits and rules</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Join in</h4>
+      <ul>
+        <li><a href="https://gofund.me/ea6b4eece" target="_blank" rel="noopener">Donate</a></li>
+        <li><a href="shared-paws.html">Share a photo</a></li>
+        <li><a href="index.html#help">Volunteer</a></li>
+        <li><a href="https://spot-a-paw.com/" target="_blank" rel="noopener">Spot a Paw app</a></li>
+        <li><a href="https://www.instagram.com/onetailonemeal" target="_blank" rel="noopener">Instagram</a></li>
+        <li><a href="https://www.tiktok.com/@OneTailOneMeal" target="_blank" rel="noopener">TikTok</a></li>
+        <li><a href="https://www.x.com/OneTailOneMeal" target="_blank" rel="noopener">X</a></li>
+      </ul>
+    </div>
+    <div class="copy">&copy; 2026 One Tail One Meal. Cairo and Sydney. Every tail deserves a meal.</div>
+  </div>
+</footer>
+<script src="assets/site.js"></script>
+<script src="assets/paws.js"></script>
+</body>
+</html>
