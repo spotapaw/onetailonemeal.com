@@ -376,3 +376,34 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .rules li{padding-left:1.6rem;position:relative;color:var(--muted)}
 .rules li::before{content:"";position:absolute;left:0;top:.5rem;width:.6rem;height:.6rem;
   border-radius:50%;background:var(--orange)}
+
+/* ---------- a-Paw family pages (a-paw*.html) ---------- */
+.apaw-icon{border-radius:22%;box-shadow:0 6px 16px rgba(4,52,49,.18);flex:none;display:block}
+.apaw-card{text-decoration:none;display:flex;flex-direction:column;gap:.7rem;transition:transform .15s,box-shadow .15s}
+.apaw-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.apaw-card:focus-visible{outline:3px solid var(--orange);outline-offset:3px}
+.apaw-card-top{display:flex;align-items:center;gap:.9rem}
+.apaw-card-top h3{margin:0}
+.apaw-card p{margin:0}
+.apaw-more{margin-top:auto;color:var(--orange-2);font-weight:700;font-size:.95rem}
+.apaw-status{display:inline-block;margin-top:.3rem;font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:.22rem .6rem}
+.s-live{background:#DFF0E1;color:#1E6B2A}
+.s-dev{background:#FFE7D1;color:#9A4A00}
+.s-plan{background:var(--ivory-2);color:var(--muted)}
+.apaw-ai{list-style:none;margin:.4rem 0 0;padding:0;display:grid;gap:.75rem}
+.apaw-ai li{display:flex;gap:.8rem;align-items:flex-start}
+.apaw-tag{flex:none;min-width:6.6rem;text-align:center;font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:.25rem .5rem;margin-top:.1rem}
+.t-today{background:var(--nile);color:var(--ivory)}
+.t-soon{background:var(--orange);color:#fff}
+.t-planned{background:var(--ivory-2);color:var(--muted)}
+.apaw-ai-grid .card h3{font-size:1.15rem}
+.apaw-back{color:rgba(242,235,221,.85);text-decoration:none;font-weight:700;font-size:.92rem;margin-bottom:1.2rem;display:inline-block}
+.apaw-back:hover{color:var(--orange)}
+.apaw-hero-id{display:flex;align-items:center;gap:1.2rem;margin-bottom:.4rem}
+.apaw-hero-id h1{margin:0}
+.apaw-hero-status{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem;color:rgba(242,235,221,.85);margin-top:.4rem}
+.apaw-hero-status .apaw-status{margin-top:0}
+.apaw-big{font-family:var(--display);font-size:1.35rem;line-height:1.3;margin:.6rem 0 0}
+.apaw-cols{grid-template-columns:repeat(2,1fr);column-gap:2rem}
+.apaw-pager{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem}
+@media (max-width:760px){.apaw-cols{grid-template-columns:1fr}.apaw-pager{grid-template-columns:1fr}.apaw-hero-id{flex-direction:column;align-items:flex-start}}
