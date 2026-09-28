@@ -407,3 +407,8 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .apaw-cols{grid-template-columns:repeat(2,1fr);column-gap:2rem}
 .apaw-pager{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem}
 @media (max-width:760px){.apaw-cols{grid-template-columns:1fr}.apaw-pager{grid-template-columns:1fr}.apaw-hero-id{flex-direction:column;align-items:flex-start}}
+
+/* ---------- card icons (a-Paw icon pack, inline SVG) ---------- */
+.card-ico{display:inline-grid;place-items:center;width:52px;height:52px;border-radius:16px;background:var(--ivory);color:var(--nile);margin-bottom:.9rem}
+.card-ico svg{display:block}
+.card.nile .card-ico,.card.deep .card-ico{background:rgba(242,235,221,.1);color:var(--orange)}
