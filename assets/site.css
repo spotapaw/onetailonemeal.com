@@ -412,3 +412,17 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .card-ico{display:inline-grid;place-items:center;width:52px;height:52px;border-radius:16px;background:var(--ivory);color:var(--nile);margin-bottom:.9rem}
 .card-ico svg{display:block}
 .card.nile .card-ico,.card.deep .card-ico{background:rgba(242,235,221,.1);color:var(--orange)}
+
+/* ---------- icons on points, stats and money lines ---------- */
+.li-ico{flex:none;display:inline-grid;place-items:center;width:34px;height:34px;border-radius:11px;background:var(--ivory);color:var(--nile)}
+.li-ico svg{display:block}
+.checks.ilist li{align-items:center;gap:.8rem}
+.checks.ilist li::before,.rules.ilist li::before{display:none}
+.rules.ilist li{padding-left:0;display:flex;align-items:center;gap:.8rem}
+.nile-bg .li-ico,.card.nile .li-ico,.card.deep .li-ico,.goal .li-ico,.phero .li-ico,.hero .li-ico{background:rgba(242,235,221,.12);color:var(--orange)}
+.goal li span{display:inline-flex;align-items:center;gap:.7rem}
+.goal .li-ico{width:30px;height:30px}
+.stat .li-ico{margin-bottom:.5rem}
+.li-ico{background:#fff;box-shadow:0 0 0 1px var(--line)}
+.card .li-ico{background:var(--ivory);box-shadow:none}
+.nile-bg .li-ico,.card.nile .li-ico,.card.deep .li-ico,.goal .li-ico,.phero .li-ico,.hero .li-ico{box-shadow:none}
