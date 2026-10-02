@@ -426,3 +426,13 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .li-ico{background:#fff;box-shadow:0 0 0 1px var(--line)}
 .card .li-ico{background:var(--ivory);box-shadow:none}
 .nile-bg .li-ico,.card.nile .li-ico,.card.deep .li-ico,.goal .li-ico,.phero .li-ico,.hero .li-ico{box-shadow:none}
+
+/* a-Paw app pages: real screens + skins */
+.apaw-shots{display:flex;gap:1rem;overflow-x:auto;padding:.4rem .2rem 1rem;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+.apaw-shot{flex:none;width:200px;margin:0;scroll-snap-align:start;text-align:center}
+.apaw-shot img{width:100%;height:auto;border-radius:22px;border:1px solid var(--sand);box-shadow:0 10px 26px rgba(4,52,49,.14);background:var(--ivory-2)}
+.apaw-shot figcaption{font-size:.86rem;margin-top:.55rem;color:var(--nile);line-height:1.35}
+.apaw-shot-sm{width:150px}
+.apaw-skins-art{display:block;width:100%;max-width:760px;height:auto;margin:1.6rem auto 0;border-radius:22px;border:1px solid var(--sand)}
+.apaw-cols{grid-template-columns:repeat(auto-fit,minmax(260px,1fr));column-gap:1.4rem}
+@media (max-width:600px){.apaw-shot{width:170px}.apaw-shot-sm{width:130px}}
