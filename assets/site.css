@@ -436,3 +436,9 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .apaw-skins-art{display:block;width:100%;max-width:760px;height:auto;margin:1.6rem auto 0;border-radius:22px;border:1px solid var(--sand)}
 .apaw-cols{grid-template-columns:repeat(auto-fit,minmax(260px,1fr));column-gap:1.4rem}
 @media (max-width:600px){.apaw-shot{width:170px}.apaw-shot-sm{width:130px}}
+/* Help & support on app pages (8 Oct 2026) */
+.apaw-steps{margin:.4rem 0 0;padding-left:1.3rem;display:flex;flex-direction:column;gap:.5rem}
+.apaw-faq{border:1px solid var(--line,#E6DFD1);border-radius:14px;background:#FFFCF7;padding:.7rem .9rem;margin:.5rem 0}
+.apaw-faq summary{cursor:pointer;font-weight:800;color:#1F5148}
+.apaw-faq p{margin:.5rem 0 0}
+.apaw-help-links{margin-top:1.4rem;display:flex;flex-wrap:wrap;gap:.4rem .6rem;font-weight:700}
