@@ -11,7 +11,6 @@ window.ROUND_DATA = {
  "days": [
   {
    "task_id": "d01",
-   "revision": "r1",
    "date": "2026-10-16",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -25,7 +24,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "This is the truck we're building. 🧡\nEvery morning, leftovers from our neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "This is the truck we're building. 🧡\nThe plan: every morning, leftovers from neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -39,36 +38,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "This is the truck we're building. 🧡\nEvery morning, leftovers from our neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "This is the truck we're building. 🧡\nThe plan: every morning, leftovers from neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "This is the truck we're building. 🧡\nEvery morning, leftovers from our neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "This is the truck we're building. 🧡\nThe plan: every morning, leftovers from neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "This is the truck we're building. 🧡\nEvery morning, leftovers from our neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "This is the truck we're building. 🧡\nThe plan: every morning, leftovers from neighbourhood butchers become a warm meal for Cairo's street animals, served on a plate they can eat.\nNo stray should go hungry.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 1: A day on the round (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "This is the truck we're building: neighbourhood butchers' leftovers become warm meals for Cairo's street animals, served on plates they can eat. 🧡 (AI concept) onetailonemeal.com",
+     "text": "This is the truck we're building: the plan is to turn neighbourhood butchers' leftovers into warm meals for Cairo's street animals, served on plates they can eat. 🧡 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "f5b971e2d49f0b46fe44bf197ca7d65be8243b9c27a40e3ef5716af007eb2e4c"
+   "revision": "c0f4c587816",
+   "fingerprint": "0f4c587816794b9b0ac88e25ac7f45e4aa920303353bfb6fd457ecb0c5a3614e"
   },
   {
    "task_id": "d02",
-   "revision": "r1",
    "date": "2026-10-17",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -82,7 +81,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "Our plates are made of carrot and potato. 🥕\nThe dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "We're designing plates made of carrot and potato. 🥕\nThe idea: dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -96,36 +95,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "Our plates are made of carrot and potato. 🥕\nThe dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "We're designing plates made of carrot and potato. 🥕\nThe idea: dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "Our plates are made of carrot and potato. 🥕\nThe dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "We're designing plates made of carrot and potato. 🥕\nThe idea: dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "Our plates are made of carrot and potato. 🥕\nThe dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "We're designing plates made of carrot and potato. 🥕\nThe idea: dogs and cats eat the meal, then the plate, and the pavement stays clean.\nNothing left behind.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 2: The plate you can eat (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "Our plates are carrot and potato. Dogs and cats eat the meal, then the plate. Nothing left behind. 🥕 (AI concept) onetailonemeal.com",
+     "text": "We're designing plates made of carrot and potato, so dogs and cats eat the meal, then the plate. Nothing left behind. 🥕 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "03726546199020f08d85a478336f019c45d1ee210a09e41d256520378775b2c7"
+   "revision": "cc5877e56cf",
+   "fingerprint": "c5877e56cfb5ee0a22dac91d8ada66f750d3098034f09c3b929083058e22f94b"
   },
   {
    "task_id": "d03",
-   "revision": "r1",
    "date": "2026-10-18",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -139,7 +138,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nThen the truck's lights turn the corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nWe're building the truck whose lights will turn that corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -153,36 +152,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nThen the truck's lights turn the corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nWe're building the truck whose lights will turn that corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nThen the truck's lights turn the corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nWe're building the truck whose lights will turn that corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nThen the truck's lights turn the corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "After dark, the cats in a Cairo lane wait for someone to remember them. 🌙\nWe're building the truck whose lights will turn that corner.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 3: The night colony (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "After dark, a Cairo lane full of cats waits. Then the truck's lights turn the corner. 🌙 (AI concept) onetailonemeal.com",
+     "text": "After dark, a Cairo lane full of cats waits. We're building the truck whose lights will turn that corner. 🌙 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "311cb2f9c9c9321f7fd243aa370154501f80a2c667cb2b0301232a94dfc0b2fb"
+   "revision": "c70340f361e",
+   "fingerprint": "70340f361e39abee8148f51e700f4c2d71e299ad51c7498913c8ce25f293defb"
   },
   {
    "task_id": "d04",
-   "revision": "r1",
    "date": "2026-10-19",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -196,7 +195,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "One butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nThank you, neighbourhood.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Picture it: one butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nCould your neighbourhood be next?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -210,36 +209,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "One butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nThank you, neighbourhood.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Picture it: one butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nCould your neighbourhood be next?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "One butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nThank you, neighbourhood.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Picture it: one butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nCould your neighbourhood be next?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "One butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nThank you, neighbourhood.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "Picture it: one butcher says yes. Then another. Then a third. 🧡\nThat's the plan: every week, leftovers from neighbourhood butchers become warm meals for street animals.\nCould your neighbourhood be next?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 4: The butchers' yes (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "One butcher says yes. Then another. Then a third. Every week, leftovers become meals for street animals. Thank you, neighbourhood. 🧡 (AI concept) onetailonemeal.com",
+     "text": "The plan: one butcher says yes, then another, then a third. Every week, leftovers become meals for street animals. 🧡 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "d50a67faccb73881f52724be1ab713f1d5b2107594c4780c8bc7414074694119"
+   "revision": "c4993f6f6f0",
+   "fingerprint": "4993f6f6f027ba1862cad9d96a3836e01b9fe72bff4223bcd9fcab67a7df5a79"
   },
   {
    "task_id": "d05",
-   "revision": "r1",
    "date": "2026-10-20",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -253,7 +252,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nThe round runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nWe want a round that runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -267,36 +266,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nThe round runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nWe want a round that runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nThe round runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nWe want a round that runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nThe round runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "When it rains in Cairo, street animals have nowhere to go. 🌧️\nWe want a round that runs anyway: a warm meal under an awning, on a plate they can eat.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 5: The rainy round (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "Rain in Cairo, and street animals have nowhere to go. The round runs anyway. 🌧️ (AI concept) onetailonemeal.com",
+     "text": "Rain in Cairo, and street animals have nowhere to go. We want a round that runs anyway. 🌧️ (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "b8548bde652fe4ef8d83b5d52c44b74bd797041dafa96e5c777f093daf715336"
+   "revision": "c7c2f2c3fa6",
+   "fingerprint": "7c2f2c3fa6daafd358860486ad97d362c2a4d7d5cbc4f5cb5fe32a26283e4b92"
   },
   {
    "task_id": "d06",
-   "revision": "r1",
    "date": "2026-10-21",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -310,7 +309,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "One small puppy followed the truck all day. 🐶\nGuess who got the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Imagine one small puppy following the truck all day. 🐶\nGuess who gets the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -324,36 +323,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "One small puppy followed the truck all day. 🐶\nGuess who got the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Imagine one small puppy following the truck all day. 🐶\nGuess who gets the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "One small puppy followed the truck all day. 🐶\nGuess who got the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Imagine one small puppy following the truck all day. 🐶\nGuess who gets the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "One small puppy followed the truck all day. 🐶\nGuess who got the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "Imagine one small puppy following the truck all day. 🐶\nGuess who gets the last plate?\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 6: The puppy who followed (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "One small puppy followed the truck all day. Guess who got the last plate? 🐶 (AI concept) onetailonemeal.com",
+     "text": "Imagine one small puppy following the truck all day. Guess who gets the last plate? 🐶 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "37844bd34910c9279b92d19bc5606d73111c1a3b420e028b47cfc575f3d016ca"
+   "revision": "cedc5bdc70f",
+   "fingerprint": "edc5bdc70f03c0a6056feb8ed344942d9990085ccdd82a272d53ee74ec031882"
   },
   {
    "task_id": "d07",
-   "revision": "r1",
    "date": "2026-10-22",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -367,7 +366,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "The round by the sea. 🌅\nSunrise in Alexandria, and the harbour cats are first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "One day, the round by the sea. 🌅\nSunrise in Alexandria, with the harbour cats first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -381,36 +380,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "The round by the sea. 🌅\nSunrise in Alexandria, and the harbour cats are first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "One day, the round by the sea. 🌅\nSunrise in Alexandria, with the harbour cats first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "The round by the sea. 🌅\nSunrise in Alexandria, and the harbour cats are first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "One day, the round by the sea. 🌅\nSunrise in Alexandria, with the harbour cats first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "The round by the sea. 🌅\nSunrise in Alexandria, and the harbour cats are first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "One day, the round by the sea. 🌅\nSunrise in Alexandria, with the harbour cats first in line.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 7: Alexandria (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "Sunrise in Alexandria, and the harbour cats are first in line. 🌅 (AI concept) onetailonemeal.com",
+     "text": "One day: sunrise in Alexandria, with the harbour cats first in line. 🌅 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "9cfc76ad44c975490185867fcdaae68e2da2d489ff9758b9fbd05cb8c792d34d"
+   "revision": "c4c12bf4d0e",
+   "fingerprint": "4c12bf4d0ef0092358bdbf733f28c5e3e7e89ef97900fae1be0c2bfe04e2fac3"
   },
   {
    "task_id": "d08",
-   "revision": "r1",
    "date": "2026-10-23",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -424,7 +423,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "It starts with one truck in Cairo.\nThen Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "It starts with one truck in Cairo.\nOur dream: then Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -438,36 +437,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "It starts with one truck in Cairo.\nThen Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "It starts with one truck in Cairo.\nOur dream: then Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "It starts with one truck in Cairo.\nThen Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "It starts with one truck in Cairo.\nOur dream: then Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "It starts with one truck in Cairo.\nThen Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "It starts with one truck in Cairo.\nOur dream: then Istanbul. Then Bangkok. Then every city where street animals go hungry.\nOne truck, then a fleet.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 8: One truck, then a fleet (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "It starts with one truck in Cairo. Then Istanbul. Then Bangkok. One truck, then a fleet. (AI concept) onetailonemeal.com",
+     "text": "It starts with one truck in Cairo. Our dream: then Istanbul, then Bangkok. One truck, then a fleet. (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "2733c3153bc929ebdb9298e0efd87f5ce1537385741440891233c685afc41f3e"
+   "revision": "c6e39768b59",
+   "fingerprint": "6e39768b59ec1ec9a1a5791a708163a55cdf6a0ac9cbecec35c619676164e56c"
   },
   {
    "task_id": "d09",
-   "revision": "r1",
    "date": "2026-10-24",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -481,7 +480,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats eat side by side, and by morning the street is calm. 🧡\nA fed street is a calm street.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats can eat side by side, and the street can be calm. 🧡\nA fed street is a calm street. That's what we're building towards.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -495,36 +494,36 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats eat side by side, and by morning the street is calm. 🧡\nA fed street is a calm street.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats can eat side by side, and the street can be calm. 🧡\nA fed street is a calm street. That's what we're building towards.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats eat side by side, and by morning the street is calm. 🧡\nA fed street is a calm street.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats can eat side by side, and the street can be calm. 🧡\nA fed street is a calm street. That's what we're building towards.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats eat side by side, and by morning the street is calm. 🧡\nA fed street is a calm street.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "Hungry dogs are scared dogs. Hunger starts the fights.\nFed, dogs and cats can eat side by side, and the street can be calm. 🧡\nA fed street is a calm street. That's what we're building towards.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 9: A Calm Street (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "Hungry dogs are scared dogs. Fed, they eat side by side, and the street is calm. A fed street is a calm street. 🧡 (AI concept) onetailonemeal.com",
+     "text": "Hungry dogs are scared dogs. Fed, they can eat side by side, and the street can be calm. A fed street is a calm street. 🧡 (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "596e8e5bf4f1ea3890cb95201d4398ecf32451a57877bd2ba8cbbdca0cc7afad"
+   "revision": "c4c8fb95d09",
+   "fingerprint": "4c8fb95d09b1299e956185faf591575fde63109a2c95d1693326f442b6aa4091"
   },
   {
    "task_id": "d10",
-   "revision": "r1",
    "date": "2026-10-25",
    "time": "19:00",
    "timezone": "Australia/Sydney",
@@ -538,7 +537,7 @@ window.ROUND_DATA = {
      "platform": "instagram",
      "format": "reel",
      "label": "Instagram Reel",
-     "text": "Every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Our plan: every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
@@ -552,44 +551,44 @@ window.ROUND_DATA = {
      "platform": "facebook",
      "format": "reel",
      "label": "Facebook Reel",
-     "text": "Every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Our plan: every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "tiktok",
      "format": "video",
      "label": "TikTok",
-     "text": "Every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
+     "text": "Our plan: every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.\n#OneTailOneMeal #Cairo #StreetDogs #StreetCats #StrayAnimals #AnimalRescue #TheRound",
      "title": ""
     },
     {
      "platform": "youtube",
      "format": "short",
      "label": "YouTube Short",
-     "text": "Every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
+     "text": "Our plan: every truck brings a real local job for a driver, rescuers and vets on every round, and neighbours who help.\nSuburb by suburb. City by city.\nOne truck becomes a community.\n\nHelp us build the first truck: link in bio, onetailonemeal.com\n\nAI concept footage of the truck we are building.",
      "title": "The Round, Ep 10: The Team (AI concept) #shorts"
     },
     {
      "platform": "twitter",
      "format": "post",
      "label": "X",
-     "text": "Every truck means a local driver's job, rescuers and vets on every round, and neighbours who help. One truck becomes a community. (AI concept) onetailonemeal.com",
+     "text": "Our plan: every truck means a local driver's job, rescuers and vets on every round, and neighbours who help. One truck becomes a community. (AI concept) onetailonemeal.com",
      "title": ""
     }
    ],
-   "fingerprint": "b8a8a99ed8844e1d7bf97e1075c4f338a4953b843506bb46726d43fd49d6cb95"
+   "revision": "ca3b6d7c5a2",
+   "fingerprint": "a3b6d7c5a2911e0aa21b264f84ec66ea4fe2f4dc40d120c3ef5317443b793eeb"
   },
   {
    "task_id": "d11",
-   "revision": "r1",
    "date": "2026-10-26",
    "time": "19:00",
    "timezone": "Australia/Sydney",
    "label": "YouTube film",
    "title": "The Round: the full film",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HYvaIoVSDigfsCRXVwbeVBNvbX/386166cf-3d55-48eb-98cc-2051041337cd.mp4",
-   "note": "On hold until the 30-second Shorts are approved. This is the side-panel film v2 for now. If the true-landscape version is finished by then, it replaces this one. Same day, Episode 1 goes out again as a Reel, TikTok and Short saying \"Watch the full film on YouTube\".",
-   "on_hold": true,
+   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HYvaIoVSDigfsCRXVwbeVBNvbX/120d6947-d3bd-48fb-a1d6-f12406e9d10a.mp4",
+   "note": "Approved 16 Oct: YouTube film v3 (4:45, landscape, built from the approved 30-second episodes with the truck title screens). If the full-frame 16:9 version is finished and approved before 26 Oct, it replaces this one. Same day, Episode 1 goes out again as a Reel, TikTok and Short saying \"Watch the full film on YouTube\".",
+   "on_hold": false,
    "placements": [
     {
      "platform": "instagram",
@@ -623,7 +622,7 @@ window.ROUND_DATA = {
      "platform": "youtube",
      "format": "video",
      "label": "YouTube video",
-     "text": "Ten short films about the food truck we're building in Cairo. Every morning, leftovers from neighbourhood butchers become a warm meal for street animals, served on a plate they can eat.\n\nNo stray should go hungry. Help us build the first truck: onetailonemeal.com\n\nAI concept footage of the truck we are building. One Tail One Meal is not a registered charity, and gifts are not tax deductible.\n\n0:00 Intro\n0:07 A day on the round\n0:59 The plate you can eat\n1:43 The night colony\n2:27 The butchers' yes\n3:11 The rainy round\n3:55 The puppy who followed\n4:39 Alexandria\n5:15 One truck, then a fleet\n6:07 A Calm Street\n6:51 The Team\n7:35 Help us build the first truck",
+     "text": "Ten short films imagining the food truck we're building for Cairo. The plan: every morning, leftovers from neighbourhood butchers become a warm meal for street animals, served on a plate they can eat. None of this is running yet; this is what we're raising money to build.\n\nNo stray should go hungry. Help us build the first truck: onetailonemeal.com\n\nAI concept footage of the truck we are building. One Tail One Meal is not a registered charity, and gifts are not tax deductible.",
      "title": "The Round: the truck we're building for Cairo's street animals (AI concept film)"
     },
     {
@@ -634,7 +633,8 @@ window.ROUND_DATA = {
      "title": ""
     }
    ],
-   "fingerprint": "ff4966f613994ab5f8399c9f415629438948a38509327292f35ee29cb3855869"
+   "revision": "cfaa21220ce",
+   "fingerprint": "faa21220cead85077c89cf31b75602469aef679b21b18fce67569a4429cc6bda"
   }
  ]
 };

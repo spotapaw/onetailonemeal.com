@@ -181,6 +181,16 @@
     try {
       const r = await api({ action: 'status' });
       live = Object.fromEntries((r.days || []).map((x) => [x.task_id, x]));
+      // Post content comes from the review service, so caption changes need no website update.
+      // campaign-data.js is only the fallback when the service can't be reached.
+      const fresh = (r.days || []).map((x) => x.snapshot).filter((x) => x && x.fingerprint).sort((a, b) => a.date.localeCompare(b.date));
+      if (fresh.length) {
+        const open = current >= 0 ? D.days[current] : null;
+        const changed = open && !fresh.some((x) => x.task_id === open.task_id && x.fingerprint === open.fingerprint);
+        D.days = fresh;
+        if (open) current = Math.max(0, D.days.findIndex((x) => x.task_id === open.task_id));
+        if (changed && $('day').open) { setState('This post was just updated. Showing the new version: review again.', 'bad'); openDay(current); }
+      }
       settings = r.settings; window.__mcReady = r.metricool_ready; window.__ownerCodeSet = r.owner_code_set;
       connected = true;
       const stale = D.days.filter((d) => live[d.task_id] && !sameRevision(d)).length;
