@@ -445,3 +445,10 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 .apaw-faq summary{cursor:pointer;font-weight:800;color:#1F5148}
 .apaw-faq p{margin:.5rem 0 0}
 .apaw-help-links{margin-top:1.4rem;display:flex;flex-wrap:wrap;gap:.4rem .6rem;font-weight:700}
+.plate-fig{margin:0;align-self:start}
+.plate-fig figcaption{font-size:.8rem;color:var(--muted);padding:.6rem .9rem;background:#fff}
+.plate-list{margin:0;padding-left:1.2rem} .plate-list li{margin:.35rem 0}
+.plate-cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.6rem}
+.concept-wrap{position:relative}
+.concept-tag{position:absolute;left:.7rem;top:.7rem;background:rgba(4,52,49,.82);color:var(--ivory);font-size:.72rem;font-weight:700;letter-spacing:.06em;padding:.25rem .55rem;border-radius:999px}
+.press-flow .shotcard img{aspect-ratio:3/2}
