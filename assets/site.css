@@ -463,3 +463,34 @@ kbd{background:var(--nile);color:var(--ivory);padding:.15rem .5rem;border-radius
 footer .foot-soc{margin-top:1.2rem}
 footer .soc{width:44px;height:44px;background:rgba(242,235,221,.1);box-shadow:none;opacity:1}
 footer .soc:hover,footer .soc:focus-visible{background:var(--orange);color:var(--deep)}
+
+/* store badges: a badge with an href is live; without one it shows greyed with "Coming soon" */
+.store-badges{display:flex;flex-wrap:wrap;gap:.7rem;margin-top:1.6rem}
+.store-badge{position:relative;z-index:1;display:inline-flex;align-items:center;gap:.55rem;min-width:150px;padding:.45rem 1rem .45rem .8rem;
+  background:#000;color:#fff;border:1px solid #a6a6a6;border-radius:10px;text-decoration:none;line-height:1.05;transition:transform .15s}
+.store-badge svg{width:24px;height:24px;flex:none}
+.store-badge span{display:flex;flex-direction:column;font-size:1.15rem;font-weight:600;letter-spacing:-.01em}
+.store-badge small{font-size:.62rem;font-weight:500;letter-spacing:.02em}
+.store-badge[href]:hover,.store-badge[href]:focus-visible{transform:translateY(-2px)}
+.store-badge:not([href]){background:#3a3a3a;border-color:#6b6b6b;cursor:default}
+.store-badge:not([href]) > *{opacity:.5;filter:grayscale(1)}
+.store-badge:not([href])::after{content:"Coming soon";position:absolute;top:-.55rem;right:-.4rem;background:var(--ivory);color:var(--deep);
+  font-size:.58rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:.12rem .4rem;border-radius:999px}
+.sb-sm{margin-top:.2rem;gap:.5rem}
+.sb-sm .store-badge{min-width:0;padding:.32rem .65rem .32rem .5rem;border-radius:8px;gap:.4rem}
+.sb-sm .store-badge svg{width:17px;height:17px}
+.sb-sm .store-badge span{font-size:.82rem}
+.sb-sm .store-badge small{font-size:.5rem}
+/* overview cards: the "Read more" link covers the card; badges sit above it */
+.apaw-card{position:relative}
+.apaw-more{text-decoration:none}
+.apaw-more::after{content:"";position:absolute;inset:0;border-radius:inherit}
+.apaw-card:has(.apaw-more:focus-visible){outline:3px solid var(--orange);outline-offset:3px}
+.apaw-more:focus-visible{outline:none}
+.store-badges + .hero-cta{margin-top:1rem}
+.sb-sm{flex-wrap:nowrap;gap:.4rem;margin-top:.6rem}
+.sb-sm .store-badge{padding:.28rem .5rem .28rem .4rem;gap:.3rem}
+.sb-sm .store-badge svg{width:15px;height:15px}
+.sb-sm .store-badge span{font-size:.74rem;white-space:nowrap}
+.sb-sm .store-badge small{font-size:.46rem}
+.sb-sm .store-badge:not([href])::after{font-size:.5rem;top:-.5rem;right:-.3rem;padding:.08rem .32rem}

@@ -46,7 +46,10 @@
     $('campaign-title').textContent = D.title;
     $('cards').innerHTML = D.days.map((d, i) => {
       const [label, cls] = dayStatus(d);
-      return `<button class="card" type="button" data-i="${i}"><video src="${esc(d.video_url)}#t=1" preload="metadata" muted playsinline aria-hidden="true" tabindex="-1"></video>
+      const thumb = d.cover_url
+        ? `<img class="thumb" src="${esc(d.cover_url)}" alt="" loading="lazy">`
+        : `<video src="${esc(d.video_url)}#t=1" preload="metadata" muted playsinline aria-hidden="true" tabindex="-1"></video>`;
+      return `<button class="card" type="button" data-i="${i}">${thumb}
         <div class="body"><div class="date">${esc(fmtDate(d.date))} · ${esc(d.time)}</div><div class="ttl">${esc(d.label)}: ${esc(d.title)}</div><span class="pill ${cls}">${esc(label)}</span></div></button>`;
     }).join('');
   }
@@ -100,6 +103,10 @@
     $('d-pill').textContent = label; $('d-pill').className = 'pill ' + cls;
     $('d-note').hidden = !d.note; $('d-note').textContent = d.note || '';
     const v = $('d-video'); if (v.getAttribute('src') !== d.video_url) v.src = d.video_url;
+    if (d.cover_url) v.poster = d.cover_url; else v.removeAttribute('poster');
+    $('d-cover').innerHTML = d.cover_url
+      ? `<span class="small">Cover image (Instagram, TikTok, YouTube):</span><img src="${esc(d.cover_url)}" alt="Cover image for ${esc(d.title)}">`
+      : '<span class="small">Cover image: not added yet. The platforms will pick a frame from the video.</span>';
     $('d-prev').disabled = i === 0; $('d-next').disabled = i === D.days.length - 1;
     document.querySelectorAll('.choices button').forEach((b) => b.setAttribute('aria-checked', 'false'));
     $('rv-msg').value = '';
