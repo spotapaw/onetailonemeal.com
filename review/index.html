@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#1F5148">
+<title>Review Room · One Tail One Meal</title>
+<meta property="og:title" content="The Round · review room">
+<meta property="og:description" content="Review One Tail One Meal's daily posts before they go out.">
+<link rel="icon" href="assets/logo.png">
+<link rel="stylesheet" href="hub.css?v=1">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#"><img src="assets/logo.png" alt="One Tail One Meal" width="44" height="44"><span>REVIEW ROOM</span></a>
+  <button id="owner-toggle" class="ghost" type="button">Owner</button>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">THE ROUND · DAILY POSTS</p>
+    <h1>Every post, checked before it goes out<span>.</span></h1>
+    <p class="lead" id="lead">One post a day at 7:00 pm Sydney time, on Instagram, Facebook, TikTok, YouTube and X.</p>
+    <ol class="flow" aria-label="How a post moves">
+      <li>Review</li><li>Approved</li><li>Sent to Metricool</li><li>Scheduled</li><li>Published</li>
+    </ol>
+  </section>
+
+  <section id="owner-panel" class="owner" hidden>
+    <div class="owner-head">
+      <div><h2>Owner controls</h2><p class="small">Only Ashraf's decisions approve a post. Everyone else's review is saved as feedback.</p></div>
+      <span id="owner-badge" class="pill muted">Not signed in as owner</span>
+    </div>
+    <form id="owner-form" class="row" autocomplete="off">
+      <label class="field grow">Owner code<input id="owner-code" type="password" autocomplete="current-password" maxlength="200"></label>
+      <label class="check"><input id="owner-remember" type="checkbox"> Remember on this device</label>
+      <button class="primary" type="submit">Check code</button>
+    </form>
+    <p id="owner-msg" class="small" role="status"></p>
+    <div id="mc-panel" class="mc" hidden>
+      <h3>Metricool</h3>
+      <p id="mc-state" class="small"></p>
+      <div class="row wrap">
+        <button id="mc-verify" class="secondary" type="button">Check Metricool connection</button>
+        <label class="switch"><input id="mc-enabled" type="checkbox"> Sending to Metricool on</label>
+        <label class="switch"><input id="mc-auto" type="checkbox"> Auto-schedule approved posts</label>
+      </div>
+      <p id="mc-msg" class="small" role="status"></p>
+    </div>
+  </section>
+
+  <section class="days">
+    <div class="days-head">
+      <h2 id="campaign-title">The Round</h2>
+      <div id="connection" class="connection" role="status">Checking the review service…</div>
+    </div>
+    <div id="cards" class="cards"></div>
+  </section>
+</main>
+
+<dialog id="day">
+  <div class="sheet">
+    <div class="sheet-top">
+      <div><p class="eyebrow" id="d-eyebrow"></p><h2 id="d-title"></h2></div>
+      <button id="d-close" class="icon" type="button" aria-label="Close">✕</button>
+    </div>
+    <div class="nav"><button id="d-prev" type="button">← Previous day</button><span id="d-pill" class="pill"></span><button id="d-next" type="button">Next day →</button></div>
+    <p id="d-note" class="note" hidden></p>
+    <div class="layout">
+      <div class="media"><video id="d-video" controls playsinline preload="metadata"></video><p class="small" id="d-time"></p></div>
+      <div class="detail">
+        <div class="tabs" role="tablist" id="d-tabs"></div>
+        <div id="d-copy" class="copy"></div>
+
+        <section class="review" aria-labelledby="rv-h">
+          <h3 id="rv-h">Your review</h3>
+          <p class="small" id="rv-scope">This covers the video, every platform's text and the posting time for this day.</p>
+          <label class="field">Your name<input id="rv-name" autocomplete="name" maxlength="100"></label>
+          <div class="choices" role="radiogroup" aria-label="Decision">
+            <button type="button" data-d="yes" role="radio" aria-checked="false">Yes</button>
+            <button type="button" data-d="changes_needed" role="radio" aria-checked="false">Changes needed</button>
+            <button type="button" data-d="no" role="radio" aria-checked="false">No</button>
+          </div>
+          <label class="field">Feedback <span id="rv-req" class="small"></span><textarea id="rv-msg" rows="3" maxlength="3000"></textarea></label>
+          <input id="rv-website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <div class="row"><button id="rv-save" class="primary" type="button">Save review</button><span id="rv-state" class="state" role="status">Not saved</span></div>
+          <p class="small" id="rv-last"></p>
+        </section>
+
+        <section class="publish" aria-labelledby="pb-h">
+          <h3 id="pb-h">Publishing</h3>
+          <ul id="pb-list" class="plist"></ul>
+          <div class="row"><button id="pb-send" class="primary" type="button" hidden>Send to Metricool</button><span id="pb-state" class="state" role="status"></span></div>
+          <p class="small">Saving a review never posts anything. A post shows Scheduled only after Metricool gives it an ID and its queue confirms it, and Published only with the live link.</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<footer><p>One Tail One Meal · Review room · Nothing is posted by saving a review.</p></footer>
+<script src="config.js"></script>
+<script src="campaign-data.js"></script>
+<script src="hub.js?v=1"></script>
+</body>
+</html>
