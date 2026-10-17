@@ -30,6 +30,7 @@
     if (!s) return connected ? ['Not in the review service', 'bad'] : ['Awaiting review', 'muted'];
     if (!sameRevision(day)) return ['Page out of date: refresh', 'bad'];
     const pubs = s.publications || [];
+    if (pubs.some((p) => p.state === 'published')) return ['Published', 'ok'];
     if (pubs.some((p) => p.attention)) return ['Needs attention', 'bad'];
     if (pubs.length && pubs.every((p) => p.state === 'published')) return ['Published', 'ok'];
     if (pubs.some((p) => p.state === 'uncertain' || p.state === 'failed')) return ['Check Metricool', 'warn'];
@@ -155,7 +156,44 @@
     await refresh(); renderPublish(d);
   }
 
+  // Days still needing Ashraf's yes: current, not on hold, not already approved, sent, scheduled or published.
+  function pendingDays() {
+    return D.days.filter((d) => {
+      const s = live[d.task_id];
+      if (d.on_hold || !s || !sameRevision(d)) return false;
+      if (s.owner_decision && s.owner_decision.decision === 'yes') return false;
+      return !(s.publications || []).some((p) => p.state !== 'draft');
+    });
+  }
+
+  async function approveAll() {
+    if (!isOwner) {
+      $('owner-panel').hidden = false; $('owner-code').focus();
+      $('owner-msg').textContent = 'Enter your owner code first, then press Approve all again.';
+      $('owner-panel').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      return;
+    }
+    const days = pendingDays();
+    if (!days.length) return;
+    if (!confirm(`Approve ${days.length} post${days.length > 1 ? 's' : ''} (${days.map((d) => d.label).join(', ')})? Each will be scheduled for 7 pm on its date. A post that changes later comes back for review.`)) return;
+    const btn = $('approve-all'); btn.disabled = true;
+    let ok = 0; const failed = [];
+    for (const d of days) {
+      btn.textContent = `Approving ${ok + failed.length + 1} of ${days.length}…`;
+      try {
+        const r = await api({ action: 'submit', p_task: d.task_id, p_revision: d.revision, p_fingerprint: d.fingerprint, p_reviewer: 'Ashraf', p_decision: 'yes', p_message: 'Approved with Approve all', p_request_id: uuid(), p_website: '', owner_code: ownerCode });
+        if (r.receipt_id && r.is_owner) ok++; else failed.push(d.label);
+      } catch { failed.push(d.label); }
+    }
+    btn.disabled = false;
+    await refresh();
+    alert(failed.length ? `Approved ${ok}. Not saved: ${failed.join(', ')}. Try again.` : `Approved ${ok} post${ok > 1 ? 's' : ''}.`);
+  }
+
   function renderOwner() {
+    const n = connected ? pendingDays().length : 0;
+    $('approve-all').hidden = !n;
+    if (n && !$('approve-all').disabled) $('approve-all').textContent = `Approve all remaining (${n})`;
     $('owner-badge').textContent = isOwner ? 'Owner' : 'Not signed in as owner';
     $('owner-badge').className = 'pill ' + (isOwner ? 'ok' : 'muted');
     $('mc-panel').hidden = !isOwner;
@@ -228,6 +266,7 @@
   $('rv-name').addEventListener('input', onReviewEdit);
   $('rv-msg').addEventListener('input', onReviewEdit);
   $('rv-save').onclick = saveReview;
+  $('approve-all').onclick = approveAll;
   $('pb-send').onclick = sendDay;
   $('owner-toggle').onclick = () => { $('owner-panel').hidden = !$('owner-panel').hidden; if (!$('owner-panel').hidden) $('owner-code').focus(); };
   $('owner-form').addEventListener('submit', (e) => { e.preventDefault(); checkOwner($('owner-code').value, $('owner-remember').checked); });
