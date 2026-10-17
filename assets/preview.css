@@ -394,3 +394,5 @@ h1,h2,h3,h4,h5{color:var(--nile)}
   body{padding-bottom:calc(84px + env(safe-area-inset-bottom))}
 }
 @media (max-width:860px){.nav .nav-toggle{display:none}.nav .nav-links{display:none!important}.nav-donate{margin-left:auto}}
+.h1-sub,.h1-sub .nw{background:none!important;text-decoration:none!important;border-bottom:0!important}
+.h1-sub::after,.h1-sub::before{display:none!important}
