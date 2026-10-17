@@ -400,11 +400,11 @@ h1,h2,h3,h4,h5{color:var(--nile)}
 /* Truck tab bounces like it hits potholes; the bar's background is the Cairo street rolling past */
 @keyframes mbarBump{0%,100%{transform:translateY(0)}8%{transform:translateY(-3px)}14%{transform:translateY(0)}20%{transform:translateY(-1px)}26%{transform:translateY(0)}58%{transform:translateY(0)}64%{transform:translateY(-4px)}70%{transform:translateY(.5px)}76%{transform:translateY(-1.5px)}82%{transform:translateY(0)}}
 .mbar .mbar-truck{animation:mbarBump 1.8s linear infinite;will-change:transform}
-@keyframes mbarStreet{from{background-position:0 0,0 100%,0 0}to{background-position:0 0,-1040px 100%,-610px 0}}
+@keyframes mbarStreet{from{background-position:0 0,0 32px,0 -26px}to{background-position:0 0,-1040px 32px,-610px -26px}}
 @media (max-width:860px){
-  .mbar{background:linear-gradient(rgba(24,63,56,.72),rgba(24,63,56,.55)),url(img/pv/mbar-road.jpg?v=1) 0 100%/auto 14px repeat-x,url(img/pv/mbar-street.jpg?v=1) 0 0/auto 64px repeat-x,#183F38;
+  .mbar{background:linear-gradient(rgba(24,63,56,.72),rgba(24,63,56,.55)),url(img/pv/mbar-road.jpg?v=1) 0 32px/auto 8px repeat-x,url(img/pv/mbar-street.jpg?v=1) 0 -26px/auto 64px repeat-x,#183F38;
     background-blend-mode:normal;overflow:hidden;animation:mbarStreet 30s linear infinite}
-  .mbar a{text-shadow:0 1px 3px rgba(0,0,0,.75);color:#F2EBDD}
+  .mbar a{text-shadow:0 1px 3px rgba(0,0,0,.75);color:#F2EBDD;gap:.5rem}
   .mbar a svg{filter:drop-shadow(0 1px 2px rgba(0,0,0,.7))}
   .mbar a.on{color:var(--orange)}
 }
