@@ -383,12 +383,13 @@ h1,h2,h3,h4,h5{color:var(--nile)}
 /* Mobile section bar: always-visible tabs along the bottom on phones */
 .mbar{display:none}
 @media (max-width:860px){
-  .mbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;background:#183F38;
-    border-top:1px solid rgba(242,235,221,.14);box-shadow:0 -8px 24px rgba(0,0,0,.18);
-    padding:.35rem .25rem calc(.35rem + env(safe-area-inset-bottom))}
+  .mbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:60;
+    background:rgba(24,63,56,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+    border:1px solid rgba(242,235,221,.16);border-radius:22px;box-shadow:0 12px 30px rgba(0,0,0,.32);
+    padding:.3rem .25rem}
   .mbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:.15rem;padding:.3rem 0;
     color:rgba(242,235,221,.78);text-decoration:none;font:600 .72rem/1.1 var(--body);border-radius:12px}
   .mbar a.on{color:var(--orange)}
   .mbar a:active{background:rgba(242,235,221,.08)}
-  body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
+  body{padding-bottom:calc(84px + env(safe-area-inset-bottom))}
 }
