@@ -397,3 +397,7 @@ h1,h2,h3,h4,h5{color:var(--nile)}
 .h1-sub,.h1-sub .nw{background:none!important;text-decoration:none!important;border-bottom:0!important}
 .h1-sub::after,.h1-sub::before{display:none!important}
 .mbar .mbar-truck{width:auto;height:22px;object-fit:contain;display:block}
+/* Truck tab: a gentle drive, small road bumps and a little roll forward and back */
+@keyframes mbarDrive{0%,100%{transform:translateX(-3px) translateY(0)}20%{transform:translateX(-1px) translateY(-1.5px)}40%{transform:translateX(1px) translateY(0)}60%{transform:translateX(3px) translateY(-1px)}80%{transform:translateX(1px) translateY(0)}}
+.mbar .mbar-truck{animation:mbarDrive 2.4s ease-in-out infinite;will-change:transform}
+@media (prefers-reduced-motion:reduce){.mbar .mbar-truck{animation:none}}
