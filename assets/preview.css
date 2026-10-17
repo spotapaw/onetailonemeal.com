@@ -363,3 +363,19 @@ h2 .accent.accent-green,h1 .accent.accent-green{color:var(--nile)!important;text
 h1,h2,h3,h4,h5{color:var(--nile)}
 :where(.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero-grid,.why,.cost-sum,.drive) :is(h1,h2,h3,h4,h5){color:inherit}
 .shotcard :is(h3,h4),.ap-row .ap-row-txt h3{color:var(--nile)}
+
+/* Two apps: Spot-a-Paw and the a-Paw Family */
+.fam-spot{max-width:420px}
+.fam-card{padding:1.6rem}
+.fam-head{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin-bottom:1.2rem}
+.fam-head h3{margin:0 0 .35rem}
+.fam-icons{display:grid;grid-template-columns:repeat(3,40px);gap:6px}
+.fam-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.fam-sec{background:#fff;border-radius:16px;padding:1rem;box-shadow:0 2px 10px rgba(31,81,72,.08);scroll-margin-top:90px}
+.fam-sec-top{display:flex;align-items:center;gap:.7rem;margin-bottom:.5rem}
+.fam-sec-top h3{margin:0}
+.fam-sec p{margin:.3rem 0;font-size:.95rem}
+.fam-meals{color:var(--nile,#1F5148)}
+.fam-note{margin-top:1.2rem}
+@media(max-width:900px){.fam-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.fam-grid{grid-template-columns:1fr}.fam-spot{max-width:none}}
