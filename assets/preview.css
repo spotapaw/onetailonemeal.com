@@ -409,3 +409,4 @@ h1,h2,h3,h4,h5{color:var(--nile)}
   .mbar a.on{color:var(--orange)}
 }
 @media (prefers-reduced-motion:reduce){.mbar .mbar-truck,.mbar{animation:none!important}}
+.goal .goal-progress{display:inline-block;margin:.7rem 0 .2rem;font-weight:700;color:var(--orange);text-decoration:underline;text-underline-offset:3px}
