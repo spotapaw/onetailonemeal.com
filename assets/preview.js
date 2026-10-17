@@ -1,0 +1,93 @@
+// Preview copy additions: word-by-word headline, scroll reveals, counting
+// stats, and the truck that drives across as you scroll.
+(function () {
+  var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // Opening a page from a link always starts at the top (unless the link points at a section).
+  try { if ('scrollRestoration' in history) history.scrollRestoration = 'manual'; } catch (e) {}
+  function toTop() { if (!location.hash) window.scrollTo(0, 0); }
+  toTop(); window.addEventListener('load', toTop); window.addEventListener('pageshow', toTop);
+
+
+  // Mark the current page in the nav.
+  var here = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.nav-links a:not(.btn)').forEach(function (a) {
+    if ((a.getAttribute('href') || '').split('#')[0] === here && here !== 'index.html') a.classList.add('on');
+  });
+
+  // Hero headline: wrap each word so it can rise in.
+  document.querySelectorAll('.phero h1').forEach(function (h) {
+    var i = 0;
+    function wrap(node) {
+      [].slice.call(node.childNodes).forEach(function (n) {
+        if (n.nodeType === 3) {
+          var frag = document.createDocumentFragment();
+          n.textContent.split(/(\s+)/).forEach(function (part) {
+            if (!part) return;
+            if (/^\s+$/.test(part)) { frag.appendChild(document.createTextNode(part)); return; }
+            var s = document.createElement('span');
+            s.className = 'w'; s.style.setProperty('--i', i++); s.textContent = part;
+            frag.appendChild(s);
+          });
+          n.parentNode.replaceChild(frag, n);
+        } else if (n.nodeType === 1) wrap(n);
+      });
+    }
+    wrap(h);
+    h.classList.add('rise');
+  });
+  document.querySelectorAll('h1 .accent, h2 .accent').forEach(function (a) { a.classList.add('draw'); });
+  setTimeout(function () { document.querySelectorAll('.phero .accent').forEach(function (a) { a.classList.add('in'); }); }, 600);
+
+  // Scroll reveals, staggered within each group.
+  var sel = 'section:not(.phero) .eyebrow, section:not(.phero) h2, section:not(.phero) .lead, ' +
+    '.shotcard, .card, .why-card, .split > *, .goal, .quote p, .plates-home .pic, .plates-home .ticks li, .drive .cta';
+  var io = new IntersectionObserver(function (es) {
+    es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { threshold: 0.15 });
+  document.querySelectorAll(sel).forEach(function (el) {
+    if (el.closest('.phero')) return;
+    var sib = el.parentElement ? [].slice.call(el.parentElement.children).indexOf(el) : 0;
+    el.style.setProperty('--d', Math.min(sib, 5) * 90 + 'ms');
+    el.classList.add('pv-r');
+    io.observe(el);
+  });
+
+  // Hero stats count up once.
+  document.querySelectorAll('.phero .stat b').forEach(function (b) {
+    var raw = b.textContent, m = raw.match(/^(\D*)([\d,]+)(.*)$/);
+    if (!m || still) return;
+    var end = +m[2].replace(/,/g, ''), t0 = null;
+    b.textContent = m[1] + '0' + m[3];
+    setTimeout(function () {
+      requestAnimationFrame(function step(t) {
+        if (!t0) t0 = t;
+        var p = Math.min(1, (t - t0) / 1400), v = Math.round(end * (1 - Math.pow(1 - p, 3)));
+        b.textContent = m[1] + v.toLocaleString('en-AU') + m[3];
+        if (p < 1) requestAnimationFrame(step);
+      });
+    }, 1300);
+  });
+
+  // The truck: its position follows how far the road has scrolled through the screen.
+  var road = document.querySelector('.road'), rig = road && road.querySelector('.truck-rig');
+  if (rig) {
+    var wheels = rig.querySelectorAll('.wheel'), ticking = false;
+    // Linear with the scroll: far left as the road enters the bottom of the screen,
+    // centred when the road is in the middle of the screen, off to the right as it leaves the top.
+    function place() {
+      ticking = false;
+      var r = road.getBoundingClientRect(), vh = window.innerHeight;
+      var p = still ? 0.5 : Math.max(0, Math.min(1, (vh - r.top) / (vh + r.height)));
+      var x = p * Math.max(0, road.clientWidth - rig.offsetWidth);
+      rig.style.setProperty('--x', x + 'px');
+      var deg = x / (rig.offsetWidth * 0.1457 * Math.PI) * 360;
+      wheels.forEach(function (w) { w.style.setProperty('--rot', deg + 'deg'); });
+      road.style.setProperty('--road', (p * 400).toFixed(1));
+      rig.style.setProperty('--dust', p > 0.02 && p < 0.98 ? 0.9 : 0);
+    }
+    function ask() { if (!ticking) { ticking = true; requestAnimationFrame(place); } }
+    window.addEventListener('scroll', ask, { passive: true });
+    window.addEventListener('resize', ask);
+    place();
+  }
+})();
