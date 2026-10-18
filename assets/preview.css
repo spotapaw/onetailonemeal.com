@@ -410,3 +410,13 @@ h1,h2,h3,h4,h5{color:var(--nile)}
 }
 @media (prefers-reduced-motion:reduce){.mbar .mbar-truck,.mbar{animation:none!important}}
 .goal .goal-progress{display:inline-block;margin:.7rem 0 .2rem;font-weight:700;color:var(--orange);text-decoration:underline;text-underline-offset:3px}
+.fam-sub{display:block;font-size:.85rem;font-weight:600;color:var(--muted,#5B6B66);margin:.1rem 0 .35rem}
+.fam-sec-top .fam-sub{margin:0}
+.fam-intro{margin:0 0 1rem;max-width:62ch}
+.fam-shots{display:flex;gap:12px;overflow-x:auto;padding:.2rem 0 .8rem;margin:0 0 1.2rem;scroll-snap-type:x mandatory}
+.fam-shots figure{margin:0;flex:0 0 150px;scroll-snap-align:start;text-align:center;font-size:.8rem;color:var(--muted,#5B6B66)}
+.fam-shots img{width:150px;height:auto;border-radius:16px;box-shadow:0 6px 18px rgba(31,81,72,.18);display:block;margin-bottom:.35rem}
+.fam-plan{margin-top:1.2rem;background:#fff;border-radius:16px;padding:1rem 1.2rem;border:2px solid var(--orange,#FF7900)}
+.fam-plan h3{margin:0 0 .4rem}
+.fam-plan p{margin:.3rem 0}
+.fam-plan .flag{vertical-align:-1px}
