@@ -459,3 +459,13 @@ h1 .accent,h2 .accent{color:var(--orange)}
 .drum-steps li.has-pic{padding:0 0 1.4rem;overflow:hidden}.drum-steps li.has-pic>:not(.card-pic){margin-left:1.4rem;margin-right:1.4rem}.drum-steps .card-pic{height:150px}
 /* Rule (Ashraf 18 Oct): text on orange is always our green, never white or black */
 .btn-orange,.nav-donate,.card-btn,.lang-switch a.on,.drum-n,.shotcard .n,.t-soon,.cost-n,.tour-ctl button,.soc:hover,.soc:focus-visible{color:var(--nile)!important}
+.ap-ico-img{overflow:hidden}.ap-ico-img img{width:70%;height:70%;object-fit:contain;display:block}
+.ap-cols{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;max-width:1000px;margin:3rem auto 0}
+@media (max-width:760px){.ap-cols{grid-template-columns:1fr}}
+.ap-col{background:#fff;border-radius:18px;padding:1.6rem 1.5rem;box-shadow:0 4px 18px rgba(31,81,72,.07)}
+.ap-col h3{font-family:var(--display,inherit);font-size:1.45rem;line-height:1.2;color:var(--nile);margin:0 0 1.1rem}
+.ap-col h3 .accent{color:var(--orange)}
+.ap-list{list-style:none;margin:0;padding:0;display:grid;gap:1rem}
+.ap-list li{display:flex;gap:.85rem;align-items:flex-start}
+.ap-list .ap-ico{width:44px;height:44px}
+.ap-list b{display:block;color:var(--nile);font-size:1.02rem;margin-bottom:.15rem}.ap-list span:not(.ap-ico){color:#4a5f5c;font-size:.95rem;line-height:1.45}

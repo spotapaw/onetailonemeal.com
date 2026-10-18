@@ -2477,8 +2477,8 @@
    "a-paw-spot.html"
   ]
  },
- "So no animal is passed by twice.": {
-  "ar": "حتى لا يُتجاهَل أي حيوان مرتين.",
+ "See it. Spot it. Save it.": {
+  "ar": "شوفه. ارصده. أنقذه.",
   "pages": [
    "a-paw.html",
    "a-paw-spot.html"
@@ -3186,20 +3186,14 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: So no animal is passed by twice. Let anyone photograph a street animal that needs help and put it on a map, so the people nearby — feeders, drivers, rescuers, vets, shelters and butchers — can sort it out between them.": {
-  "ar": "Spot-a-Paw: حتى لا يُتجاهَل أي حيوان مرتين. يتيح لأي شخص تصوير حيوان شارع يحتاج إلى مساعدة ووضعه على الخريطة، ليتولى الناس القريبون — المُطعِمون والسائقون والمنقذون والأطباء البيطريون والملاجئ والجزّارون — أمره فيما بينهم.",
+ "Spot-a-Paw: See it. Spot it. Save it. Let anyone photograph a street animal that needs help and put it on a map, so the people nearby — feeders, drivers, rescuers, vets, shelters and butchers — can sort it out between them.": {
+  "ar": "Spot-a-Paw: شوفه. ارصده. أنقذه. يتيح لأي شخص تصوير حيوان شارع يحتاج إلى مساعدة ووضعه على الخريطة، ليتولى الناس القريبون — المُطعِمون والسائقون والمنقذون والأطباء البيطريون والملاجئ والجزّارون — أمره فيما بينهم.",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "‹ The a-Paw family": {
-  "ar": "‹ عائلة a-Paw",
-  "pages": [
-   "a-paw-spot.html"
-  ]
- },
- "The main app": {
-  "ar": "التطبيق الرئيسي",
+ "Our free app": {
+  "ar": "تطبيقنا المجاني",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3282,14 +3276,80 @@
    "a-paw-spot.html"
   ]
  },
- "<b>Six roles</b><span>Feeder, driver, rescuer, vet, shelter and butcher.</span>": {
-  "ar": "<b>ستة أدوار</b><span>مُطعِم، وسائق، ومنقذ، وطبيب بيطري، وملجأ، وجزّار.</span>",
+ "Six roles,<br/><span class=\"accent\">one team</span>": {
+  "ar": "ستة أدوار،<br/><span class=\"accent\">فريق واحد</span>",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "<b>Butcher boards</b><span>Who is donating meat, and where to collect it.</span>": {
-  "ar": "<b>لوحات الجزّارين</b><span>من يتبرّع باللحم، ومن أين يُستلَم.</span>",
+ "<b>Feeder</b><span>Feeds street animals and logs each feeding spot.</span>": {
+  "ar": "<b>مُطعِم</b><span>يطعم حيوانات الشارع ويسجّل كل نقطة إطعام.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Driver</b><span>Drives rescued animals and donated meat to where they need to go.</span>": {
+  "ar": "<b>سائق</b><span>ينقل الحيوانات المُنقَذة واللحم المتبرَّع به إلى حيث يجب أن يصل.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Rescuer</b><span>Answers reports of animals that are hurt or in danger.</span>": {
+  "ar": "<b>مُنقِذ</b><span>يستجيب لبلاغات الحيوانات المصابة أو المعرّضة للخطر.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Vet</b><span>Treats rescued animals and offers advice.</span>": {
+  "ar": "<b>طبيب بيطري</b><span>يعالج الحيوانات المُنقَذة ويقدّم النصيحة.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Shelter</b><span>Takes in animals that need a safe place to stay.</span>": {
+  "ar": "<b>مأوى</b><span>يستقبل الحيوانات التي تحتاج إلى مكان آمن.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Butcher</b><span>Offers spare meat and bones for collection.</span>": {
+  "ar": "<b>جزّار</b><span>يقدّم اللحم والعظم الزائد ليُجمَع.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "What the app<br/><span class=\"accent\">does for you</span>": {
+  "ar": "ماذا يقدّم لك<br/><span class=\"accent\">التطبيق</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>AI route creation and optimisation</b><span>Builds the shortest feeding round through the spots that need food.</span>": {
+  "ar": "<b>إنشاء المسارات وتحسينها بالذكاء الاصطناعي</b><span>يرسم أقصر جولة إطعام تمرّ بالنقاط التي تحتاج إلى طعام.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Create your own route</b><span>Pick your spots and save the round you walk or drive.</span>": {
+  "ar": "<b>أنشئ مسارك بنفسك</b><span>اختر نقاطك واحفظ الجولة التي تمشيها أو تقودها.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Feeding spots</b><span>See which spots were fed today and which still need food.</span>": {
+  "ar": "<b>نقاط الإطعام</b><span>اعرف أي النقاط أُطعِمت اليوم وأيها ما زال يحتاج إلى طعام.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Butcher meat offers</b><span>Butchers post spare meat, and feeders claim it for collection.</span>": {
+  "ar": "<b>عروض لحم من الجزّارين</b><span>ينشر الجزّارون اللحم الزائد، ويحجزه المُطعِمون لاستلامه.</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "<b>Communities</b><span>Vets, butchers, rescuers and feeders, all in one place.</span>": {
+  "ar": "<b>المجتمعات</b><span>أطباء بيطريون وجزّارون ومُنقِذون ومُطعِمون، في مكان واحد.</span>",
   "pages": [
    "a-paw-spot.html"
   ]
