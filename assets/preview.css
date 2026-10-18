@@ -15,7 +15,7 @@
 .nav-links a:not(.btn):hover::after,.nav-links a.on::after{transform:scaleX(1)}
 .nav-links a.on{opacity:1}
 .brand-otm img{transition:transform .5s ease}
-.brand-otm:hover img{transform:rotate(-12deg) scale(1.06)}
+
 
 /* hero headline: words rise in one by one */
 .rise .w{display:inline-block;opacity:0;transform:translateY(.55em) rotate(2deg);
