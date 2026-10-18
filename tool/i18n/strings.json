@@ -157,8 +157,8 @@
    "404.html"
   ]
  },
- "We could not walk past one more hungry dog": {
-  "ar": "لم نعد نحتمل أن نمرّ بجانب كلب جائع آخر",
+ "We could not walk past<br/><span class=\"accent\">one more hungry dog</span>": {
+  "ar": "لم نعد نحتمل أن نمرّ<br/><span class=\"accent\">بجانب كلب جائع آخر</span>",
   "pages": [
    "vision.html",
    "404.html"
@@ -228,10 +228,11 @@
    "404.html"
   ]
  },
- "The ones we helped": {
-  "ar": "من ساعدناهم",
+ "The ones<br/><span class=\"accent\">we helped</span>": {
+  "ar": "مخالب<br/><span class=\"accent\">ساعدناها</span>",
   "pages": [
    "vision.html",
+   "shared-paws.html",
    "404.html"
   ]
  },
@@ -256,8 +257,8 @@
    "404.html"
   ]
  },
- "Money is not the only way in": {
-  "ar": "المال ليس الطريقة الوحيدة للمشاركة",
+ "Money is not<br/><span class=\"accent\">the only way in</span>": {
+  "ar": "المال ليس<br/><span class=\"accent\">الطريقة الوحيدة للمشاركة</span>",
   "pages": [
    "vision.html",
    "404.html"
@@ -848,8 +849,8 @@
    "index.html"
   ]
  },
- "A simple idea that can help thousands of tails": {
-  "ar": "فكرة بسيطة يمكنها أن تساعد آلاف الذيول",
+ "A simple idea that can help<br/><span class=\"accent draw\">thousands of tails</span>": {
+  "ar": "فكرة بسيطة يمكنها أن تساعد<br/><span class=\"accent draw\">آلاف الذيول</span>",
   "pages": [
    "index.html",
    "404.html"
@@ -1027,8 +1028,8 @@
    "index.html"
   ]
  },
- "A kitchen on wheels, planned for animals": {
-  "ar": "مطبخ على عجلات، مُصمَّم للحيوانات",
+ "A kitchen on wheels,<br/><span class=\"accent draw\">planned for animals</span>": {
+  "ar": "مطبخ على عجلات،<br/><span class=\"accent draw\">مُصمَّم للحيوانات</span>",
   "pages": [
    "index.html",
    "404.html"
@@ -1062,8 +1063,8 @@
    "404.html"
   ]
  },
- "We have taken this as far as our own pockets go": {
-  "ar": "وصلنا بهذا المشروع إلى أقصى ما تسمح به جيوبنا",
+ "We have taken this as far as<br/><span class=\"accent\">our own pockets go</span>": {
+  "ar": "وصلنا بهذا المشروع<br/><span class=\"accent\">إلى أقصى ما تسمح به جيوبنا</span>",
   "pages": [
    "index.html",
    "404.html"
@@ -1178,8 +1179,8 @@
    "404.html"
   ]
  },
- "Drop us a line": {
-  "ar": "راسلنا",
+ "Drop us<br/><span class=\"accent\">a line</span>": {
+  "ar": "راسلنا<br/><span class=\"accent\">في أي وقت</span>",
   "pages": [
    "index.html",
    "404.html"
@@ -1334,8 +1335,8 @@
    "food-truck.html"
   ]
  },
- "What we actually plan to build": {
-  "ar": "ما نخطّط لبنائه فعلًا",
+ "What we actually<br/><span class=\"accent\">plan to build</span>": {
+  "ar": "ما نخطّط<br/><span class=\"accent\">لبنائه فعلًا</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -1466,8 +1467,8 @@
    "food-truck.html"
   ]
  },
- "Park, mix, serve, clean, move on": {
-  "ar": "نتوقّف، نخلط، نقدّم، ننظّف، ونمضي",
+ "Park, mix, serve,<br/><span class=\"accent\">clean, move on</span>": {
+  "ar": "نتوقّف، نخلط، نقدّم،<br/><span class=\"accent\">ننظّف، ونمضي</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -1538,8 +1539,8 @@
    "food-truck.html"
   ]
  },
- "Done properly, or not at all": {
-  "ar": "إمّا أن نفعلها كما يجب، أو لا نفعلها أبدًا",
+ "Done properly,<br/><span class=\"accent\">or not at all</span>": {
+  "ar": "إمّا أن نفعلها كما يجب،<br/><span class=\"accent\">أو لا نفعلها أبدًا</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -1606,10 +1607,11 @@
    "plates.html"
   ]
  },
- "Nothing left behind but a full belly": {
-  "ar": "لا نترك خلفنا سوى بطن ممتلئة",
+ "Nothing left behind<br/><span class=\"accent\">but a full belly</span>": {
+  "ar": "لا نترك خلفنا<br/><span class=\"accent\">سوى بطن ممتلئة</span>",
   "pages": [
-   "food-truck.html"
+   "food-truck.html",
+   "plates.html"
   ]
  },
  "When we start feeding street dogs and cats in Cairo, we don't want to leave plastic or paper behind. So we plan to make plates from vegetables: rescued, pressed and baked into a plate the animal can eat once the meal is finished.": {
@@ -1650,8 +1652,8 @@
    "costings.html"
   ]
  },
- "Your A$11,000, line by line": {
-  "ar": "مبلغ A$11,000 الذي تقدّمه، بندًا بندًا",
+ "Your A$11,000,<br/><span class=\"accent\">line by line</span>": {
+  "ar": "مبلغ A$11,000 الذي تقدّمه،<br/><span class=\"accent\">بندًا بندًا</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -1711,20 +1713,14 @@
    "plates.html"
   ]
  },
- "Nothing left behind<br/><span class=\"accent\">but a full belly</span>": {
-  "ar": "لا يبقى شيء<br/><span class=\"accent\">سوى بطن ممتلئة</span>",
-  "pages": [
-   "plates.html"
-  ]
- },
  "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">Help build the first truck</a>\n<a class=\"btn btn-ghost\" href=\"#how\">How it will work</a>": {
   "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">ساعدنا في بناء أول عربة</a>\n<a class=\"btn btn-ghost\" href=\"#how\">كيف ستعمل الفكرة</a>",
   "pages": [
    "plates.html"
   ]
  },
- "From rescued vegetables<br/>to a plate they can eat": {
-  "ar": "من خضروات منقَذة<br/>إلى طبق يمكنهم أكله",
+ "From rescued vegetables<br/><span class=\"accent\">to a plate they can eat</span>": {
+  "ar": "من خضروات منقَذة<br/><span class=\"accent\">إلى طبق يمكنهم أكله</span>",
   "pages": [
    "plates.html"
   ]
@@ -2912,8 +2908,8 @@
    "a-paw.html"
   ]
  },
- "AI does the slow part.<br/>A person decides.": {
-  "ar": "الذكاء الاصطناعي يتولى الجزء البطيء.<br/>والقرار للإنسان.",
+ "AI does the slow part.<br/><span class=\"accent\">A person decides.</span>": {
+  "ar": "الذكاء الاصطناعي يتولى الجزء البطيء.<br/><span class=\"accent\">والقرار للإنسان.</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3124,8 +3120,8 @@
    "a-paw.html"
   ]
  },
- "Started in Cairo and Sydney.<br/>Built for any city.": {
-  "ar": "بدأنا في القاهرة وسيدني.<br/>ومصمَّم لأي مدينة.",
+ "Started in Cairo and Sydney.<br/><span class=\"accent\">Built for any city.</span>": {
+  "ar": "بدأنا في القاهرة وسيدني.<br/><span class=\"accent\">ومصمَّم لأي مدينة.</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3580,8 +3576,8 @@
    "costings.html"
   ]
  },
- "Why the goal went up": {
-  "ar": "لماذا ارتفع الهدف",
+ "Why the goal<br/><span class=\"accent\">went up</span>": {
+  "ar": "لماذا<br/><span class=\"accent\">ارتفع الهدف</span>",
   "pages": [
    "costings.html"
   ]
@@ -3618,12 +3614,6 @@
  },
  "Photos of street dogs and cats people have fed, rescued and cared for. Share yours.": {
   "ar": "صور لكلاب وقطط الشارع التي أطعمها الناس وأنقذوها واعتنوا بها. شارِكنا صورك.",
-  "pages": [
-   "shared-paws.html"
-  ]
- },
- "The ones<br/><span class=\"accent\">we helped</span>": {
-  "ar": "الذين<br/><span class=\"accent\">ساعدناهم</span>",
   "pages": [
    "shared-paws.html"
   ]
@@ -3676,8 +3666,8 @@
    "shared-paws.html"
   ]
  },
- "Share your personal photos here": {
-  "ar": "شارِك صورك الشخصية هنا",
+ "Share your<br/><span class=\"accent\">personal photos here</span>": {
+  "ar": "شارِك<br/><span class=\"accent\">صورك الشخصية هنا</span>",
   "pages": [
    "shared-paws.html"
   ]
