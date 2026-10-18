@@ -249,6 +249,129 @@
    "404.html"
   ]
  },
+ "How to help": {
+  "ar": "كيف تساعد",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Money is not the only way in": {
+  "ar": "المال ليس الطريقة الوحيدة للمشاركة",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "AI concept: A volunteer feeding a street dog": {
+  "ar": "تصوّر بالذكاء الاصطناعي: متطوع يُطعم كلب شارع",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "AI concept": {
+  "ar": "تصوّر بالذكاء الاصطناعي",
+  "pages": [
+   "vision.html",
+   "index.html",
+   "food-truck.html",
+   "plates.html",
+   "404.html"
+  ]
+ },
+ "Give your time": {
+  "ar": "امنحنا من وقتك",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Ideas, introductions, a day on the round, help\n        reaching people who care. Volunteers have shaped almost everything here so far.": {
+  "ar": "أفكار، تعارف، يوم في الجولة، مساعدة\n        في الوصول إلى من يهتمون. المتطوعون شكّلوا كل شيء تقريبًا هنا حتى الآن.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "AI concept: A butcher handing over a bowl of trimmings": {
+  "ar": "تصوّر بالذكاء الاصطناعي: جزار يسلّم وعاءً من بقايا اللحم",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Are you a butcher?": {
+  "ar": "هل أنت جزار؟",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "If you have trimmings and bone at the end of\n        the day, that is a truck full of meals. Tell us where you are and we will build the round around you.": {
+  "ar": "إذا كان لديك بقايا لحم وعظام في نهاية\n        اليوم، فهذه شاحنة مليئة بالوجبات. أخبرنا أين أنت وسنبني الجولة حولك.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "AI concept: A street dog eating a cooked meal": {
+  "ar": "تصوّر بالذكاء الاصطناعي: كلب شارع يأكل وجبة مطبوخة",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Host a food drive": {
+  "ar": "نظّم حملة لجمع الطعام",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "A street, an office or a school collecting food\n        or funds together does more than any one of us can alone.": {
+  "ar": "شارع أو مكتب أو مدرسة تجمع الطعام\n        أو التبرعات معًا تفعل أكثر مما يستطيعه أي منا وحده.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "App screen: Spot a Paw map of feeding spots in Cairo": {
+  "ar": "شاشة التطبيق: خريطة Spot-a-Paw لأماكن الإطعام في القاهرة",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "App screen": {
+  "ar": "شاشة التطبيق",
+  "pages": [
+   "vision.html",
+   "food-truck.html",
+   "404.html"
+  ]
+ },
+ "Use the free app": {
+  "ar": "استخدم التطبيق المجاني",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Spot a Paw is the app we built so anyone can\n        report an animal in trouble, plan a feeding round, or pass on spare meat.": {
+  "ar": "Spot-a-Paw هو التطبيق الذي بنيناه حتى يتمكن أي شخص من\n        الإبلاغ عن حيوان في خطر، أو تخطيط جولة إطعام، أو تقديم اللحوم الفائضة.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Open Spot a Paw": {
+  "ar": "افتح Spot-a-Paw",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
  "Sections": {
   "ar": "الأقسام",
   "pages": [
@@ -571,8 +694,8 @@
    "404.html"
   ]
  },
- "<a href=\"index.html#help\">Volunteer</a>": {
-  "ar": "<a href=\"index.html#help\">تطوّع</a>",
+ "<a href=\"vision.html#help\">Volunteer</a>": {
+  "ar": "<a href=\"vision.html#help\">تطوّع</a>",
   "pages": [
    "vision.html",
    "index.html",
@@ -723,15 +846,6 @@
   "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">ساعدنا في بناء أول شاحنة</a>\n<a class=\"btn btn-ghost\" href=\"food-truck.html\">ألقِ نظرة داخل الشاحنة</a>",
   "pages": [
    "index.html"
-  ]
- },
- "AI concept": {
-  "ar": "تصوّر بالذكاء الاصطناعي",
-  "pages": [
-   "index.html",
-   "food-truck.html",
-   "plates.html",
-   "404.html"
   ]
  },
  "A simple idea that can help thousands of tails": {
@@ -1047,119 +1161,6 @@
    "index.html",
    "food-truck.html",
    "costings.html",
-   "404.html"
-  ]
- },
- "How to help": {
-  "ar": "كيف تساعد",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Money is not the only way in": {
-  "ar": "المال ليس الطريقة الوحيدة للمشاركة",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "AI concept: A volunteer feeding a street dog": {
-  "ar": "تصوّر بالذكاء الاصطناعي: متطوع يُطعم كلب شارع",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Give your time": {
-  "ar": "امنحنا من وقتك",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Ideas, introductions, a day on the round, help\n        reaching people who care. Volunteers have shaped almost everything here so far.": {
-  "ar": "أفكار، تعارف، يوم في الجولة، مساعدة\n        في الوصول إلى من يهتمون. المتطوعون شكّلوا كل شيء تقريبًا هنا حتى الآن.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "AI concept: A butcher handing over a bowl of trimmings": {
-  "ar": "تصوّر بالذكاء الاصطناعي: جزار يسلّم وعاءً من بقايا اللحم",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Are you a butcher?": {
-  "ar": "هل أنت جزار؟",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "If you have trimmings and bone at the end of\n        the day, that is a truck full of meals. Tell us where you are and we will build the round around you.": {
-  "ar": "إذا كان لديك بقايا لحم وعظام في نهاية\n        اليوم، فهذه شاحنة مليئة بالوجبات. أخبرنا أين أنت وسنبني الجولة حولك.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "AI concept: A street dog eating a cooked meal": {
-  "ar": "تصوّر بالذكاء الاصطناعي: كلب شارع يأكل وجبة مطبوخة",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Host a food drive": {
-  "ar": "نظّم حملة لجمع الطعام",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "A street, an office or a school collecting food\n        or funds together does more than any one of us can alone.": {
-  "ar": "شارع أو مكتب أو مدرسة تجمع الطعام\n        أو التبرعات معًا تفعل أكثر مما يستطيعه أي منا وحده.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "App screen: Spot a Paw map of feeding spots in Cairo": {
-  "ar": "شاشة التطبيق: خريطة Spot-a-Paw لأماكن الإطعام في القاهرة",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "App screen": {
-  "ar": "شاشة التطبيق",
-  "pages": [
-   "index.html",
-   "food-truck.html",
-   "404.html"
-  ]
- },
- "Use the free app": {
-  "ar": "استخدم التطبيق المجاني",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Spot a Paw is the app we built so anyone can\n        report an animal in trouble, plan a feeding round, or pass on spare meat.": {
-  "ar": "Spot-a-Paw هو التطبيق الذي بنيناه حتى يتمكن أي شخص من\n        الإبلاغ عن حيوان في خطر، أو تخطيط جولة إطعام، أو تقديم اللحوم الفائضة.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Open Spot a Paw": {
-  "ar": "افتح Spot-a-Paw",
-  "pages": [
-   "index.html",
    "404.html"
   ]
  },
