@@ -9,9 +9,15 @@
 
 
   // Mark the current page in the nav.
+  // Sub-pages light up their parent section.
   var here = location.pathname.split('/').pop() || 'index.html';
+  var ar = /-ar\.html$/.test(here), base = here.replace(/-ar\.html$/, '.html');
+  var parent = { 'costings.html': 'food-truck.html', 'shared-paws.html': 'vision.html', '404.html': 'index.html' };
+  if (/^a-paw-.+\.html$/.test(base)) base = 'a-paw.html';
+  base = parent[base] || base;
+  var target = ar ? base.replace(/\.html$/, '-ar.html') : base;
   document.querySelectorAll('.nav-links a:not(.btn)').forEach(function (a) {
-    if ((a.getAttribute('href') || '').split('#')[0] === here && here !== 'index.html') a.classList.add('on');
+    if ((a.getAttribute('href') || '').split('#')[0] === target) a.classList.add('on');
   });
 
   // Hero headline: wrap each word so it can rise in.
