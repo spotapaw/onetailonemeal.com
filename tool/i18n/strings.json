@@ -415,8 +415,8 @@
    "404.html"
   ]
  },
- "Vision": {
-  "ar": "الرؤية",
+ "Plan": {
+  "ar": "الخطة",
   "pages": [
    "vision.html",
    "index.html",
@@ -429,8 +429,8 @@
    "404.html"
   ]
  },
- "Plan": {
-  "ar": "الخطة",
+ "Vision": {
+  "ar": "الرؤية",
   "pages": [
    "vision.html",
    "index.html",
@@ -2781,14 +2781,14 @@
    "a-paw.html"
   ]
  },
- "Pet portraits": {
-  "ar": "لوحات فنية لحيواناتك الأليفة",
+ "Your pet in a short movie": {
+  "ar": "حيوانك في فيلم قصير",
   "pages": [
    "a-paw.html"
   ]
  },
- "<b>Today:</b> Turn a photo of your pet into a painted portrait: oil, watercolour, royal, cartoon, pop art, or a gentle memorial style. Your first portrait is free. Packs of 5 or 15 have no mark.": {
-  "ar": "<b>اليوم:</b> حوّل صورة حيوانك إلى لوحة مرسومة: زيتية، أو مائية، أو ملكية، أو كرتونية، أو بوب آرت، أو بأسلوب تذكاري رقيق. لوحتك الأولى مجانية. وباقات الـ5 أو الـ15 لوحة بلا علامة مائية.",
+ "<b>Today:</b> Turn a photo of your pet into a short movie that brings them to life. Buy 1 movie or a pack of 3. Painted portraits are free.": {
+  "ar": "<b>اليوم:</b> حوّل صورة حيوانك الأليف إلى فيلم قصير يعيده إلى الحياة. اشترِ فيلمًا واحدًا أو باقة من 3. اللوحات المرسومة مجانية.",
   "pages": [
    "a-paw.html"
   ]
@@ -3123,8 +3123,8 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Pet portraits in painted styles (Snap-a-Paw inside the app).</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>لوحات للحيوانات الأليفة بأساليب فنية مرسومة (Snap-a-Paw داخل التطبيق).</span>",
+ "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Pet movies from a photo (Snap-a-Paw inside the app).</span>": {
+  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>أفلام للحيوانات الأليفة من صورة (Snap-a-Paw داخل التطبيق).</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3159,14 +3159,14 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Turns a pet photo into a portrait: oil, watercolour, royal, cartoon, pop art and a gentle memorial style.</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>تحوّل صورة الحيوان الأليف إلى لوحة: زيتية، ومائية، وملكية، وكرتونية، وبوب آرت، وأسلوب تذكاري رقيق.</span>",
+ "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Turns a pet photo into a short movie of your pet, brought to life.</span>": {
+  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>يحوّل صورة حيوانك إلى فيلم قصير ينبض بالحياة.</span>",
   "pages": [
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Safety checks on every upload: pets only, nothing unsafe, and people are never painted.</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>فحوص أمان لكل صورة تُرفع: حيوانات أليفة فقط، ولا شيء غير آمن، ولا يُرسم الأشخاص أبدًا.</span>",
+ "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Safety checks on every upload: pets only, nothing unsafe, and people are never included.</span>": {
+  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>فحص أمان لكل صورة: الحيوانات الأليفة فقط، لا شيء غير آمن، ولا يظهر أي شخص أبدًا.</span>",
   "pages": [
    "a-paw.html"
   ]
