@@ -2334,8 +2334,7 @@
  "The a-Paw family": {
   "ar": "عائلة a-Paw",
   "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
+   "a-paw.html"
   ]
  },
  "<span class=\"nw\">Technology for stray animals</span><br/><span class=\"accent h1-sub\"><span class=\"nw\">Feeding spots</span> · <span class=\"nw\">Driving routes</span> · <span class=\"nw\">Pets at home</span></span>": {
@@ -3019,8 +3018,7 @@
  "Feed‑a‑Paw": {
   "ar": "Feed‑a‑Paw",
   "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
+   "a-paw.html"
   ]
  },
  "<span class=\"apaw-tag t-soon\">Coming soon</span><span>A live count of meals served, from the round the truck team logs.</span>": {
@@ -3116,8 +3114,7 @@
  "Mind‑a‑Paw": {
   "ar": "Mind‑a‑Paw",
   "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
+   "a-paw.html"
   ]
  },
  "<span class=\"apaw-tag t-planned\">Planned</span><span>Turn a minder's quick notes and photos into a tidy visit report for the owner.</span>": {
@@ -3372,26 +3369,68 @@
    "a-paw-spot.html"
   ]
  },
- "Free": {
-  "ar": "مجاني",
+ "<b>Photo-assisted reports</b><span>Snap a photo and the app helps fill in what kind of paw and what it needs.</span>": {
+  "ar": "<b>بلاغات بمساعدة الصور</b><span>التقط صورة ويساعدك التطبيق في تحديد نوع الحيوان وما يحتاج إليه.</span>",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "Free, always.": {
-  "ar": "مجاني، دائمًا.",
+ "<b>Rescue status</b><span>Needs help, help underway, rescued. Everyone sees where each paw is up to.</span>": {
+  "ar": "<b>حالة الإنقاذ</b><span>يحتاج مساعدة، المساعدة في الطريق، تم إنقاذه. يرى الجميع أين وصل كل حيوان.</span>",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "Paid": {
-  "ar": "مدفوع",
+ "<b>Vets and shelters nearby</b><span>Clinics and shelters within your radius, one tap away.</span>": {
+  "ar": "<b>أطباء بيطريون وملاجئ قريبة</b><span>العيادات والملاجئ في نطاقك، على بُعد نقرة واحدة.</span>",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "Nothing to buy.<br/>The paid a-Paw apps fund it.": {
-  "ar": "لا شيء للشراء.<br/>تطبيقات a-Paw المدفوعة تموّله.",
+ "A paw’s journey": {
+  "ar": "رحلة كل حيوان",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "From the street<br/><span class=\"accent\">to a home</span>": {
+  "ar": "من الشارع<br/><span class=\"accent\">إلى بيت</span>",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Every paw we spot can go all the way.": {
+  "ar": "كل حيوان نرصده يمكنه أن يكمل الطريق حتى النهاية.",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Spot it": {
+  "ar": "ارصده",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Help it": {
+  "ar": "ساعده",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Microchip it": {
+  "ar": "ركّب له شريحة",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Sterilise it": {
+  "ar": "عقّمه",
+  "pages": [
+   "a-paw-spot.html"
+  ]
+ },
+ "Adopt it": {
+  "ar": "تبنَّه",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3414,20 +3453,20 @@
    "a-paw-spot.html"
   ]
  },
- "‹ Previous": {
-  "ar": "‹ السابق",
+ "Also from us": {
+  "ar": "من تطبيقاتنا أيضًا",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "All apps": {
-  "ar": "كل التطبيقات",
+ "a-Paw Family": {
+  "ar": "a-Paw Family",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "Next ›": {
-  "ar": "التالي ›",
+ "Pet care, lost pets and adoption in one app.": {
+  "ar": "رعاية الحيوانات الأليفة، والحيوانات المفقودة، والتبنّي في تطبيق واحد.",
   "pages": [
    "a-paw-spot.html"
   ]

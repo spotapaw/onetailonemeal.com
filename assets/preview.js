@@ -90,4 +90,23 @@
     window.addEventListener('resize', ask);
     place();
   }
+
+  // Paw journey: the dog walks through the gates as the timeline scrolls up the screen.
+  var jr = document.querySelector('.jr-track');
+  if (jr) {
+    var gates = jr.querySelectorAll('.jr-gate'), jt = false, stop;
+    function walk() {
+      jt = false;
+      var r = jr.getBoundingClientRect(), vh = window.innerHeight;
+      var p = still ? 1 : Math.max(0, Math.min(1, (vh * 0.85 - r.top) / (vh * 0.55)));
+      jr.style.setProperty('--p', p.toFixed(3));
+      gates.forEach(function (g, i) { g.classList.toggle('on', p >= i / (gates.length - 1) - 0.01); });
+      jr.classList.add('walking'); clearTimeout(stop);
+      stop = setTimeout(function () { jr.classList.remove('walking'); }, 180);
+    }
+    function jask() { if (!jt) { jt = true; requestAnimationFrame(walk); } }
+    window.addEventListener('scroll', jask, { passive: true });
+    window.addEventListener('resize', jask);
+    walk();
+  }
 })();
