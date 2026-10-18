@@ -220,15 +220,15 @@
    "404.html"
   ]
  },
- "A hungry animal becomes desperate.<br/>A fed animal becomes calm,<br/>gentle and hopeful.": {
-  "ar": "الحيوان الجائع يصبح يائسًا.<br/>والحيوان الشبعان يصبح هادئًا،<br/>لطيفًا ومليئًا بالأمل.",
+ "A meal today.<br/><span class=\"accent\">A reason to keep showing up tomorrow.</span>": {
+  "ar": "وجبة اليوم.<br/><span class=\"accent\">وسبب لنعود غدًا.</span>",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
- "Feeding them does more than fill a stomach.<br/>\n      It lowers the fear on both sides.<br/>\n      It makes a street safer for the children who play on it.<br/>\n      It shows everyone watching that these animals are worth something.<br/>\n      Sometimes the biggest change starts with a warm meal on a cold street.": {
-  "ar": "إطعامهم يفعل أكثر من ملء البطون.<br/>\n      إنه يخفّف الخوف من الجانبين.<br/>\n      ويجعل الشارع أكثر أمانًا للأطفال الذين يلعبون فيه.<br/>\n      ويُظهر لكل من يشاهد أن هذه الحيوانات لها قيمة.<br/>\n      أحيانًا يبدأ أكبر تغيير بوجبة دافئة في شارع بارد.",
+ "For a hungry street animal, a meal meets an immediate need.<br/>\n      Regular feeding is one part of the care they deserve — alongside clean water, veterinary attention and shelter.<br/>\n      Every act of kindness sends a simple message:<br/>\n<strong style=\"color:var(--nile)\">these animals matter.</strong>": {
+  "ar": "بالنسبة لحيوان شارع جائع، الوجبة تلبّي حاجة فورية.<br/>\n      والإطعام المنتظم جزء من الرعاية التي يستحقها — إلى جانب الماء النظيف والرعاية البيطرية والمأوى.<br/>\n      وكل عمل لطيف يحمل رسالة بسيطة:<br/>\n<strong style=\"color:var(--nile)\">هذه الحيوانات تستحق الاهتمام.</strong>",
   "pages": [
    "vision.html",
    "404.html"
