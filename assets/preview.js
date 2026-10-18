@@ -116,3 +116,30 @@
     walk();
   }
 })();
+
+// Crate to plate: steps play one after another while on screen; tap a step to jump to it.
+(function () {
+  var box = document.querySelector('[data-ctp]');
+  if (!box) return;
+  var items = box.querySelectorAll('.ctp-steps li'), list = box.querySelector('.ctp-steps');
+  var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var a = 0, timer = null, seen = false;
+  function show(i, scroll) {
+    a = (i + items.length) % items.length;
+    box.style.setProperty('--a', a);
+    items.forEach(function (li, k) { li.classList.toggle('on', k === a); li.classList.toggle('done', k < a); });
+    if (scroll && list.scrollWidth > list.clientWidth) {
+      var li = items[a];
+      list.scrollTo({ left: li.offsetLeft - (list.clientWidth - li.offsetWidth) / 2, behavior: 'smooth' });
+    }
+  }
+  function play() { if (still || timer) return; timer = setInterval(function () { show(a + 1, true); }, 2800); }
+  function pause() { clearInterval(timer); timer = null; }
+  items.forEach(function (li, k) {
+    li.querySelector('button').addEventListener('click', function () { pause(); show(k, true); setTimeout(play, 6000); });
+  });
+  new IntersectionObserver(function (es) {
+    es.forEach(function (e) { if (e.isIntersecting) { if (!seen) { seen = true; show(0); } play(); } else pause(); });
+  }, { threshold: 0.35 }).observe(box);
+  show(0);
+})();

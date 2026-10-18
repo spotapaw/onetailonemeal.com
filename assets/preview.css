@@ -506,3 +506,49 @@ footer a:not(.soc):not(.btn):not(.brand):hover,footer a:not(.soc):not(.btn):not(
 .eyebrow::before,.eyebrow.eyebrow-green::before{content:"";flex:none;width:.55em;height:1.6em;background:none;border:5px solid var(--orange);border-right:0;border-radius:0}
 html[dir=rtl] .eyebrow::before{border-right:5px solid var(--orange);border-left:0}
 html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-weight:700;letter-spacing:0}
+
+/* Crate to plate: animated six-step stepper (plates page) */
+.ctp{--n:6;--a:0;position:relative;margin-top:2.2rem}
+.ctp-rail{position:relative;height:6px;margin:0 calc(50% / var(--n));background:var(--line);border-radius:6px}
+.ctp-rail i{position:absolute;inset-block:0;inset-inline-start:0;width:calc(var(--a) / (var(--n) - 1) * 100%);background:var(--orange);border-radius:6px;transition:width .7s ease}
+.ctp-plate{position:absolute;top:50%;inset-inline-start:calc(var(--a) / (var(--n) - 1) * 100%);width:26px;height:26px;margin-inline-start:-13px;transform:translateY(-50%);border-radius:50%;background:radial-gradient(circle at 50% 50%,#e8c48c 0 42%,#c98a3d 44% 60%,#a96b2a 62%);box-shadow:0 3px 8px rgba(0,0,0,.25);transition:inset-inline-start .7s ease}
+.ctp-steps{list-style:none;margin:1.4rem 0 0;padding:0;display:grid;grid-template-columns:repeat(6,1fr);gap:.8rem}
+.ctp-steps button{all:unset;box-sizing:border-box;cursor:pointer;display:flex;flex-direction:column;align-items:center;text-align:center;gap:.35rem;width:100%;height:100%;padding:1rem .6rem 1.1rem;border-radius:20px;background:#fff;border:2px solid transparent;box-shadow:var(--shadow-s);transition:transform .35s ease,border-color .35s ease,box-shadow .35s ease}
+.ctp-steps button:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+.ctp-art{width:96px;height:96px}
+.ctp-art svg{width:100%;height:100%;fill:none;stroke:var(--nile);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;opacity:.45;transition:opacity .35s}
+.ctp-art svg .o{fill:rgba(255,121,0,.18);stroke:var(--orange)}
+.ctp-art svg .ctp-flour circle{fill:var(--nile);stroke:none}
+.ctp-art svg .fire{stroke:var(--orange)}
+.ctp-art svg .ctp-tick circle{fill:var(--orange);stroke:none}.ctp-art svg .ctp-tick path{stroke:#fff}
+.ctp-n{font:800 .78rem/1 var(--body);color:var(--orange);letter-spacing:.08em}
+.ctp-steps b{color:var(--nile);font-size:1.1rem}
+.ctp-txt{font-size:.88rem;line-height:1.4;color:var(--muted,#5b6b66);max-height:0;opacity:0;overflow:hidden;transition:max-height .45s ease,opacity .45s ease}
+.ctp-steps li.on button{transform:translateY(-6px);border-color:var(--orange);box-shadow:0 14px 30px rgba(31,81,72,.18)}
+.ctp-steps li.on .ctp-art svg,.ctp-steps li.done .ctp-art svg{opacity:1}
+.ctp-steps li.on .ctp-txt{max-height:6em;opacity:1}
+@keyframes ctpSteam{0%{transform:translateY(6px);opacity:0}40%{opacity:1}100%{transform:translateY(-8px);opacity:0}}
+@keyframes ctpMash{0%,100%{transform:translateY(0)}50%{transform:translateY(12px)}}
+@keyframes ctpFlour{0%{transform:translateY(-10px);opacity:0}30%{opacity:1}100%{transform:translateY(14px);opacity:0}}
+@keyframes ctpPress{0%,100%{transform:translateY(0)}45%,60%{transform:translateY(30px)}}
+@keyframes ctpHeat{0%,100%{transform:translateY(0);opacity:.5}50%{transform:translateY(-4px);opacity:1}}
+@keyframes ctpPop{0%{transform:scale(0)}70%{transform:scale(1.15)}100%{transform:scale(1)}}
+.ctp-art g{transform-box:fill-box;transform-origin:center}
+.ctp-steps li.on .ctp-steam path{animation:ctpSteam 1.6s ease-in-out infinite}
+.ctp-steps li.on .ctp-steam path:nth-child(2){animation-delay:.35s}.ctp-steps li.on .ctp-steam path:nth-child(3){animation-delay:.7s}
+.ctp-steps li.on .ctp-masher{animation:ctpMash .9s ease-in-out infinite}
+.ctp-steps li.on .ctp-flour circle{animation:ctpFlour 1.2s linear infinite}
+.ctp-steps li.on .ctp-flour circle:nth-child(2){animation-delay:.3s}.ctp-steps li.on .ctp-flour circle:nth-child(3){animation-delay:.6s}.ctp-steps li.on .ctp-flour circle:nth-child(4){animation-delay:.9s}
+.ctp-steps li.on .ctp-press{animation:ctpPress 1.4s ease-in-out infinite}
+.ctp-steps li.on .ctp-heat path{animation:ctpHeat 1.2s ease-in-out infinite}
+.ctp-steps li.on .ctp-heat path:nth-child(2){animation-delay:.3s}.ctp-steps li.on .ctp-heat path:nth-child(3){animation-delay:.6s}
+.ctp-steps li.on .ctp-tick{animation:ctpPop .5s ease-out both}
+@media(max-width:900px){
+  .ctp-rail{display:none}
+  .ctp-steps{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:.8rem;padding:.6rem 16px 1rem;margin-inline:-16px;scrollbar-width:none}
+  .ctp-steps::-webkit-scrollbar{display:none}
+  .ctp-steps li{flex:0 0 62%;scroll-snap-align:center}
+  .ctp-txt{max-height:6em;opacity:1}
+  .ctp-art svg{opacity:1}
+}
+@media(prefers-reduced-motion:reduce){.ctp-steps li.on *{animation:none!important}}

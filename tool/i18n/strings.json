@@ -53,8 +53,8 @@
    "404.html"
   ]
  },
- "Our vision": {
-  "ar": "رؤيتنا",
+ "Our plan": {
+  "ar": "خطتنا",
   "pages": [
    "vision.html",
    "index.html",
@@ -67,8 +67,8 @@
    "404.html"
   ]
  },
- "Our plan": {
-  "ar": "خطتنا",
+ "Our vision": {
+  "ar": "رؤيتنا",
   "pages": [
    "vision.html",
    "index.html",
@@ -639,8 +639,8 @@
    "404.html"
   ]
  },
- "<a href=\"plates.html\">Plates you can eat</a>": {
-  "ar": "<a href=\"plates.html\">أطباق تؤكل</a>",
+ "<a href=\"plates.html\">Plates they can eat</a>": {
+  "ar": "<a href=\"plates-ar.html\">أطباق يمكنهم أكلها</a>",
   "pages": [
    "vision.html",
    "index.html",
@@ -930,6 +930,7 @@
   "ar": "الطهي",
   "pages": [
    "index.html",
+   "plates.html",
    "404.html"
   ]
  },
@@ -1659,8 +1660,8 @@
    "food-truck.html"
   ]
  },
- "Plates you can eat": {
-  "ar": "أطباق تؤكل",
+ "Plates they can eat": {
+  "ar": "أطباق يمكنهم أكلها",
   "pages": [
    "food-truck.html",
    "plates.html"
@@ -1760,8 +1761,8 @@
    "food-truck.html"
   ]
  },
- "Plates you can eat - One Tail One Meal": {
-  "ar": "أطباق تؤكل - One Tail One Meal",
+ "Plates they can eat - One Tail One Meal": {
+  "ar": "أطباق يمكنهم أكلها - One Tail One Meal",
   "pages": [
    "plates.html"
   ]
@@ -2024,38 +2025,92 @@
    "plates.html"
   ]
  },
- "<b>Peel and cook.</b> Every vegetable is washed, peeled where needed, and cooked until soft. Nothing goes in raw.": {
-  "ar": "<b>التقشير والطهي.</b> ستُغسل كل الخضروات وتُقشَّر عند الحاجة وتُطهى حتى تلين. لا يدخل شيء نيئًا.",
+ "Step 1: Cook": {
+  "ar": "الخطوة 1: الطهي",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Mash.</b> The cooked vegetables are mashed or blended smooth, with no salt.": {
-  "ar": "<b>الهرس.</b> ستُهرس الخضروات المطهوة أو تُخلط حتى تصبح ناعمة، دون أي ملح.",
+ "Washed, peeled, cooked soft. Never raw.": {
+  "ar": "تُغسل وتُقشّر وتُطهى حتى تلين. لا شيء نيئ أبدًا.",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Bind.</b> A little plain flour or vegetable starch is mixed in, so the plate holds together instead of cracking as it dries.": {
-  "ar": "<b>الربط.</b> سنضيف قليلًا من الدقيق العادي أو النشا النباتي، حتى يتماسك الطبق بدلًا من أن يتشقق وهو يجف.",
+ "Step 2: Mash": {
+  "ar": "الخطوة 2: الهرس",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Press.</b> The dough is pressed into a round mould, about as thick as a pencil.": {
-  "ar": "<b>الكبس.</b> ستُكبس العجينة في قالب دائري، بسُمك قلم رصاص تقريبًا.",
+ "Mash": {
+  "ar": "الهرس",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Bake low and slow.</b> The plates bake at a low heat, then stay in the cooling oven until they are completely dry. A dry plate is a strong plate.": {
-  "ar": "<b>الخَبز على نار هادئة وببطء.</b> ستُخبز الأطباق على حرارة منخفضة، ثم تبقى في الفرن وهو يبرد حتى تجف تمامًا. الطبق الجاف طبق قوي.",
+ "Blended smooth, with no salt.": {
+  "ar": "تُهرس حتى تنعم، بلا ملح.",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Store and use within a week.</b> Plates are kept airtight and made in small batches, so none of them go mouldy in Cairo's heat.": {
-  "ar": "<b>التخزين والاستخدام خلال أسبوع.</b> ستُحفظ الأطباق في عبوات محكمة الغلق وتُصنع على دفعات صغيرة، حتى لا يتعفن أي منها في حر القاهرة.",
+ "Step 3: Bind": {
+  "ar": "الخطوة 3: الربط",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Bind": {
+  "ar": "الربط",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "A little flour so it holds together.": {
+  "ar": "قليل من الدقيق ليتماسك الطبق.",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Step 4: Press": {
+  "ar": "الخطوة 4: الكبس",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Into a round mould, pencil-thick.": {
+  "ar": "في قالب دائري، بسُمك القلم.",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Step 5: Bake": {
+  "ar": "الخطوة 5: الخَبز",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Low and slow until bone dry.": {
+  "ar": "على حرارة هادئة حتى يجف تمامًا.",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Step 6: Store": {
+  "ar": "الخطوة 6: الحفظ",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Store": {
+  "ar": "الحفظ",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Airtight, used within a week.": {
+  "ar": "في علب محكمة، ويُستخدم خلال أسبوع.",
   "pages": [
    "plates.html"
   ]
