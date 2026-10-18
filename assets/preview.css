@@ -434,3 +434,9 @@ html[dir=rtl] .eyebrow{text-transform:none}
 html[dir=rtl] .nav-links{margin-left:0;margin-right:auto}
 @media (max-width:860px){html[dir=rtl] .nav .lang-switch{margin-left:0;margin-right:auto}}
 html[dir=rtl] .hp{left:auto;right:-9999px}
+/* brand name always on one line */
+.brand-otm span{white-space:nowrap}
+@media (max-width:860px){.nav .brand-otm{gap:.45rem;min-width:0}.nav .brand-otm img{height:40px}.nav .brand-otm span{font-size:clamp(.74rem,3.4vw,1rem)}
+.nav .nav-donate{padding-left:.9rem;padding-right:.9rem}}
+@media (max-width:360px){.nav .brand-otm img{height:34px}.lang-switch a{padding:.38rem .5rem}}
+@media (max-width:380px){.nav .lang-switch a.on{display:none}}
