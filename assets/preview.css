@@ -500,3 +500,9 @@ html[dir=rtl] .ap-next-card{text-align:right}.ap-next-card>div{flex:1}
 /* footer links turn orange on hover */
 footer a:not(.soc):not(.btn):not(.brand){transition:color .15s ease}
 footer a:not(.soc):not(.btn):not(.brand):hover,footer a:not(.soc):not(.btn):not(.brand):focus-visible{color:var(--orange)}
+
+/* Section titles (Ashraf 18 Oct): orange all caps with a thick orange bracket, everywhere */
+.eyebrow,.eyebrow.eyebrow-green{display:inline-flex;align-items:center;gap:.75rem;font:500 clamp(.95rem,1.5vw,1.1rem)/1.1 'Fraunces',Georgia,serif;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
+.eyebrow::before,.eyebrow.eyebrow-green::before{content:"";flex:none;width:.55em;height:1.6em;background:none;border:5px solid var(--orange);border-right:0;border-radius:0}
+html[dir=rtl] .eyebrow::before{border-right:5px solid var(--orange);border-left:0}
+html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-weight:700;letter-spacing:0}
