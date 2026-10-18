@@ -455,3 +455,5 @@ html[dir=rtl] .hp{left:auto;right:-9999px}
 @media (max-width:560px){.drum-steps{grid-template-columns:1fr}.drum-facts{grid-template-columns:1fr;gap:.8rem}}
 /* Standard heading: plain first line, orange underlined second line (Ashraf 18 Oct) */
 h1 .accent,h2 .accent{color:var(--orange)}
+
+.drum-steps li.has-pic{padding:0 0 1.4rem;overflow:hidden}.drum-steps li.has-pic>:not(.card-pic){margin-left:1.4rem;margin-right:1.4rem}.drum-steps .card-pic{height:150px}
