@@ -145,3 +145,23 @@ document.querySelectorAll('[data-ctp]').forEach(function (box) {
 document.querySelectorAll('.pt-measure').forEach(function (m) {
   new IntersectionObserver(function (es, o) { es.forEach(function (e) { if (e.isIntersecting) { m.classList.add('in'); o.disconnect(); } }); }, { threshold: 0.3 }).observe(m);
 });
+
+// Coordinated orbit: roles take turns (their app icon fades into the hub), then a long pause on our dog, then our cat.
+document.querySelectorAll('[data-hubcycle]').forEach(function (hub) {
+  var orbit = hub.closest('.orbit'), chips = orbit.querySelectorAll('.chip');
+  var pics = {}; hub.querySelectorAll('img').forEach(function (i) { pics[i.dataset.hub] = i; });
+  var roles = ['feeder', 'driver', 'rescuer', 'vet', 'shelter', 'butcher'];
+  var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  orbit.classList.add('js');
+  function show(key, chip, big) {
+    Object.keys(pics).forEach(function (k) { pics[k].classList.toggle('show', k === key); });
+    chips.forEach(function (c, i) { c.classList.toggle('lit', i === chip); });
+    orbit.classList.toggle('big', !!big);
+  }
+  if (still) { show('dog', -1, true); return; }
+  var steps = [];
+  roles.forEach(function (r, i) { steps.push([r, i, false, 1600]); });
+  steps.push(['dog', -1, true, 10000], ['cat', -1, true, 10000]);
+  var n = 0;
+  (function next() { var s = steps[n]; show(s[0], s[1], s[2]); n = (n + 1) % steps.length; setTimeout(next, s[3]); })();
+});

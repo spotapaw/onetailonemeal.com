@@ -593,3 +593,13 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .pt-measure.in .pt-m:first-child .pt-ico svg{animation:ctpBounce 1.4s ease-in-out infinite}
 @media(max-width:900px){.pt-grid{grid-template-columns:1fr 1fr}}
 @media(prefers-reduced-motion:reduce){.pt-measure *{animation:none!important;transition:none!important}.pt-bar i{width:var(--v)!important}}
+
+/* Coordinated orbit: each role lights up with its Spot-a-Paw icon in the hub, then our dog and cat faces */
+.orbit .hub{transition:transform .8s cubic-bezier(.2,.8,.2,1)}
+.orbit .hub img{position:absolute;left:50%;top:50%;width:40px;height:40px;object-fit:contain;transform:translate(-50%,-50%);opacity:0;transition:opacity .6s ease}
+.orbit .hub img.face{width:46px;height:46px}
+.orbit .hub img.show{opacity:1}
+.orbit.big .hub{transform:scale(1.9)}
+.orbit.js .chip{animation:none;transition:background .5s,color .5s,border-color .5s,box-shadow .5s,opacity .8s}
+.orbit.js .chip.lit{background:var(--orange);color:var(--nile);border-color:var(--orange);box-shadow:0 0 18px rgba(255,121,0,.6)}
+.orbit.big .chip{opacity:.25}
