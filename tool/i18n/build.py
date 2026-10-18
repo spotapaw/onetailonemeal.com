@@ -64,6 +64,12 @@ def build_arabic(page, tr):
             a['href'] = ar_name(m.group(1)) + (m.group(2) or '')
     for sw in soup.find_all('span', class_=SWITCH_CLASS):
         sw.replace_with(BeautifulSoup(switch_html(page, 'ar'), 'html.parser'))
+    # use an Arabic screenshot (<name>-ar.<ext>) wherever one exists
+    for img in soup.find_all('img', src=True):
+        path, _, q = img['src'].partition('?')
+        base, dot, ext = path.rpartition('.')
+        if dot and not base.endswith('-ar') and os.path.exists(os.path.join(ROOT, f'{base}-ar.{ext}')):
+            img['src'] = f'{base}-ar.{ext}' + (f'?{q}' if q else '')
     # the truck drive scene always runs left to right
     for el in soup.select('.road, [data-ltr]'):
         el['dir'] = 'ltr'
