@@ -2247,32 +2247,80 @@
    "plates.html"
   ]
  },
- "Before a single plate goes on the street, we will test the recipe in a kitchen and film every step.": {
-  "ar": "قبل أن يخرج طبق واحد إلى الشارع، سنختبر الوصفة في مطبخ ونصوّر كل خطوة.",
+ "Before a single plate goes on the street, we will test the recipe and film every step.": {
+  "ar": "قبل أن يصل أي طبق إلى الشارع، سنجرّب الوصفة ونصوّر كل خطوة.",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Bake three versions.</b> Two with different binders and one with vegetables only, about 20 plates in all.": {
-  "ar": "<b>خَبز ثلاث نسخ.</b> اثنتان بمادتين رابطتين مختلفتين، وواحدة من الخضروات فقط، نحو 20 طبقًا في المجمل.",
+ "Test 1: Bake three versions": {
+  "ar": "التجربة 1: نخبز ثلاث نسخ",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Add a real meal.</b> Time how long each plate holds wet food before it softens and breaks.": {
-  "ar": "<b>إضافة وجبة حقيقية.</b> سنقيس كم من الوقت يتحمل كل طبق الطعام الرطب قبل أن يلين وينكسر.",
+ "Bake three versions": {
+  "ar": "نخبز ثلاث نسخ",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Leave one out for a week.</b> See which version stays dry and free of mould longest.": {
-  "ar": "<b>ترك طبق لمدة أسبوع.</b> لنرى أي نسخة تبقى جافة وخالية من العفن أطول مدة.",
+ "About 20 plates, three recipes.": {
+  "ar": "نحو 20 طبقًا بثلاث وصفات.",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Post the result.</b> Whether the plates hold up or fall apart, you will see it.": {
-  "ar": "<b>نشر النتيجة.</b> سواء صمدت الأطباق أو تفككت، ستراها بنفسك.",
+ "Test 2: Add a real meal": {
+  "ar": "التجربة 2: نضيف وجبة حقيقية",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Add a real meal": {
+  "ar": "نضيف وجبة حقيقية",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Time how long each plate holds wet food.": {
+  "ar": "نقيس كم يصمد كل طبق مع الطعام الرطب.",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Test 3: Leave one out a week": {
+  "ar": "التجربة 3: نتركه أسبوعًا",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Leave one out a week": {
+  "ar": "نتركه أسبوعًا",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Which stays dry and mould-free longest.": {
+  "ar": "أيّها يبقى جافًا وخاليًا من العفن أطول.",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Test 4: Post the result": {
+  "ar": "التجربة 4: ننشر النتيجة",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Post the result": {
+  "ar": "ننشر النتيجة",
+  "pages": [
+   "plates.html"
+  ]
+ },
+ "Hold up or fall apart, you will see it.": {
+  "ar": "صمدت أو تفتّتت، سترى النتيجة.",
   "pages": [
    "plates.html"
   ]
@@ -2283,74 +2331,50 @@
    "plates.html"
   ]
  },
- "<b>Strength.</b> How long a plate holds a wet meal. Street animals eat fast, so it only needs to last one meal.": {
-  "ar": "<b>القوة.</b> كم من الوقت يتحمل الطبق وجبة رطبة. حيوانات الشارع تأكل بسرعة، لذا يكفي أن يصمد لوجبة واحدة.",
+ "Strength": {
+  "ar": "القوة",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Shelf life.</b> How long a bone-dry plate keeps in Cairo's heat, so we know the right batch size.": {
-  "ar": "<b>مدة الصلاحية.</b> كم يدوم الطبق الجاف تمامًا في حر القاهرة، لنعرف حجم الدفعة المناسب.",
+ "Lasts one full meal": {
+  "ar": "يصمد طوال وجبة كاملة",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Speed.</b> How many plates a kitchen can make a day, and when to add a press and dryer.": {
-  "ar": "<b>السرعة.</b> كم طبقًا يستطيع مطبخ أن يصنع في اليوم، ومتى نضيف مكبسًا ومجففًا.",
+ "Shelf life": {
+  "ar": "مدة الحفظ",
   "pages": [
    "plates.html"
   ]
  },
- "<b>Cost.</b> The real cost of each plate, which we will publish after the test.": {
-  "ar": "<b>التكلفة.</b> التكلفة الحقيقية لكل طبق، وسننشرها بعد التجربة.",
+ "Days it keeps in Cairo heat": {
+  "ar": "أيام يصمدها في حرّ القاهرة",
   "pages": [
    "plates.html"
   ]
  },
- "Until the plates are ready": {
-  "ar": "إلى أن تصبح الأطباق جاهزة",
+ "Speed": {
+  "ar": "السرعة",
   "pages": [
    "plates.html"
   ]
  },
- "Still nothing<br/><span class=\"accent\">left on the street</span>": {
-  "ar": "لن يبقى شيء<br/><span class=\"accent\">في الشارع أيضًا</span>",
+ "Plates a kitchen makes a day": {
+  "ar": "أطباق يصنعها المطبخ يوميًا",
   "pages": [
    "plates.html"
   ]
  },
- "Bread for dogs": {
-  "ar": "خبز للكلاب",
+ "Cost": {
+  "ar": "التكلفة",
   "pages": [
    "plates.html"
   ]
  },
- "A round of plain local bread makes a plate that dogs eat. It is cheap, sold by every bakery, and leaves nothing behind.": {
-  "ar": "رغيف من الخبز البلدي العادي يصلح طبقًا تأكله الكلاب. إنه رخيص، ويُباع في كل مخبز، ولا يترك أي أثر.",
-  "pages": [
-   "plates.html"
-  ]
- },
- "Steel dishes for cats": {
-  "ar": "أوعية معدنية للقطط",
-  "pages": [
-   "plates.html"
-  ]
- },
- "Cats ignore bread, so they get a stainless steel dish that the crew collects and washes after the meal.": {
-  "ar": "القطط لا تهتم بالخبز، لذلك ستحصل على وعاء من الستانلس ستيل يجمعه الفريق ويغسله بعد الوجبة.",
-  "pages": [
-   "plates.html"
-  ]
- },
- "Natural plates when we can't wait": {
-  "ar": "أطباق طبيعية حين لا نستطيع الانتظار",
-  "pages": [
-   "plates.html"
-  ]
- },
- "Where the crew has to move on, untreated palm-leaf plates or uncoated sugarcane bowls, checked free of \"forever chemical\" coatings.": {
-  "ar": "حين يضطر الفريق إلى المغادرة، سنستخدم أطباقًا من سعف النخيل غير المعالج أو أوعية من قصب السكر بلا طلاء، بعد التأكد من خلوّها من طلاءات \"المواد الكيميائية الأبدية\".",
+ "Real cost, published after": {
+  "ar": "التكلفة الحقيقية، تُنشر بعد التجربة",
   "pages": [
    "plates.html"
   ]

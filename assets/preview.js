@@ -118,9 +118,7 @@
 })();
 
 // Crate to plate: steps play one after another while on screen; tap a step to jump to it.
-(function () {
-  var box = document.querySelector('[data-ctp]');
-  if (!box) return;
+document.querySelectorAll('[data-ctp]').forEach(function (box) {
   var items = box.querySelectorAll('.ctp-steps li'), list = box.querySelector('.ctp-steps');
   var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var a = 0, timer = null, seen = false;
@@ -142,4 +140,8 @@
     es.forEach(function (e) { if (e.isIntersecting) { if (!seen) { seen = true; show(0); } play(); } else pause(); });
   }, { threshold: 0.35 }).observe(box);
   show(0);
-})();
+});
+// Measure tiles: bars fill when the block scrolls into view.
+document.querySelectorAll('.pt-measure').forEach(function (m) {
+  new IntersectionObserver(function (es, o) { es.forEach(function (e) { if (e.isIntersecting) { m.classList.add('in'); o.disconnect(); } }); }, { threshold: 0.3 }).observe(m);
+});
