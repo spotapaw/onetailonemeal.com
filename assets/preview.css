@@ -158,7 +158,7 @@
   padding:.42rem .62rem;border-radius:999px;background:rgba(242,235,221,.1);border:1px solid rgba(242,235,221,.25);
   color:var(--ivory);transform:translate(-50%,-50%) rotate(calc(var(--k)*60deg)) translateY(-70px) rotate(calc(var(--k)*-60deg));
   animation:glow 6s ease-in-out infinite;animation-delay:calc(var(--k)*1s)}
-@keyframes glow{0%,12%{background:var(--orange);color:var(--deep);border-color:var(--orange);box-shadow:0 0 18px rgba(255,121,0,.6)}
+@keyframes glow{0%,12%{background:var(--orange);color:var(--nile);border-color:var(--orange);box-shadow:0 0 18px rgba(255,121,0,.6)}
   22%,100%{background:rgba(242,235,221,.1);color:var(--ivory);border-color:rgba(242,235,221,.25);box-shadow:none}}
 .vis-fund .mini-phone.sm{left:22%;width:78px;margin-left:-39px;top:28px}
 .vis-fund .flow{position:absolute;left:34%;top:80px;width:36%;height:44px;overflow:visible}
@@ -457,3 +457,5 @@ html[dir=rtl] .hp{left:auto;right:-9999px}
 h1 .accent,h2 .accent{color:var(--orange)}
 
 .drum-steps li.has-pic{padding:0 0 1.4rem;overflow:hidden}.drum-steps li.has-pic>:not(.card-pic){margin-left:1.4rem;margin-right:1.4rem}.drum-steps .card-pic{height:150px}
+/* Rule (Ashraf 18 Oct): text on orange is always our green, never white or black */
+.btn-orange,.nav-donate,.card-btn,.lang-switch a.on,.drum-n,.shotcard .n,.t-soon,.cost-n,.tour-ctl button,.soc:hover,.soc:focus-visible{color:var(--nile)!important}
