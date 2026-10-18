@@ -440,3 +440,16 @@ html[dir=rtl] .hp{left:auto;right:-9999px}
 .nav .nav-donate{padding-left:.9rem;padding-right:.9rem}}
 @media (max-width:360px){.nav .brand-otm img{height:34px}.lang-switch a{padding:.38rem .5rem}}
 @media (max-width:380px){.nav .lang-switch a.on{display:none}}
+/* truck page: the drum */
+.drum .lead{margin-top:1rem}
+.drum-steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:1.2rem;counter-reset:none}
+.drum-steps li{position:relative;background:#fff;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-s);padding:1.5rem 1.4rem 1.4rem}
+.drum-steps h3{color:var(--nile);margin:.7rem 0 .4rem;font-size:1.1rem}
+.drum-steps p{margin:0;color:var(--ink);opacity:.85;font-size:.95rem}
+.drum-n{display:inline-grid;place-items:center;width:2rem;height:2rem;border-radius:50%;background:var(--orange);color:#fff;font-weight:800}
+.drum-facts{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem;margin:2rem 0 1.2rem;text-align:center}
+.drum-facts b{display:block;font-family:var(--display);font-size:2rem;color:var(--orange);line-height:1.1}
+.drum-facts span{font-size:.9rem;color:var(--nile);font-weight:600}
+.drum-note{text-align:center;font-size:.88rem;opacity:.75;max-width:70ch;margin:0 auto}
+@media (max-width:860px){.drum-steps{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.drum-steps{grid-template-columns:1fr}.drum-facts{grid-template-columns:1fr;gap:.8rem}}

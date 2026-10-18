@@ -1225,8 +1225,8 @@
    "food-truck.html"
   ]
  },
- "A road-legal van with a food-grade mixing drum on the back: it collects, cooks, drives and\n      serves, then washes itself down and does it again tomorrow.": {
-  "ar": "سيارة مرخّصة للسير على الطريق، يُركَّب على ظهرها برميل خلط وطهي بمواصفات غذائية: ستجمع وتطبخ وتتنقّل وتقدّم الطعام، ثم تُغسل جيدًا لتعيد الكرّة في اليوم التالي.",
+ "A road-legal van with a food-grade cooking drum on the back: it collects, cooks, drives and\n      serves, then washes itself down and does it again tomorrow.": {
+  "ar": "سيارة مرخّصة للسير على الطريق، يُركَّب على ظهرها برميل طهي بمواصفات غذائية: ستجمع وتطبخ وتتنقّل\n      وتقدّم الطعام، ثم تُغسل جيدًا لتعيد الكرّة في اليوم التالي.",
   "pages": [
    "food-truck.html"
   ]
@@ -1261,8 +1261,8 @@
    "food-truck.html"
   ]
  },
- "A food-grade drum mixes and heats fresh ingredients, so every meal leaves the truck hot and safe.": {
-  "ar": "سيخلط برميل بمواصفات غذائية المكوّنات الطازجة ويسخّنها، لتخرج كل وجبة من الشاحنة ساخنة وآمنة.",
+ "A food-grade drum will cook while the truck is parked, then keep the food hot, so every meal leaves the truck hot and safe.": {
+  "ar": "سيطهو برميل بمواصفات غذائية الطعام والشاحنة متوقفة، ثم يحفظه ساخنًا، لتخرج كل وجبة من الشاحنة ساخنة وآمنة.",
   "pages": [
    "food-truck.html"
   ]
@@ -1351,8 +1351,8 @@
    "food-truck.html"
   ]
  },
- "<b>The drum.</b> Food-grade, with optional heating and a controlled pour-out, so a portion goes\n          into a tray rather than over a shoe.": {
-  "ar": "<b>برميل الطهي.</b> بمواصفات غذائية، مع تسخين اختياري وصبّ محكوم، لتنزل الحصّة في الصينية لا على حذاء أحد.",
+ "<b>The drum.</b> A 100 litre stainless pot on a gas burner, inside an insulated drum with our logo,\n          with a controlled pour-out so a portion goes into a tray rather than over a shoe.": {
+  "ar": "<b>برميل الطهي.</b> قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، داخل برميل معزول يحمل شعارنا،\n          مع صبّ محكوم لتنزل الحصّة في الصينية لا على حذاء أحد.",
   "pages": [
    "food-truck.html"
   ]
@@ -1365,6 +1365,96 @@
  },
  "<b>Hygiene and waste.</b> Wash sinks, sealed waste bins and a sanitising routine between\n          stops.": {
   "ar": "<b>النظافة والمخلّفات.</b> أحواض غسيل، وصناديق مخلّفات محكمة الإغلاق، وروتين تعقيم بين كل محطة وأخرى.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "The drum": {
+  "ar": "برميل الطهي",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "A Cairo qidra,<br/><span class=\"accent\">made for strays</span>": {
+  "ar": "قِدرة قاهرية،<br/><span class=\"accent\">لحيوانات الشارع</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "For centuries Cairo has cooked ful slowly in big metal drums and sold it hot from carts.<br/>\n        Our drum will work the same way, for street dogs and cats.<br/>\n        Inside will be a 100 litre stainless pot on a gas burner, wrapped in an insulated drum with our logo on it.": {
+  "ar": "منذ قرون والقاهرة تطهو الفول على مهل في قِدور معدنية كبيرة وتبيعه ساخنًا من العربات.<br/>\n        وبرميلنا سيعمل بالطريقة نفسها، لكلاب الشارع وقططه.<br/>\n        في داخله قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، يلفّه برميل معزول يحمل شعارنا.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "Cook while parked": {
+  "ar": "الطهي والشاحنة متوقفة",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "At our base, with the engine off, the stew will cook on gas for about two hours until it is boiling hot all the way through.": {
+  "ar": "في مقرّنا، والمحرك مطفأ، سيُطهى الطعام على الغاز نحو ساعتين حتى يغلي تمامًا من الداخل.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "Gas off, lid locked": {
+  "ar": "الغاز مغلق والغطاء مُحكم",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "The burner and gas bottles will be shut off and the lid clamped down before the truck moves.<br/>Nothing cooks while it drives.": {
+  "ar": "سيُطفأ الموقد وتُغلق أسطوانات الغاز ويُثبَّت الغطاء قبل أن تتحرك الشاحنة.<br/>لا طهي أثناء القيادة أبدًا.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "Drive it hot": {
+  "ar": "نصل والطعام ساخن",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "The insulated drum will keep the food above 60 °C on the way.<br/>Every meal will be served within four hours of cooking.": {
+  "ar": "سيحفظ البرميل المعزول الطعام فوق 60&nbsp;°م طوال الطريق.<br/>وستُقدَّم كل وجبة خلال أربع ساعات من انتهاء الطهي.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "Serve and wash": {
+  "ar": "التقديم ثم الغسيل",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "At each stop the stew will go onto our <a href=\"plates.html\">edible plates</a>.<br/>Back at base, the drum will be scrubbed, refilled and its temperatures logged.": {
+  "ar": "في كل محطة سيُقدَّم الطعام على <a href=\"plates.html\">أطباقنا التي تؤكل</a>.<br/>وعند العودة إلى المقر، سيُفرك البرميل ويُعاد ملؤه وتُسجَّل درجات حرارته.",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<b>100 L</b><span>of stew in one cook</span>": {
+  "ar": "<b>100&nbsp;لتر</b><span>من الطعام في الطهية الواحدة</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<b>About 250</b><span>meals from one cook</span>": {
+  "ar": "<b>نحو 250</b><span>وجبة من الطهية الواحدة</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<b>3–4 h</b><span>hot after the gas goes off</span>": {
+  "ar": "<b>3–4&nbsp;ساعات</b><span>يبقى ساخنًا بعد إغلاق الغاز</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "These are our design numbers, and we will test them with a full cook before the first round.<br/>\n      A licensed gas technician will fit and check the gas, and we will confirm the right <a href=\"#permits\">permits</a> with Cairo’s authorities before we build.": {
+  "ar": "هذه أرقام التصميم، وسنختبرها بطهية كاملة قبل أول جولة.<br/>\n      سيركّب فنّي غاز مرخّص التوصيلات ويفحصها، وسنتأكد من <a href=\"#permits\">التصاريح</a> المطلوبة مع سلطات القاهرة قبل البناء.",
   "pages": [
    "food-truck.html"
   ]
