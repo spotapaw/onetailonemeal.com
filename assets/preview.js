@@ -161,7 +161,7 @@ document.querySelectorAll('[data-hubcycle]').forEach(function (hub) {
   if (still) { show('dog', -1, true); return; }
   var steps = [];
   roles.forEach(function (r, i) { steps.push([r, i, false, 1600]); });
-  steps.push(['dog', -1, true, 10000], ['cat', -1, true, 10000]);
+  steps.push(['dog', -1, true, 2000], ['cat', -1, true, 2000]);
   var n = 0;
   (function next() { var s = steps[n]; show(s[0], s[1], s[2]); n = (n + 1) % steps.length; setTimeout(next, s[3]); })();
 });
