@@ -157,29 +157,57 @@
    "404.html"
   ]
  },
- "We could not walk past<br/><span class=\"accent\">one more hungry dog</span>": {
-  "ar": "لم نعد نحتمل أن نمرّ<br/><span class=\"accent\">بجانب كلب جائع آخر</span>",
+ "One meal helped.<br/><span class=\"accent\">We wanted to do more.</span>": {
+  "ar": "وجبة واحدة ساعدت.<br/><span class=\"accent\">وأردنا أن نفعل المزيد.</span>",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
- "We are a couple — one of us Egyptian-Australian, the other a long-time giver to animal charities —\n        and for years we have fed whatever animals we came across, out of our own pocket, one meal at a time.": {
-  "ar": "نحن زوجان — أحدنا مصري أسترالي، والآخر يدعم جمعيات رعاية الحيوان منذ سنوات طويلة —\n        ولسنوات كنا نُطعم كل حيوان نصادفه، من جيبنا الخاص، وجبة بعد وجبة.",
+ "We’re a couple — one of us Egyptian-Australian, the other a long-time supporter of animal charities.": {
+  "ar": "نحن زوجان — أحدنا مصري أسترالي، والآخر يدعم جمعيات رعاية الحيوان منذ سنوات طويلة.",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
- "It never felt like enough. You feed a dog on a Tuesday and you lie awake wondering about the Wednesday.\n        So we decided to build something that keeps turning up: the same truck, the same streets, every day.": {
-  "ar": "لم يكن ذلك كافيًا أبدًا. تُطعم كلبًا يوم الثلاثاء، ثم تسهر الليل تفكر فيه يوم الأربعاء.\n        لذلك قررنا أن نبني شيئًا يعود كل يوم: الشاحنة نفسها، والشوارع نفسها، يومًا بعد يوم.",
+ "For years, we’ve paid for food ourselves and fed street animals wherever we found them.": {
+  "ar": "لسنوات، كنا ندفع ثمن الطعام بأنفسنا ونُطعم حيوانات الشارع أينما وجدناها.",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
- "<strong style=\"color:var(--nile)\">No stray should go hungry because every tail deserves a meal.</strong>": {
-  "ar": "<strong style=\"color:var(--nile)\">لا يجب أن يجوع أي حيوان شارع، لأن كل ذيل يستحق وجبة.</strong>",
+ "But a meal today doesn’t guarantee one tomorrow.": {
+  "ar": "لكن وجبة اليوم لا تضمن وجبة الغد.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "That’s why we started <span style=\"white-space:nowrap\">One Tail One Meal</span>: to turn individual acts of kindness into regular, coordinated feeding.": {
+  "ar": "لهذا بدأنا <span style=\"white-space:nowrap\">One Tail One Meal</span>: لنحوّل أعمال اللطف الفردية إلى إطعام منتظم ومنسّق.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "Our vision includes a mobile feeding truck.": {
+  "ar": "رؤيتنا تشمل شاحنة إطعام متنقلة.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "We’re still working through its design and practical requirements, with a simple goal: helping more animals receive meals they can count on.": {
+  "ar": "ما زلنا نعمل على تصميمها ومتطلباتها العملية، بهدف بسيط: أن تحصل حيوانات أكثر على وجبات يمكنها الاعتماد عليها.",
+  "pages": [
+   "vision.html",
+   "404.html"
+  ]
+ },
+ "<strong style=\"color:var(--nile)\">Because every tail deserves a meal.</strong>": {
+  "ar": "<strong style=\"color:var(--nile)\">لأن كل ذيل يستحق وجبة.</strong>",
   "pages": [
    "vision.html",
    "404.html"
