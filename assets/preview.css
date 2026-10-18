@@ -496,3 +496,7 @@ html[dir=rtl] .jr-dog{left:auto;right:calc(10% + var(--p)*80%);transform:transla
 .ap-next-card .apaw-icon{border-radius:14px;flex:none}.ap-next-go{margin-left:auto;font-size:2rem;color:var(--orange);line-height:1}
 html[dir=rtl] .ap-next-go{margin-left:0;margin-right:auto;transform:scaleX(-1)}
 html[dir=rtl] .ap-next-card{text-align:right}.ap-next-card>div{flex:1}
+
+/* footer links turn orange on hover */
+footer a:not(.soc):not(.btn):not(.brand){transition:color .15s ease}
+footer a:not(.soc):not(.btn):not(.brand):hover,footer a:not(.soc):not(.btn):not(.brand):focus-visible{color:var(--orange)}
