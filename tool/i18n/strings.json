@@ -1070,6 +1070,13 @@
    "404.html"
   ]
  },
+ "The drum’s design comes from the Egyptian <em>qidra</em>, the big pot Cairo’s street vendors use to slow-cook ful, the beans the city eats for breakfast. A shape every Cairo street already knows, reworked to feed its animals.": {
+  "ar": "تصميم القِدرة مستوحى من <em>قِدرة الفول</em> المصرية، القِدر الكبيرة التي يطهو فيها باعة الشوارع في القاهرة الفول على نار هادئة لإفطار المدينة. شكل يعرفه كل شارع في القاهرة، أعدنا تصميمه لإطعام حيواناته.",
+  "pages": [
+   "index.html",
+   "404.html"
+  ]
+ },
  "Every detail, from the hygiene routine to the permits we need, is set out on the truck page.": {
   "ar": "كل التفاصيل، من روتين النظافة إلى التصاريح التي نحتاجها، موضحة في صفحة الشاحنة.",
   "pages": [
