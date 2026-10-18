@@ -793,8 +793,8 @@
    "404.html"
   ]
  },
- "Cairo, Egypt": {
-  "ar": "القاهرة، مصر",
+ "<span><span style=\"white-space:nowrap\">Cairo first.</span> <span style=\"white-space:nowrap\">Wherever we’re needed next.</span></span>": {
+  "ar": "<span><span style=\"white-space:nowrap\">القاهرة أولًا.</span> <span style=\"white-space:nowrap\">ثم حيثما احتاجونا.</span></span>",
   "pages": [
    "index.html",
    "404.html"
