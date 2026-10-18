@@ -31,13 +31,28 @@
     });
   }
 
+  /* Arabic pages get Arabic messages */
+  var AR = {
+    'A street animal someone helped': 'حيوان شارع ساعده أحدهم',
+    'This photo format can’t be opened here. Please choose a JPEG or PNG (on an iPhone: Settings → Camera → Formats → Most Compatible).':
+      'لا يمكن فتح هذه الصورة هنا. اختر صورة JPEG أو PNG (على iPhone: الإعدادات ← الكاميرا ← التنسيقات ← الأكثر توافقًا).',
+    'Choose a photo first.': 'اختر صورة أولًا.',
+    'Please tick the box to say the photo is yours to share.': 'ضع علامة في المربع لتؤكد أن الصورة لك ويمكنك مشاركتها.',
+    'Sending your photo…': 'جارٍ إرسال صورتك…',
+    'Thank you. We look at every photo before it goes up, so yours will appear here once we have seen it.':
+      'شكرًا لك. نراجع كل صورة قبل نشرها، وستظهر صورتك هنا بعد أن نراها.',
+    'This photo format can’t be opened here. Please choose a JPEG or PNG.': 'لا يمكن فتح هذه الصورة هنا. اختر صورة JPEG أو PNG.',
+    'That didn’t send. Check your connection and try again.': 'لم يتم الإرسال. تحقق من اتصالك وحاول مرة أخرى.'
+  };
+  function T(t) { return document.documentElement.lang === 'ar' && AR[t] || t; }
+
   /* ---------------------------------------------------------- the wall */
   function card(p) {
     var who = [p.name, p.place].filter(Boolean).map(esc).join(' &middot; ');
     var el = document.createElement('figure');
     el.className = 'paw';
     el.innerHTML =
-      '<img loading="lazy" decoding="async" alt="' + esc(p.story || 'A street animal someone helped') + '" src="' +
+      '<img loading="lazy" decoding="async" alt="' + esc(p.story || T('A street animal someone helped')) + '" src="' +
       SUPABASE + '/storage/v1/object/public/' + BUCKET + '/' + esc(p.photo_path) + '">' +
       '<figcaption>' + (p.story ? '<p>' + esc(p.story) + '</p>' : '') +
       (who ? '<span>' + who + '</span>' : '') + '</figcaption>';
@@ -83,8 +98,8 @@
     img.onload = function () { preview.hidden = false; };
     img.onerror = function () {
       preview.hidden = true;
-      say('This photo format can’t be opened here. Please choose a JPEG or PNG ' +
-          '(on an iPhone: Settings → Camera → Formats → Most Compatible).', 'bad');
+      say(T('This photo format can’t be opened here. Please choose a JPEG or PNG ' +
+          '(on an iPhone: Settings → Camera → Formats → Most Compatible).'), 'bad');
     };
     img.src = url;
   });
@@ -125,12 +140,12 @@
     ev.preventDefault();
     if (form.querySelector('#paw-website').value) return;  // bots fill hidden fields
     var f = fileIn.files && fileIn.files[0];
-    if (!f) return say('Choose a photo first.', 'bad');
+    if (!f) return say(T('Choose a photo first.'), 'bad');
     if (!form.querySelector('#paw-consent').checked) {
-      return say('Please tick the box to say the photo is yours to share.', 'bad');
+      return say(T('Please tick the box to say the photo is yours to share.'), 'bad');
     }
     button.disabled = true;
-    say('Sending your photo…');
+    say(T('Sending your photo…'));
 
     var path = 'uploads/' + uuid() + '.jpg';
     shrink(f).then(function (blob) {
@@ -157,12 +172,12 @@
       form.reset();
       preview.hidden = true;
       if (count) count.textContent = '0 / 400';
-      say('Thank you. We look at every photo before it goes up, so yours will appear here ' +
-          'once we have seen it.', 'good');
+      say(T('Thank you. We look at every photo before it goes up, so yours will appear here ' +
+          'once we have seen it.'), 'good');
     }).catch(function (e) {
       say(e && e.message === 'decode'
-        ? 'This photo format can’t be opened here. Please choose a JPEG or PNG.'
-        : 'That didn’t send. Check your connection and try again.', 'bad');
+        ? T('This photo format can’t be opened here. Please choose a JPEG or PNG.')
+        : T('That didn’t send. Check your connection and try again.'), 'bad');
     }).then(function () { button.disabled = false; });
   });
 })();
