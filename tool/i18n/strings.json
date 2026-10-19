@@ -299,16 +299,6 @@
    "404.html"
   ]
  },
- "AI concept": {
-  "ar": "تصوّر بالذكاء الاصطناعي",
-  "pages": [
-   "vision.html",
-   "index.html",
-   "food-truck.html",
-   "plates.html",
-   "404.html"
-  ]
- },
  "Give your time": {
   "ar": "امنحنا من وقتك",
   "pages": [
@@ -765,8 +755,8 @@
    "404.html"
   ]
  },
- "© 2026 One Tail One Meal. Every tail deserves a meal.<br/>An initiative of THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). Not a registered charity, so gifts are not tax deductible.": {
-  "ar": "© 2026 One Tail One Meal. كل ذيل يستحق وجبة.<br/>مبادرة من THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). ليست جمعية خيرية مسجلة، لذا فالتبرعات غير قابلة للخصم الضريبي.",
+ "© 2026 One Tail One Meal. Every tail deserves a meal.<br/>An initiative of THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). Not a registered charity, so gifts are not tax deductible.<br/>Pictures of the truck, kitchen, meals and plates are AI concepts of what we plan to build.": {
+  "ar": "© 2026 One Tail One Meal. كل ذيل يستحق وجبة.<br/>مبادرة من THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). ليست جمعية خيرية مسجلة، لذا فالتبرعات غير قابلة للخصم الضريبي.<br/>صور الشاحنة والمطبخ والوجبات والأطباق هي تصورات بالذكاء الاصطناعي لما نخطط لبنائه.",
   "pages": [
    "vision.html",
    "index.html",
@@ -912,10 +902,32 @@
    "404.html"
   ]
  },
- "<b>Today:</b> In <a href=\"a-paw-spot.html\">Spot-a-Paw</a>, foster &amp; grow communities of local butchers who create meat offers for collection by feeders and drivers.": {
-  "ar": "<b>اليوم:</b> في <a href=\"a-paw-spot.html\">Spot-a-Paw</a>، ادعم وطوّر مجتمعات من الجزارين المحليين الذين ينشرون عروض لحوم ليجمعها المُطعِمون والسائقون.",
+ "use our apps below.": {
+  "ar": "استخدم تطبيقاتنا أدناه.",
   "pages": [
    "index.html",
+   "404.html"
+  ]
+ },
+ "Today:": {
+  "ar": "اليوم:",
+  "pages": [
+   "index.html",
+   "404.html"
+  ]
+ },
+ "Spot-a-Paw": {
+  "ar": "Spot-a-Paw",
+  "pages": [
+   "index.html",
+   "404.html"
+  ]
+ },
+ "a-Paw Family": {
+  "ar": "a-Paw Family",
+  "pages": [
+   "index.html",
+   "a-paw-spot.html",
    "404.html"
   ]
  },
@@ -956,13 +968,6 @@
  },
  "A local driver who knows the animals will run the same round every day: streets, alleys, markets and the\n             quiet corners where colonies live.": {
   "ar": "سائق محلي يعرف الحيوانات سيقوم بالجولة نفسها كل يوم: الشوارع والأزقة والأسواق\n             والزوايا الهادئة حيث تعيش المستعمرات.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "<b>Today:</b> use <a href=\"a-paw-spot.html\">Spot-a-Paw</a> and <a href=\"a-paw.html#feed\">the a-Paw Family app</a> to create routes in your area.<br/>Feed colonies and notify rescuers, feeders &amp; drivers that they have been fed for the day.": {
-  "ar": "<b>اليوم:</b> استخدم <a href=\"a-paw-spot.html\">Spot-a-Paw</a> و <a href=\"a-paw.html#feed\">تطبيق a-Paw Family</a> لإنشاء مسارات في منطقتك.<br/>أطعم المستعمرات وأبلغ المنقذين والمُطعِمين والسائقين أنها أكلت لهذا اليوم.",
   "pages": [
    "index.html",
    "404.html"
@@ -3521,12 +3526,6 @@
  },
  "Also from us": {
   "ar": "من تطبيقاتنا أيضًا",
-  "pages": [
-   "a-paw-spot.html"
-  ]
- },
- "a-Paw Family": {
-  "ar": "a-Paw Family",
   "pages": [
    "a-paw-spot.html"
   ]

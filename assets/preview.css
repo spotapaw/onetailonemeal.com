@@ -604,3 +604,8 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .orbit.js .chip.lit{background:var(--orange);color:var(--nile);border-color:var(--orange);box-shadow:0 0 18px rgba(255,121,0,.6)}
 .orbit.big .chip{opacity:.25}
 .fam-icons.one{display:block}.fam-icons.one img{width:88px;height:88px;border-radius:20px}
+.today-apps{display:flex;flex-wrap:wrap;gap:.6rem 1.1rem;margin-top:.6rem}.today-line .today-apps a{display:inline-flex;align-items:center;gap:.5rem;color:var(--nile);font-weight:700;text-decoration:none}.today-line .today-apps a:hover{color:var(--orange)}.today-apps img{width:40px;height:40px;border-radius:10px;flex:none}
+.today-apps{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin-top:.7rem}
+.today-line .today-apps a{flex-direction:column;justify-content:center;gap:.4rem;padding:.75rem .5rem;border-radius:16px;background:var(--ivory);border:1px solid rgba(31,81,72,.12);color:var(--nile);font-size:.85rem;line-height:1.15;text-align:center;box-shadow:0 2px 8px rgba(31,81,72,.08);transition:transform .2s,box-shadow .2s,border-color .2s}
+.today-line .today-apps a:hover{color:var(--nile);transform:translateY(-3px);border-color:var(--orange);box-shadow:0 8px 18px rgba(255,121,0,.22)}
+.today-apps img{width:48px;height:48px;border-radius:12px}
