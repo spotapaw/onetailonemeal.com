@@ -965,15 +965,8 @@
    "404.html"
   ]
  },
- "create routes in your area.": {
-  "ar": "أنشئ مسارات في منطقتك.",
-  "pages": [
-   "index.html",
-   "404.html"
-  ]
- },
- "Feed colonies and notify rescuers, feeders & drivers that they have been fed for the day.": {
-  "ar": "أطعم المستعمرات وأبلغ المنقذين والمُطعِمين والسائقين أنها أكلت لهذا اليوم.",
+ "plan feeding rounds in the apps and mark each colony as fed, so other helpers know it’s covered.": {
+  "ar": "خطّط جولات الإطعام في التطبيقين وحدّد كل مستعمرة على أنها أكلت، ليعرف باقي المساعدين أنها مغطاة.",
   "pages": [
    "index.html",
    "404.html"
