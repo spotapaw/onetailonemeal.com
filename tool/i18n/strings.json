@@ -2794,13 +2794,13 @@
   ]
  },
  "We bring your pet to life!": {
-  "ar": "نُعيد حيوانك الأليف إلى الحياة!",
+  "ar": "نجعل حيوانك ينبض بالحياة!",
   "pages": [
    "a-paw.html"
   ]
  },
- "<b>Today:</b> Turn a photo of your pet into a short movie that brings them to life. Buy 1 movie or a pack of 3. Painted portraits are free.": {
-  "ar": "<b>اليوم:</b> حوّل صورة حيوانك الأليف إلى فيلم قصير يعيده إلى الحياة. اشترِ فيلمًا واحدًا أو باقة من 3. اللوحات المرسومة مجانية.",
+ "<b>Today:</b> Turn a photo of your pet into a short movie of them moving. Buy 1 movie or a pack of 3.": {
+  "ar": "<b>اليوم:</b> حوّل صورة حيوانك إلى فيلم قصير يتحرك فيه. اشترِ فيلمًا واحدًا أو باقة من 3.",
   "pages": [
    "a-paw.html"
   ]
