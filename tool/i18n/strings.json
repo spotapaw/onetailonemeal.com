@@ -938,8 +938,8 @@
    "404.html"
   ]
  },
- "It will be cooked on board in a sealed food-grade drum.<br/>What reaches an animal will be hot, clean and safe, never raw scraps off the street.": {
-  "ar": "سيُطهى الطعام على متن الشاحنة في برميل محكم الإغلاق مخصص للطعام.<br/>ما سيصل إلى الحيوان سيكون ساخنًا ونظيفًا وآمنًا، وليس بقايا نيئة من الشارع أبدًا.",
+ "It will be cooked on board in a sealed food-grade drum (Qidra).<br/>What reaches an animal will be hot, clean and safe, never raw scraps off the street.": {
+  "ar": "سيُطهى الطعام على متن الشاحنة في برميل (قِدرة) محكم الإغلاق مخصص للطعام.<br/>ما سيصل إلى الحيوان سيكون ساخنًا ونظيفًا وآمنًا، وليس بقايا نيئة من الشارع أبدًا.",
   "pages": [
    "index.html",
    "404.html"
@@ -1076,8 +1076,8 @@
    "404.html"
   ]
  },
- "The plan is a road-legal, health-approved van with a food-grade cooking drum on the back. Sealed bins for ingredients, cold storage, a cooker, a wash sink and a serving\n        hatch, all in a vehicle small enough for Cairo’s back streets.": {
-  "ar": "الخطة هي سيارة مرخّصة للسير على الطرق ومعتمدة صحيًا، وفي خلفها برميل طهي مخصص للطعام. صناديق محكمة الإغلاق للمكونات، وتخزين مبرّد، وموقد، وحوض غسيل، ونافذة\n        تقديم، وكل ذلك في مركبة صغيرة بما يكفي لشوارع القاهرة الجانبية.",
+ "The plan is a road-legal, health-approved van with a food-grade cooking drum (Qidra) on the back. Sealed bins for ingredients, cold storage, a cooker, a wash sink and a serving\n        hatch, all in a vehicle small enough for Cairo’s back streets.": {
+  "ar": "الخطة هي سيارة مرخّصة للسير على الطرق ومعتمدة صحيًا، وفي خلفها برميل (قِدرة) طهي مخصص للطعام. صناديق محكمة الإغلاق للمكونات، وتخزين مبرّد، وموقد، وحوض غسيل، ونافذة\n        تقديم، وكل ذلك في مركبة صغيرة بما يكفي لشوارع القاهرة الجانبية.",
   "pages": [
    "index.html",
    "404.html"
@@ -1275,8 +1275,8 @@
    "food-truck.html"
   ]
  },
- "A road-legal van with a food-grade cooking drum on the back: it collects, cooks, drives and\n      serves, then washes itself down and does it again tomorrow.": {
-  "ar": "سيارة مرخّصة للسير على الطريق، يُركَّب على ظهرها برميل طهي بمواصفات غذائية: ستجمع وتطبخ وتتنقّل\n      وتقدّم الطعام، ثم تُغسل جيدًا لتعيد الكرّة في اليوم التالي.",
+ "A road-legal van with a food-grade cooking drum (Qidra) on the back: it collects, cooks, drives and\n      serves, then washes itself down and does it again tomorrow.": {
+  "ar": "سيارة مرخّصة للسير على الطريق، يُركَّب على ظهرها برميل (قِدرة) طهي بمواصفات غذائية: ستجمع وتطبخ وتتنقّل\n      وتقدّم الطعام، ثم تُغسل جيدًا لتعيد الكرّة في اليوم التالي.",
   "pages": [
    "food-truck.html"
   ]
@@ -1311,8 +1311,8 @@
    "food-truck.html"
   ]
  },
- "A food-grade drum will cook while the truck is parked, then keep the food hot, so every meal leaves the truck hot and safe.": {
-  "ar": "سيطهو برميل بمواصفات غذائية الطعام والشاحنة متوقفة، ثم يحفظه ساخنًا، لتخرج كل وجبة من الشاحنة ساخنة وآمنة.",
+ "A food-grade drum (Qidra) will cook while the truck is parked, then keep the food hot, so every meal leaves the truck hot and safe.": {
+  "ar": "سيطهو برميل (قِدرة) بمواصفات غذائية الطعام والشاحنة متوقفة، ثم يحفظه ساخنًا، لتخرج كل وجبة من الشاحنة ساخنة وآمنة.",
   "pages": [
    "food-truck.html"
   ]
@@ -1401,8 +1401,8 @@
    "food-truck.html"
   ]
  },
- "<b>The drum.</b> A 100 litre stainless pot on a gas burner, inside an insulated drum,\n          with a controlled pour-out so a portion goes into a tray rather than over a shoe.": {
-  "ar": "<b>برميل الطهي.</b> قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، داخل برميل معزول،\n          مع صبّ محكوم لتنزل الحصّة في الصينية لا على حذاء أحد.",
+ "<b>The drum (Qidra).</b> A 100 litre stainless pot on a gas burner, inside an insulated drum (Qidra),\n          with a controlled pour-out so a portion goes into a tray rather than over a shoe.": {
+  "ar": "<b>برميل (قِدرة) الطهي.</b> قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، داخل برميل (قِدرة) معزول،\n          مع صبّ محكوم لتنزل الحصّة في الصينية لا على حذاء أحد.",
   "pages": [
    "food-truck.html"
   ]
@@ -1419,8 +1419,8 @@
    "food-truck.html"
   ]
  },
- "The drum": {
-  "ar": "برميل الطهي",
+ "The drum (Qidra)": {
+  "ar": "برميل (قِدرة) الطهي",
   "pages": [
    "food-truck.html"
   ]
@@ -1431,8 +1431,8 @@
    "food-truck.html"
   ]
  },
- "For centuries Cairo has cooked ful slowly in big metal drums and sold it hot from carts.<br/>\n        Our drum will work the same way, for street dogs and cats.<br/>\n        Inside will be a 100 litre stainless pot on a gas burner, wrapped in an insulated drum.": {
-  "ar": "منذ قرون والقاهرة تطهو الفول على مهل في قِدور معدنية كبيرة وتبيعه ساخنًا من العربات.<br/>\n        وبرميلنا سيعمل بالطريقة نفسها، لكلاب الشارع وقططه.<br/>\n        في داخله قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، يلفّه برميل معزول.",
+ "For centuries Cairo has cooked ful slowly in big metal drums and sold it hot from carts.<br/>\n        Our drum (Qidra) will work the same way, for street dogs and cats.<br/>\n        Inside will be a 100 litre stainless pot on a gas burner, wrapped in an insulated drum (Qidra).": {
+  "ar": "منذ قرون والقاهرة تطهو الفول على مهل في قِدور معدنية كبيرة وتبيعه ساخنًا من العربات.<br/>\n        وبرميلنا (قِدرة) سيعمل بالطريقة نفسها، لكلاب الشارع وقططه.<br/>\n        في داخله قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، يلفّه برميل (قِدرة) معزول.",
   "pages": [
    "food-truck.html"
   ]
@@ -1485,8 +1485,8 @@
    "food-truck.html"
   ]
  },
- "The insulated drum will keep the food above 60 °C on the way.<br/>Every meal will be served within four hours of cooking.": {
-  "ar": "سيحفظ البرميل المعزول الطعام فوق 60&nbsp;°م طوال الطريق.<br/>وستُقدَّم كل وجبة خلال أربع ساعات من انتهاء الطهي.",
+ "The insulated drum (Qidra) will keep the food above 60 °C on the way.<br/>Every meal will be served within four hours of cooking.": {
+  "ar": "سيحفظ البرميل (قِدرة) المعزول الطعام فوق 60&nbsp;°م طوال الطريق.<br/>وستُقدَّم كل وجبة خلال أربع ساعات من انتهاء الطهي.",
   "pages": [
    "food-truck.html"
   ]
@@ -1503,8 +1503,8 @@
    "food-truck.html"
   ]
  },
- "At each stop the stew will go onto our <a href=\"plates.html\">edible plates</a>.<br/>Back at base, the drum will be scrubbed, refilled and its temperatures logged.": {
-  "ar": "في كل محطة سيُقدَّم الطعام على <a href=\"plates.html\">أطباقنا التي تؤكل</a>.<br/>وعند العودة إلى المقر، سيُفرك البرميل ويُعاد ملؤه وتُسجَّل درجات حرارته.",
+ "At each stop the stew will go onto our <a href=\"plates.html\">edible plates</a>.<br/>Back at base, the drum (Qidra) will be scrubbed, refilled and its temperatures logged.": {
+  "ar": "في كل محطة سيُقدَّم الطعام على <a href=\"plates.html\">أطباقنا التي تؤكل</a>.<br/>وعند العودة إلى المقر، سيُفرك البرميل (قِدرة) ويُعاد ملؤه وتُسجَّل درجات حرارته.",
   "pages": [
    "food-truck.html"
   ]
@@ -3645,14 +3645,14 @@
    "costings.html"
   ]
  },
- "A sealed stainless cooking drum, a gas burner and bottle, a water tank, shelving and a fire extinguisher, built onto the truck bed.": {
-  "ar": "برميل طهي من الستانلس ستيل محكم الإغلاق، وموقد غاز وأسطوانة، وخزان مياه، وأرفف، وطفاية حريق، تُركَّب كلها على صندوق الشاحنة.",
+ "A sealed stainless cooking drum (Qidra), a gas burner and bottle, a water tank, shelving and a fire extinguisher, built onto the truck bed.": {
+  "ar": "برميل (قِدرة) طهي من الستانلس ستيل محكم الإغلاق، وموقد غاز وأسطوانة، وخزان مياه، وأرفف، وطفاية حريق، تُركَّب كلها على صندوق الشاحنة.",
   "pages": [
    "costings.html"
   ]
  },
- "Mobile kitchen units built in Egypt start at about 60,000 EGP for a complete 2×3 m unit (Al Waled Caravan). We only need the drum and burner, not a full enclosed kitchen.": {
-  "ar": "تبدأ وحدات المطابخ المتنقلة المصنوعة في مصر من نحو 60,000 جنيه مصري لوحدة كاملة مقاس 2×3 م (Al Waled Caravan). نحن لا نحتاج إلا برميل الطهي والموقد، لا مطبخًا مغلقًا كاملًا.",
+ "Mobile kitchen units built in Egypt start at about 60,000 EGP for a complete 2×3 m unit (Al Waled Caravan). We only need the drum (Qidra) and burner, not a full enclosed kitchen.": {
+  "ar": "تبدأ وحدات المطابخ المتنقلة المصنوعة في مصر من نحو 60,000 جنيه مصري لوحدة كاملة مقاس 2×3 م (Al Waled Caravan). نحن لا نحتاج إلا برميل (قِدرة) الطهي والموقد، لا مطبخًا مغلقًا كاملًا.",
   "pages": [
    "costings.html"
   ]
