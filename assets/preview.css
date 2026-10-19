@@ -603,3 +603,4 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .orbit.js .chip{animation:none;transition:background .5s,color .5s,border-color .5s,box-shadow .5s,opacity .8s}
 .orbit.js .chip.lit{background:var(--orange);color:var(--nile);border-color:var(--orange);box-shadow:0 0 18px rgba(255,121,0,.6)}
 .orbit.big .chip{opacity:.25}
+.fam-icons.one{display:block}.fam-icons.one img{width:88px;height:88px;border-radius:20px}
