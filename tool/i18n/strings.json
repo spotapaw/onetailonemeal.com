@@ -902,8 +902,8 @@
    "404.html"
   ]
  },
- "use our apps below.": {
-  "ar": "استخدم تطبيقاتنا أدناه.",
+ "foster & grow communities of local butchers who create meat offers for collection by feeders and drivers.": {
+  "ar": "ادعم وطوّر مجتمعات من الجزارين المحليين الذين ينشرون عروض لحوم ليجمعها المُطعِمون والسائقون.",
   "pages": [
    "index.html",
    "404.html"
@@ -920,14 +920,6 @@
   "ar": "Spot-a-Paw",
   "pages": [
    "index.html",
-   "404.html"
-  ]
- },
- "a-Paw Family": {
-  "ar": "a-Paw Family",
-  "pages": [
-   "index.html",
-   "a-paw-spot.html",
    "404.html"
   ]
  },
@@ -970,6 +962,28 @@
   "ar": "سائق محلي يعرف الحيوانات سيقوم بالجولة نفسها كل يوم: الشوارع والأزقة والأسواق\n             والزوايا الهادئة حيث تعيش المستعمرات.",
   "pages": [
    "index.html",
+   "404.html"
+  ]
+ },
+ "create routes in your area.": {
+  "ar": "أنشئ مسارات في منطقتك.",
+  "pages": [
+   "index.html",
+   "404.html"
+  ]
+ },
+ "Feed colonies and notify rescuers, feeders & drivers that they have been fed for the day.": {
+  "ar": "أطعم المستعمرات وأبلغ المنقذين والمُطعِمين والسائقين أنها أكلت لهذا اليوم.",
+  "pages": [
+   "index.html",
+   "404.html"
+  ]
+ },
+ "a-Paw Family": {
+  "ar": "a-Paw Family",
+  "pages": [
+   "index.html",
+   "a-paw-spot.html",
    "404.html"
   ]
  },
