@@ -902,8 +902,8 @@
    "404.html"
   ]
  },
- "local butchers post their leftover meat in the app, and feeders and drivers pick it up.": {
-  "ar": "ينشر الجزارون المحليون بقايا اللحوم في التطبيق، ويجمعها المُطعِمون والسائقون.",
+ "butchers can post leftover meat in the app for feeders and drivers to collect.": {
+  "ar": "يمكن للجزارين نشر بقايا اللحوم في التطبيق ليجمعها المُطعِمون والسائقون.",
   "pages": [
    "index.html",
    "404.html"
