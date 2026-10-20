@@ -657,8 +657,8 @@
    "404.html"
   ]
  },
- "<a href=\"food-truck.html#permits\">Permits and rules</a>": {
-  "ar": "<a href=\"food-truck.html#permits\">التصاريح والقواعد</a>",
+ "<a href=\"food-truck.html#permits\">Progress and permits</a>": {
+  "ar": "<a href=\"food-truck-ar.html#permits\">التقدّم والتصاريح</a>",
   "pages": [
    "vision.html",
    "index.html",
@@ -797,8 +797,8 @@
    "404.html"
   ]
  },
- "Thousands of dogs and cats live on the streets, and most of them go to sleep hungry.\n      We want to build a food truck that collects the meat butchers would throw away, cooks it safely on\n      board, and serves it warm to the animals where they already are. Our first stop… Cairo, Egypt.": {
-  "ar": "آلاف الكلاب والقطط تعيش في الشوارع، ومعظمها ينام جائعًا.\n      نريد أن نبني شاحنة طعام تجمع اللحوم التي كان الجزارون سيتخلصون منها، وتطهوها بأمان على\n      متنها، وتقدّمها دافئة للحيوانات في أماكنها. محطتنا الأولى… القاهرة، مصر.",
+ "Thousands of dogs and cats live on the streets, and most of them go to sleep hungry.\n      We want to build a food truck that collects surplus meat from butchers, cooks it on\n      board, and serves it fresh to the animals where they already are. Our first stop… Cairo, Egypt.": {
+  "ar": "آلاف الكلاب والقطط تعيش في الشوارع، ومعظمها ينام جائعًا.\n      نريد بناء شاحنة طعام تجمع اللحوم الفائضة من الجزارين، وتطهوها على متنها، وتقدّمها طازجة للحيوانات حيث تعيش. محطتنا الأولى… القاهرة، مصر.",
   "pages": [
    "index.html"
   ]
@@ -817,8 +817,8 @@
    "404.html"
   ]
  },
- "Australian dollars to get the first truck out": {
-  "ar": "دولار أسترالي لإطلاق أول شاحنة",
+ "Australian dollars, our initial funding target": {
+  "ar": "دولار أسترالي، هدف التمويل المبدئي",
   "pages": [
    "index.html",
    "404.html"
@@ -841,8 +841,8 @@
    "404.html"
   ]
  },
- "Waste, plate and all": {
-  "ar": "بلا هدر، حتى الطبق",
+ "Waste we aim to leave, plate and all": {
+  "ar": "نفايات نهدف إلى تركها، بما فيها الطبق",
   "pages": [
    "index.html",
    "404.html"
@@ -855,8 +855,8 @@
    "food-truck.html"
   ]
  },
- "This is the truck we want to build: a road-legal, health-approved van,\n        driven every day by someone who knows the animals on the round.": {
-  "ar": "هذه هي الشاحنة التي نريد أن نبنيها: سيارة مرخّصة للسير على الطرق ومعتمدة صحيًا،\n        يقودها كل يوم شخص يعرف الحيوانات على طول الجولة.",
+ "This is the truck we want to build,\n        driven every day by someone who knows the animals on the round.": {
+  "ar": "هذه هي الشاحنة التي نريد بناءها،\n        يقودها كل يوم شخص يعرف الحيوانات على خط السير.",
   "pages": [
    "index.html"
   ]
@@ -874,8 +874,8 @@
    "404.html"
   ]
  },
- "Every day, Cairo’s butchers throw away meat and bone that is perfectly good for animals.\n        Every day, the animals a few streets away go hungry. The truck closes that gap.": {
-  "ar": "كل يوم، يتخلص جزارو القاهرة من لحوم وعظام صالحة تمامًا للحيوانات.\n        وكل يوم، تجوع الحيوانات على بُعد بضعة شوارع. الشاحنة ستسد هذه الفجوة.",
+ "Every day, Cairo’s butchers are left with surplus meat they cannot sell.\n        Every day, the animals a few streets away go hungry. The truck closes that gap.": {
+  "ar": "كل يوم، يتبقّى لدى جزّاري القاهرة لحم فائض لا يستطيعون بيعه.\n        وكل يوم، تجوع الحيوانات على بُعد شوارع قليلة. والشاحنة تسدّ هذه الفجوة.",
   "pages": [
    "index.html",
    "404.html"
@@ -895,8 +895,8 @@
    "404.html"
   ]
  },
- "Each morning the truck will stop at partner butchers for the chicken, beef and bone they would otherwise throw away.": {
-  "ar": "كل صباح ستتوقف الشاحنة عند الجزارين الشركاء لتأخذ الدجاج واللحم والعظام التي كانوا سيتخلصون منها.",
+ "Each morning the truck will collect accepted, traceable surplus meat from partner butchers.": {
+  "ar": "كل صباح ستجمع الشاحنة لحمًا فائضًا مقبولًا ومعروف المصدر من الجزارين الشركاء.",
   "pages": [
    "index.html",
    "404.html"
@@ -938,8 +938,8 @@
    "404.html"
   ]
  },
- "It will be cooked on board in a sealed food-grade drum (Qidra).<br/>What reaches an animal will be hot, clean and safe, never raw scraps off the street.": {
-  "ar": "سيُطهى الطعام على متن الشاحنة في برميل (قِدرة) محكم الإغلاق مخصص للطعام.<br/>ما سيصل إلى الحيوان سيكون ساخنًا ونظيفًا وآمنًا، وليس بقايا نيئة من الشارع أبدًا.",
+ "It will be cooked on board in a food-grade drum (Qidra) while the truck is parked.<br/>Recipes, cooking and serving steps will be tested and reviewed before the first round.": {
+  "ar": "سيُطهى على متن الشاحنة في برميل (قِدرة) مخصّص للطعام أثناء توقّفها.<br/>وستُختبر الوصفات وخطوات الطهي والتقديم وتُراجَع قبل أول جولة.",
   "pages": [
    "index.html",
    "404.html"
@@ -995,8 +995,8 @@
    "404.html"
   ]
  },
- "Meals will go out on plates pressed from vegetables.<br/>The animal eats the plate too, so nothing will be left on the street behind us.": {
-  "ar": "ستُقدَّم الوجبات على أطباق مضغوطة من الخضروات.<br/>الحيوان يأكل الطبق أيضًا، فلن نترك شيئًا خلفنا في الشارع.",
+ "Meals will go out on edible plates pressed from vegetables, a prototype we are still testing.<br/>The aim is to leave nothing on the street behind us.": {
+  "ar": "ستُقدَّم الوجبات على أطباق صالحة للأكل مضغوطة من الخضار، وهي نموذج أولي ما زلنا نختبره.<br/>هدفنا ألّا نترك شيئًا في الشارع خلفنا.",
   "pages": [
    "index.html",
    "404.html"
@@ -1033,8 +1033,8 @@
    "index.html"
   ]
  },
- "Every meal will be served on a plate pressed and baked from rescued vegetables that markets\n        would otherwise throw away. The animal eats the meal, then the plate.": {
-  "ar": "ستُقدَّم كل وجبة على طبق مضغوط ومخبوز من خضروات مُنقذة كانت الأسواق\n        ستتخلص منها. الحيوان يأكل الوجبة، ثم الطبق.",
+ "We plan to serve meals on plates pressed and baked from rescued vegetables that markets\n        would otherwise throw away. The aim: the animal eats the meal, then the plate.": {
+  "ar": "نخطط لتقديم الوجبات على أطباق مضغوطة ومخبوزة من خضار مُنقَذة كانت الأسواق\n        ستتخلّص منها. الهدف: أن يأكل الحيوان الوجبة، ثم الطبق.",
   "pages": [
    "index.html"
   ]
@@ -1053,6 +1053,12 @@
  },
  "No plastic and no litter left on the street": {
   "ar": "بلا بلاستيك وبلا قمامة تُترك في الشارع",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "A prototype we will test for strength, hygiene and storage first": {
+  "ar": "نموذج أولي سنختبر قوّته ونظافته ومدة حفظه أولًا",
   "pages": [
    "index.html"
   ]
@@ -1076,8 +1082,8 @@
    "404.html"
   ]
  },
- "The plan is a road-legal, health-approved van with a food-grade cooking drum (Qidra) on the back. Sealed bins for ingredients, cold storage, a cooker, a wash sink and a serving\n        hatch, all in a vehicle small enough for Cairo’s back streets.": {
-  "ar": "الخطة هي سيارة مرخّصة للسير على الطرق ومعتمدة صحيًا، وفي خلفها برميل (قِدرة) طهي مخصص للطعام. صناديق محكمة الإغلاق للمكونات، وتخزين مبرّد، وموقد، وحوض غسيل، ونافذة\n        تقديم، وكل ذلك في مركبة صغيرة بما يكفي لشوارع القاهرة الجانبية.",
+ "The plan is a small van with a food-grade cooking drum (Qidra) on the back. The vehicle, equipment and recipes still need specialist review, testing and local permissions before the first round. Sealed bins for ingredients, cold storage, a cooker, a wash sink and a serving\n        hatch, all in a vehicle small enough for Cairo’s back streets.": {
+  "ar": "الخطة شاحنة صغيرة عليها برميل (قِدرة) طهي مخصّص للطعام. وما زالت المركبة والمعدات والوصفات بحاجة إلى مراجعة متخصّصين واختبار وتصاريح محلية قبل أول جولة. صناديق محكمة للمكوّنات، وتبريد، وموقد، وحوض غسيل، ونافذة\n        تقديم، كلها في مركبة صغيرة تناسب شوارع القاهرة الخلفية.",
   "pages": [
    "index.html",
    "404.html"
@@ -1090,8 +1096,8 @@
    "404.html"
   ]
  },
- "Every detail, from the hygiene routine to the permits we need, is set out on the truck page.": {
-  "ar": "كل التفاصيل، من روتين النظافة إلى التصاريح التي نحتاجها، موضحة في صفحة الشاحنة.",
+ "Every detail, from the hygiene routine to the permits we are assessing, is set out on the truck page.": {
+  "ar": "كل التفاصيل، من روتين النظافة إلى التصاريح التي ندرسها، موجودة في صفحة الشاحنة.",
   "pages": [
    "index.html",
    "404.html"
@@ -1146,10 +1152,11 @@
    "food-truck.html"
   ]
  },
- "Our goal for truck one, in Australian dollars": {
-  "ar": "هدفنا للشاحنة الأولى، بالدولار الأسترالي",
+ "Initial funding target for truck one, in Australian dollars": {
+  "ar": "هدف التمويل المبدئي للشاحنة الأولى، بالدولار الأسترالي",
   "pages": [
    "index.html",
+   "food-truck.html",
    "404.html"
   ]
  },
@@ -1262,11 +1269,10 @@
    "costings.html"
   ]
  },
- "How the One Tail One Meal food truck works: collecting from butchers, cooking on board, serving on edible plates, and the permits and hygiene behind it.": {
-  "ar": "كيف ستعمل شاحنة طعام One Tail One Meal: جمع البواقي من الجزّارين، والطهي على متنها، والتقديم في أطباق تؤكل، والتصاريح وقواعد النظافة التي تقف وراء ذلك.",
+ "How the One Tail One Meal food truck works: collecting from butchers, cooking on board, serving on edible plates, and the permits we are assessing.": {
+  "ar": "كيف ستعمل شاحنة طعام One Tail One Meal: الجمع من الجزارين، والطهي على متنها، والتقديم على أطباق صالحة للأكل، والتصاريح التي ندرسها.",
   "pages": [
-   "food-truck.html",
-   "costings.html"
+   "food-truck.html"
   ]
  },
  "Turning the plan<br/><span class=\"accent\">into wheels</span>": {
@@ -1275,8 +1281,8 @@
    "food-truck.html"
   ]
  },
- "A road-legal van with a food-grade cooking drum (Qidra) on the back: it collects, cooks, drives and\n      serves, then washes itself down and does it again tomorrow.": {
-  "ar": "سيارة مرخّصة للسير على الطريق، يُركَّب على ظهرها برميل (قِدرة) طهي بمواصفات غذائية: ستجمع وتطبخ وتتنقّل\n      وتقدّم الطعام، ثم تُغسل جيدًا لتعيد الكرّة في اليوم التالي.",
+ "We are developing our first feeding truck for Cairo.<br/>\n      The plan is a van with a food-grade cooking drum (Qidra) on the back: it collects, cooks, drives and serves.<br/>\n      The vehicle, equipment and recipes still need specialist review, testing and local permissions before the first round.": {
+  "ar": "نعمل على تطوير أول شاحنة إطعام لنا في القاهرة.<br/>\n      الخطة شاحنة عليها برميل (قِدرة) طهي مخصّص للطعام: تجمع وتطهو وتسير وتقدّم.<br/>\n      وما زالت المركبة والمعدات والوصفات بحاجة إلى مراجعة متخصّصين واختبار وتصاريح محلية قبل أول جولة.",
   "pages": [
    "food-truck.html"
   ]
@@ -1311,8 +1317,8 @@
    "food-truck.html"
   ]
  },
- "A food-grade drum (Qidra) will cook while the truck is parked, then keep the food hot, so every meal leaves the truck hot and safe.": {
-  "ar": "سيطهو برميل (قِدرة) بمواصفات غذائية الطعام والشاحنة متوقفة، ثم يحفظه ساخنًا، لتخرج كل وجبة من الشاحنة ساخنة وآمنة.",
+ "A food-grade drum (Qidra) will cook while the truck is parked. Cooking, holding and serving steps will be set through trials before we serve.": {
+  "ar": "سيطهو برميل (قِدرة) مخصّص للطعام أثناء توقّف الشاحنة. وستُحدَّد خطوات الطهي والحفظ والتقديم عبر التجارب قبل أن نبدأ التقديم.",
   "pages": [
    "food-truck.html"
   ]
@@ -1365,8 +1371,8 @@
    "food-truck.html"
   ]
  },
- "Food is served on edible plates, waste goes in sealed bins, and every stop is washed down.": {
-  "ar": "سيُقدَّم الطعام في أطباق تؤكل، وتذهب المخلّفات إلى صناديق محكمة الإغلاق، وتُغسل كل محطة بعد التوقّف فيها.",
+ "Food will be served on edible plates (a prototype we are testing), waste will go in sealed bins, and every stop will be washed down.": {
+  "ar": "سيُقدَّم الطعام على أطباق صالحة للأكل (نموذج أولي نختبره)، وستذهب النفايات إلى صناديق محكمة، وستُغسل كل محطة.",
   "pages": [
    "food-truck.html"
   ]
@@ -1389,8 +1395,8 @@
    "food-truck.html"
   ]
  },
- "<b>Vehicle and structure.</b> A roadworthy vehicle, inspected and approved for health and food safety.": {
-  "ar": "<b>السيارة والهيكل.</b> سيارة صالحة للسير، تخضع للفحص وتحصل على موافقة الصحة وسلامة الغذاء.",
+ "<b>Vehicle and structure.</b> A roadworthy vehicle that will need its inspections and approvals before it goes out.": {
+  "ar": "<b>المركبة والهيكل.</b> مركبة صالحة للطريق ستحتاج إلى الفحوص والموافقات اللازمة قبل أن تنطلق.",
   "pages": [
    "food-truck.html"
   ]
@@ -1401,8 +1407,8 @@
    "food-truck.html"
   ]
  },
- "<b>The drum (Qidra).</b> A 100 litre stainless pot on a gas burner, inside an insulated drum (Qidra),\n          with a controlled pour-out so a portion goes into a tray rather than over a shoe.": {
-  "ar": "<b>برميل (قِدرة) الطهي.</b> قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، داخل برميل (قِدرة) معزول،\n          مع صبّ محكوم لتنزل الحصّة في الصينية لا على حذاء أحد.",
+ "<b>The drum (Qidra).</b> A fixed food-grade vessel with internal mixing, inside an insulated drum (Qidra),\n          with a controlled pour-out so a portion goes into a tray rather than over a shoe. Size and heat source will be set through trials.": {
+  "ar": "<b>البرميل (القِدرة).</b> وعاء ثابت مخصّص للطعام مع خلط داخلي، داخل برميل (قِدرة) معزول،\n          مع فتحة صبّ مضبوطة كي تذهب الحصة إلى الصينية لا على الحذاء. وسيُحدَّد الحجم ومصدر الحرارة عبر التجارب.",
   "pages": [
    "food-truck.html"
   ]
@@ -1431,14 +1437,14 @@
    "food-truck.html"
   ]
  },
- "For centuries Cairo has cooked ful slowly in big metal drums and sold it hot from carts.<br/>\n        Our drum (Qidra) will work the same way, for street dogs and cats.<br/>\n        Inside will be a 100 litre stainless pot on a gas burner, wrapped in an insulated drum (Qidra).": {
-  "ar": "منذ قرون والقاهرة تطهو الفول على مهل في قِدور معدنية كبيرة وتبيعه ساخنًا من العربات.<br/>\n        وبرميلنا (قِدرة) سيعمل بالطريقة نفسها، لكلاب الشارع وقططه.<br/>\n        في داخله قِدر من الستانلس ستيل سعته 100 لتر فوق موقد غاز، يلفّه برميل (قِدرة) معزول.",
+ "For centuries Cairo has cooked ful slowly in big metal drums and sold it hot from carts.<br/>\n        Our drum (Qidra) will work the same way, for street dogs and cats.<br/>\n        We are assessing a fixed food-grade vessel with internal mixing, cooked while parked, then kept at a controlled temperature for transport and serving.<br/>\n        Capacity, heating method and times will be set through equipment selection and trials.": {
+  "ar": "منذ قرون تطهو القاهرة الفول ببطء في براميل معدنية كبيرة وتبيعه ساخنًا من العربات.<br/>\n        وسيعمل برميلنا (القِدرة) بالطريقة نفسها، لكلاب الشوارع وقططها.<br/>\n        ندرس وعاءً ثابتًا مخصّصًا للطعام مع خلط داخلي، يُطهى فيه أثناء التوقّف، ثم يُحفظ الطعام بدرجة حرارة مضبوطة أثناء النقل والتقديم.<br/>\n        وستُحدَّد السعة وطريقة التسخين والأوقات عبر اختيار المعدات والتجارب.",
   "pages": [
    "food-truck.html"
   ]
  },
- "AI concept: our truck parked at base, the drum cooking on gas while a cook checks the thermometer": {
-  "ar": "مفهوم بالذكاء الاصطناعي: شاحنتنا متوقفة في المقر، والبرميل يطهو على الغاز بينما يفحص الطاهي الترمومتر",
+ "AI concept: our truck parked at base, the drum cooking while a cook checks the thermometer": {
+  "ar": "مفهوم بالذكاء الاصطناعي: شاحنتنا متوقفة في المقر، والبرميل يطهو بينما يتحقق الطاهي من مقياس الحرارة",
   "pages": [
    "food-truck.html"
   ]
@@ -1449,26 +1455,26 @@
    "food-truck.html"
   ]
  },
- "At our base, with the engine off, the stew will cook on gas for about two hours until it is boiling hot all the way through.": {
-  "ar": "في مقرّنا، والمحرك مطفأ، سيُطهى الطعام على الغاز نحو ساعتين حتى يغلي تمامًا من الداخل.",
+ "At our base, with the engine off.<br/>Cooking times and temperatures will be set through recipe trials and specialist review.": {
+  "ar": "في مقرّنا، والمحرك مطفأ.<br/>ستُحدَّد أوقات الطهي ودرجات الحرارة عبر تجارب الوصفات ومراجعة المتخصّصين.",
   "pages": [
    "food-truck.html"
   ]
  },
- "AI concept: a gloved hand closing the gas bottle valve next to the clamped drum lid": {
-  "ar": "مفهوم بالذكاء الاصطناعي: يد بقفاز تغلق صمام أسطوانة الغاز بجانب غطاء البرميل المُحكَم",
+ "AI concept: a gloved hand switching off the heat before the truck moves": {
+  "ar": "مفهوم بالذكاء الاصطناعي: يد بقفاز تطفئ الحرارة قبل أن تتحرك الشاحنة",
   "pages": [
    "food-truck.html"
   ]
  },
- "Gas off, lid locked": {
-  "ar": "الغاز مغلق والغطاء مُحكم",
+ "Heat off, secured": {
+  "ar": "الحرارة مطفأة، والمعدات مثبّتة",
   "pages": [
    "food-truck.html"
   ]
  },
- "The burner and gas bottles will be shut off and the lid clamped down before the truck moves.<br/>Nothing cooks while it drives.": {
-  "ar": "سيُطفأ الموقد وتُغلق أسطوانات الغاز ويُثبَّت الغطاء قبل أن تتحرك الشاحنة.<br/>لا طهي أثناء القيادة أبدًا.",
+ "The heat will be switched off and the equipment secured before the truck moves.<br/>Nothing cooks while it drives.": {
+  "ar": "ستُطفأ الحرارة وتُثبَّت المعدات قبل أن تتحرك الشاحنة.<br/>لا شيء يُطهى أثناء السير.",
   "pages": [
    "food-truck.html"
   ]
@@ -1479,20 +1485,20 @@
    "food-truck.html"
   ]
  },
- "Drive it hot": {
-  "ar": "نصل والطعام ساخن",
+ "Drive to the round": {
+  "ar": "الانطلاق إلى خط السير",
   "pages": [
    "food-truck.html"
   ]
  },
- "The insulated drum (Qidra) will keep the food above 60 °C on the way.<br/>Every meal will be served within four hours of cooking.": {
-  "ar": "سيحفظ البرميل (قِدرة) المعزول الطعام فوق 60&nbsp;°م طوال الطريق.<br/>وستُقدَّم كل وجبة خلال أربع ساعات من انتهاء الطهي.",
+ "The food will travel at a controlled temperature.<br/>Holding times will be set through trials.": {
+  "ar": "سينتقل الطعام بدرجة حرارة مضبوطة.<br/>وستُحدَّد مدة الحفظ عبر التجارب.",
   "pages": [
    "food-truck.html"
   ]
  },
- "AI concept: the cook ladling stew onto edible plates for two dogs and a cat": {
-  "ar": "مفهوم بالذكاء الاصطناعي: الطاهي يغرف اليخنة على أطباق صالحة للأكل لكلبين وقطة",
+ "AI concept: the cook ladling food onto edible plates for two dogs and a cat": {
+  "ar": "مفهوم بالذكاء الاصطناعي: الطاهي يغرف الطعام على أطباق صالحة للأكل لكلبين وقطة",
   "pages": [
    "food-truck.html"
   ]
@@ -1503,32 +1509,14 @@
    "food-truck.html"
   ]
  },
- "At each stop the stew will go onto our <a href=\"plates.html\">edible plates</a>.<br/>Back at base, the drum (Qidra) will be scrubbed, refilled and its temperatures logged.": {
-  "ar": "في كل محطة سيُقدَّم الطعام على <a href=\"plates.html\">أطباقنا التي تؤكل</a>.<br/>وعند العودة إلى المقر، سيُفرك البرميل (قِدرة) ويُعاد ملؤه وتُسجَّل درجات حرارته.",
+ "At each stop, meals will be served at a suitable temperature on our <a href=\"plates.html\">edible plates</a>.<br/>Back at base, the drum (Qidra) will be cleaned and its temperatures logged.": {
+  "ar": "في كل محطة، ستُقدَّم الوجبات بدرجة حرارة مناسبة على <a href=\"plates-ar.html\">أطباقنا الصالحة للأكل</a>.<br/>وفي المقر، سيُنظَّف البرميل (القِدرة) وتُسجَّل درجات حرارته.",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>100 L</b><span>of stew in one cook</span>": {
-  "ar": "<b>100&nbsp;لتر</b><span>من الطعام في الطهية الواحدة</span>",
-  "pages": [
-   "food-truck.html"
-  ]
- },
- "<b>About 250</b><span>meals from one cook</span>": {
-  "ar": "<b>نحو 250</b><span>وجبة من الطهية الواحدة</span>",
-  "pages": [
-   "food-truck.html"
-  ]
- },
- "<b>3–4 h</b><span>hot after the gas goes off</span>": {
-  "ar": "<b>3–4&nbsp;ساعات</b><span>يبقى ساخنًا بعد إغلاق الغاز</span>",
-  "pages": [
-   "food-truck.html"
-  ]
- },
- "These are our design numbers, and we will test them with a full cook before the first round.<br/>\n      A licensed gas technician will fit and check the gas, and we will confirm the right <a href=\"#permits\">permits</a> with Cairo’s authorities before we build.": {
-  "ar": "هذه أرقام التصميم، وسنختبرها بطهية كاملة قبل أول جولة.<br/>\n      سيركّب فنّي غاز مرخّص التوصيلات ويفحصها، وسنتأكد من <a href=\"#permits\">التصاريح</a> المطلوبة مع سلطات القاهرة قبل البناء.",
+ "Capacity, cooking and holding times will be set through trials, and we will share the results.<br/>\n      A qualified technician will fit and check the heating equipment, and we will confirm the <a href=\"#permits\">permits</a> that apply before we build.": {
+  "ar": "ستُحدَّد السعة وأوقات الطهي والحفظ عبر التجارب، وسنشارك النتائج.<br/>\n      سيركّب فنّي مؤهَّل معدات التسخين ويفحصها، وسنتأكد من <a href=\"#permits\">التصاريح</a> المطلوبة قبل أن نبني.",
   "pages": [
    "food-truck.html"
   ]
@@ -1605,8 +1593,8 @@
    "food-truck.html"
   ]
  },
- "Permits and rules": {
-  "ar": "التصاريح والقواعد",
+ "Progress and permits": {
+  "ar": "التقدّم والتصاريح",
   "pages": [
    "food-truck.html"
   ]
@@ -1617,44 +1605,80 @@
    "food-truck.html"
   ]
  },
- "A truck handing out meat in a public street has to satisfy Egyptian law, and we would rather be slow than\n        shut down. This is the list we are working through.": {
-  "ar": "شاحنة توزّع اللحم في شارع عام يجب أن تستوفي القانون المصري، ونفضّل أن نتأخّر على أن يُغلق مشروعنا. هذه هي القائمة التي نعمل عليها.",
+ "Our first truck is in development.<br/>The right operating structure in Egypt and the approvals we need are being assessed.<br/>Nothing below is approved yet. We will only mark a step done when we have a dated receipt or certificate.": {
+  "ar": "أول شاحنة لنا قيد التطوير.<br/>ندرس الآن الهيكل التشغيلي المناسب في مصر والموافقات التي نحتاجها.<br/>لم تتم الموافقة على أي شيء أدناه بعد. ولن نعتبر أي خطوة منجزة إلا عندما يكون لدينا إيصال أو شهادة مؤرَّخة.",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>Register the organisation</b> as an NGO or social enterprise.": {
-  "ar": "<b>تسجيل المؤسسة</b> كجمعية أهلية أو مشروع اجتماعي.",
+ "Updated 21 October 2026": {
+  "ar": "آخر تحديث: 21 أكتوبر 2026",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>License the vehicle,</b> including approval for the modifications.": {
-  "ar": "<b>ترخيص السيارة،</b> بما في ذلك الموافقة على التعديلات.",
+ "<span class=\"st st-done\">Done</span><span><b>Design brief.</b> A preliminary technical requirements and design brief, ready for specialist review (20 October 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>موجز التصميم.</b> موجز مبدئي للمتطلبات الفنية والتصميم، جاهز لمراجعة المتخصّصين (20 أكتوبر 2026).</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>Animal-feed and hygiene sign-off</b> with the NFSA and the Ministry of Agriculture, where it\n          applies to us.": {
-  "ar": "<b>اعتماد أعلاف الحيوانات والنظافة</b> من الهيئة القومية لسلامة الغذاء ووزارة الزراعة، حيثما ينطبق ذلك علينا.",
+ "<span class=\"st st-done\">Done</span><span><b>Approval routes researched.</b> Possible Egyptian routes for the operating structure, the vehicle and food hygiene.</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>دراسة مسارات الموافقة.</b> المسارات المصرية الممكنة للهيكل التشغيلي والمركبة وسلامة الغذاء.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>Municipal permission</b> to feed in specific public areas.": {
-  "ar": "<b>تصريح من الحي</b> بالإطعام في أماكن عامة محدّدة.",
+ "<span class=\"st st-now\">In progress</span><span><b>Operating structure in Egypt.</b> Options researched. The right route is being assessed.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>الهيكل التشغيلي في مصر.</b> دُرست الخيارات، ونقيّم الآن المسار المناسب.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>Insurance</b> covering volunteers, the public, the animals and the equipment.": {
-  "ar": "<b>تأمين</b> يغطّي المتطوّعين والجمهور والحيوانات والمعدّات.",
+ "<span class=\"st st-next\">Next</span><span><b>Vehicle and fit-out.</b> Choose the vehicle, then get engineering review and approval for the changes to it.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>المركبة والتجهيز.</b> اختيار المركبة، ثم الحصول على مراجعة هندسية وموافقة على التعديلات عليها.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<b>Then launch,</b> with the round published openly.": {
-  "ar": "<b>ثم الانطلاق،</b> مع نشر الجولة علنًا.",
+ "<span class=\"st st-next\">Next</span><span><b>Recipes and hygiene.</b> Review the recipes and confirm which feed and hygiene approvals apply to us.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>الوصفات والنظافة.</b> مراجعة الوصفات والتأكد من موافقات الأعلاف والنظافة التي تنطبق علينا.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Equipment quotes.</b> Get quotes for the drum (Qidra), heating, water and fit-out.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>عروض أسعار المعدات.</b> الحصول على عروض أسعار للبرميل (القِدرة) والتسخين والمياه والتجهيز.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Gas, fire and safety.</b> Have the installation checked and certified.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>الغاز والحريق والسلامة.</b> فحص التركيب واعتماده.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Feeding sites and waste.</b> Confirm permission for each place we serve.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>أماكن الإطعام والنفايات.</b> الحصول على إذن لكل مكان نخدمه.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Insurance.</b> Cover volunteers, the public, the animals and the equipment.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>التأمين.</b> تغطية المتطوعين والجمهور والحيوانات والمعدات.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-then\">Then</span><span><b>First round.</b> Launch, with the round published openly.</span>": {
+  "ar": "<span class=\"st st-then\">ثم</span><span><b>أول جولة.</b> الانطلاق، مع نشر خط السير علنًا.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "This is not yet a build-ready design or an operating approval. We will update this panel with dated evidence as each step is done.": {
+  "ar": "هذا ليس بعد تصميمًا جاهزًا للتصنيع ولا موافقة تشغيل. سنحدّث هذه اللوحة بأدلة مؤرَّخة كلما أنجزنا خطوة.",
   "pages": [
    "food-truck.html"
   ]
@@ -1699,14 +1723,14 @@
    "food-truck.html"
   ]
  },
- "We will only use vegetables that are safe for dogs and cats.": {
-  "ar": "لن نستخدم إلا الخضار الآمنة للكلاب والقطط.",
+ "Which vegetables we use, how strong the plates are and how long they keep will all be tested first.": {
+  "ar": "سنختبر أولًا الخضار التي نستخدمها، ومدى قوة الأطباق، ومدة حفظها.",
   "pages": [
    "food-truck.html"
   ]
  },
- "The animal can eat the whole plate, so there’s nothing to clean up.": {
-  "ar": "يستطيع الحيوان أكل الطبق كله، فلا يبقى شيء لتنظيفه.",
+ "The aim is a plate the animal can eat, so there’s nothing to clean up.": {
+  "ar": "الهدف طبق يستطيع الحيوان أكله، فلا يبقى شيء للتنظيف.",
   "pages": [
    "food-truck.html"
   ]
@@ -1730,8 +1754,8 @@
    "food-truck.html"
   ]
  },
- "This is what it will take to put the first truck on the road, legal, and running for its first three months. Nobody\n        here takes a salary from it — the only wage on this list is the driver’s.": {
-  "ar": "هذا ما يلزم لوضع أول شاحنة على الطريق، بشكل قانوني، وتشغيلها في أشهرها الثلاثة الأولى. لا أحد هنا يتقاضى راتبًا من هذا المبلغ — الأجر الوحيد في هذه القائمة هو أجر السائق.",
+ "A$11,000 is our initial funding target, based on preliminary allowances. Supplier quotes, testing and local requirements may change the amount or timing. Nobody\n        here takes a salary from it — the only wage on this list is the driver’s.": {
+  "ar": "مبلغ A$11,000 هو هدف التمويل المبدئي، بناءً على مخصّصات أولية. وقد تغيّر عروض أسعار الموردين والاختبارات والمتطلبات المحلية المبلغ أو التوقيت. لا أحد\n        هنا يتقاضى راتبًا منه — الأجر الوحيد في هذه القائمة هو أجر السائق.",
   "pages": [
    "food-truck.html"
   ]
@@ -1744,12 +1768,6 @@
  },
  "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">Donate on GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">How we worked out each cost</a>": {
   "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">تبرّع عبر GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">كيف حسبنا كل تكلفة</a>",
-  "pages": [
-   "food-truck.html"
-  ]
- },
- "Truck one, first three months, in Australian dollars": {
-  "ar": "الشاحنة الأولى، الأشهر الثلاثة الأولى، بالدولار الأسترالي",
   "pages": [
    "food-truck.html"
   ]
@@ -1797,8 +1815,8 @@
    "plates.html"
   ]
  },
- "This is the plan. Nothing is running yet.<br/>Every picture on this page is an AI concept until the first test bake gives us real photos.": {
-  "ar": "هذه هي الخطة، ولا شيء منها يعمل بعد.<br/>كل صورة في هذه الصفحة تصوّر مبدئي بالذكاء الاصطناعي إلى أن تمنحنا أول تجربة خَبز صورًا حقيقية.",
+ "This is the plan. Nothing is running yet.<br/>The plate is a prototype: what goes in, how strong it is, how clean it stays and how long it keeps all need testing first.<br/>Every picture on this page is an AI concept until the first test bake gives us real photos.": {
+  "ar": "هذه هي الخطة. لا شيء يعمل بعد.<br/>الطبق نموذج أولي: مكوّناته وقوّته ونظافته ومدة حفظه كلها تحتاج إلى اختبار أولًا.<br/>كل صورة في هذه الصفحة مفهوم بالذكاء الاصطناعي إلى أن تعطينا أول تجربة خَبز صورًا حقيقية.",
   "pages": [
    "plates.html"
   ]
@@ -1857,8 +1875,8 @@
    "plates.html"
   ]
  },
- "Each animal gets its meal on a plate it can eat too. Nothing is left on the street.": {
-  "ar": "سيحصل كل حيوان على وجبته في طبق يمكنه أكله أيضًا، فلا يبقى شيء في الشارع.",
+ "Each animal gets its meal on a plate it can eat too. The aim is to leave nothing on the street.": {
+  "ar": "يحصل كل حيوان على وجبته على طبق يستطيع أكله أيضًا. الهدف ألّا نترك شيئًا في الشارع.",
   "pages": [
    "plates.html"
   ]
@@ -1875,8 +1893,8 @@
    "plates.html"
   ]
  },
- "The principle is simple: use what would otherwise be wasted.<br/>We will only take vegetables that are still safe to eat.": {
-  "ar": "المبدأ بسيط: أن نستخدم ما كان سيُهدر.<br/>لن نأخذ إلا خضروات لا تزال آمنة للأكل.",
+ "The principle is simple: use what would otherwise be wasted.<br/>We will only take vegetables we can trace and that pass our checks.": {
+  "ar": "المبدأ بسيط: استخدام ما كان سيُهدر.<br/>لن نأخذ إلا خضارًا نعرف مصدرها وتجتاز فحوصنا.",
   "pages": [
    "plates.html"
   ]
@@ -1971,8 +1989,8 @@
    "plates.html"
   ]
  },
- "Groups like food banks already collect surplus food, and it rightly goes to people first. We would only ask for what is no longer fit for people.": {
-  "ar": "تجمع مجموعات مثل بنوك الطعام فائض الطعام بالفعل، ومن حق الناس أن يحصلوا عليه أولًا. لن نطلب إلا ما لم يعد صالحًا للبشر.",
+ "Groups like food banks already collect surplus food, and it rightly goes to people first. We would only ask for surplus they cannot pass on to people, never anything spoiled.": {
+  "ar": "جماعات مثل بنوك الطعام تجمع الطعام الفائض بالفعل، ومن حق الناس أن يحصلوا عليه أولًا. لن نطلب إلا الفائض الذي لا يستطيعون إيصاله للناس، ولا شيء فاسد أبدًا.",
   "pages": [
    "plates.html"
   ]
@@ -2121,14 +2139,14 @@
    "plates.html"
   ]
  },
- "Airtight, used within a week.": {
-  "ar": "في علب محكمة، ويُستخدم خلال أسبوع.",
+ "Airtight. How long they keep is part of the test.": {
+  "ar": "محكمة الإغلاق. ومدة حفظها جزء من الاختبار.",
   "pages": [
    "plates.html"
   ]
  },
- "Safe for dogs and cats": {
-  "ar": "آمن للكلاب والقطط",
+ "What goes in": {
+  "ar": "ما الذي يدخل فيه",
   "pages": [
    "plates.html"
   ]
@@ -2139,8 +2157,8 @@
    "plates.html"
   ]
  },
- "Every plate will be eaten, so every ingredient has to be safe for dogs and cats.": {
-  "ar": "كل طبق سيُؤكل، لذلك يجب أن يكون كل مكوّن آمنًا للكلاب والقطط.",
+ "Every plate is meant to be eaten, so every ingredient will be reviewed for dogs and cats before any plate is served.": {
+  "ar": "كل طبق مصنوع ليُؤكل، لذا ستُراجَع كل المكوّنات لتناسب الكلاب والقطط قبل تقديم أي طبق.",
   "pages": [
    "plates.html"
   ]
@@ -2169,8 +2187,8 @@
    "plates.html"
   ]
  },
- "Cats mostly ignore plates, and that is fine. A plate left behind breaks down naturally within days.": {
-  "ar": "القطط غالبًا لن تهتم بالأطباق، ولا بأس بذلك. الطبق المتروك سيتحلل طبيعيًا خلال أيام.",
+ "Cats mostly ignore plates, and that is fine. What happens to a plate left behind is part of the test, and we will clean up after every stop.": {
+  "ar": "القطط غالبًا تتجاهل الأطباق، ولا بأس بذلك. ما يحدث للطبق المتروك جزء من الاختبار، وسننظّف بعد كل محطة.",
   "pages": [
    "plates.html"
   ]
@@ -2331,8 +2349,8 @@
    "plates.html"
   ]
  },
- "Plates made from vegetables already exist.<br/>We are adapting the idea into a recipe that is safe for animals and that we can make in Cairo.": {
-  "ar": "الأطباق المصنوعة من الخضروات موجودة بالفعل.<br/>نحن نطوّع الفكرة لتصبح وصفة آمنة للحيوانات ويمكننا صنعها في القاهرة.",
+ "Plates made from vegetables already exist.<br/>We are adapting the idea into a recipe we will test for animals and that we can make in Cairo.": {
+  "ar": "الأطباق المصنوعة من الخضار موجودة بالفعل.<br/>ونحن نكيّف الفكرة لوصفة سنختبرها للحيوانات ونستطيع صنعها في القاهرة.",
   "pages": [
    "plates.html"
   ]
@@ -3549,14 +3567,20 @@
    "costings.html"
   ]
  },
+ "How the One Tail One Meal food truck works: collecting from butchers, cooking on board, serving on edible plates, and the permits and hygiene behind it.": {
+  "ar": "كيف ستعمل شاحنة طعام One Tail One Meal: جمع البواقي من الجزّارين، والطهي على متنها، والتقديم في أطباق تؤكل، والتصاريح وقواعد النظافة التي تقف وراء ذلك.",
+  "pages": [
+   "costings.html"
+  ]
+ },
  "The A$11,000,<br/><span class=\"accent\">line by line</span>": {
   "ar": "مبلغ A$11,000،<br/><span class=\"accent\">بندًا بندًا</span>",
   "pages": [
    "costings.html"
   ]
  },
- "How every number in the first-truck budget was worked out, checked against real prices in Egypt in October 2026.": {
-  "ar": "كيف حسبنا كل رقم في ميزانية الشاحنة الأولى، بعد مراجعته مقابل الأسعار الحقيقية في مصر في أكتوبر 2026.",
+ "How we worked out each preliminary allowance in our initial funding target, using public prices in Egypt in October 2026.<br/>These are estimates, not quotes or actual spending.": {
+  "ar": "كيف حسبنا كل مخصّص أولي في هدف التمويل المبدئي، باستخدام الأسعار المعلنة في مصر في أكتوبر 2026.<br/>هذه تقديرات، وليست عروض أسعار ولا إنفاقًا فعليًا.",
   "pages": [
    "costings.html"
   ]
@@ -3573,14 +3597,14 @@
    "costings.html"
   ]
  },
- "<b>A$11,000 ≈ 408,000 EGP</b><span>the whole goal, in Egyptian pounds</span>": {
-  "ar": "<b>A$11,000 ≈ 408,000 جنيه مصري</b><span>الهدف كله بالجنيه المصري</span>",
+ "<b>A$11,000 ≈ 408,000 EGP</b><span>the initial funding target, in Egyptian pounds</span>": {
+  "ar": "<b>A$11,000 ≈ 408,000 جنيه مصري</b><span>هدف التمويل المبدئي، بالجنيه المصري</span>",
   "pages": [
    "costings.html"
   ]
  },
- "<b>3 months</b><span>truck one on the road, legal and feeding every day</span>": {
-  "ar": "<b>3 أشهر</b><span>للشاحنة الأولى على الطريق، بشكل قانوني، تُطعم كل يوم</span>",
+ "<b>3 months</b><span>of rounds this target plans for</span>": {
+  "ar": "<b>3 أشهر</b><span>من الجولات يخطط لها هذا الهدف</span>",
   "pages": [
    "costings.html"
   ]
@@ -3591,8 +3615,8 @@
    "costings.html"
   ]
  },
- "Checked against real prices": {
-  "ar": "تمت مراجعته مقابل الأسعار الحقيقية",
+ "Estimate from public prices": {
+  "ar": "تقدير من الأسعار المعلنة",
   "pages": [
    "costings.html"
   ]
@@ -3645,8 +3669,8 @@
    "costings.html"
   ]
  },
- "A sealed stainless cooking drum (Qidra), a gas burner and bottle, a water tank, shelving and a fire extinguisher, built onto the truck bed.": {
-  "ar": "برميل (قِدرة) طهي من الستانلس ستيل محكم الإغلاق، وموقد غاز وأسطوانة، وخزان مياه، وأرفف، وطفاية حريق، تُركَّب كلها على صندوق الشاحنة.",
+ "A food-grade cooking drum (Qidra) and its heating, a water tank, shelving and a fire extinguisher, built onto the truck bed.": {
+  "ar": "برميل (قِدرة) طهي مخصّص للطعام مع وسيلة تسخينه، وخزان مياه، ورفوف، وطفاية حريق، مركّبة على صندوق الشاحنة.",
   "pages": [
    "costings.html"
   ]
@@ -3657,8 +3681,8 @@
    "costings.html"
   ]
  },
- "<b>Our check:</b> A$900 is about 33,000 EGP. This is an estimate until we have quotes from three workshops.": {
-  "ar": "<b>مراجعتنا:</b> مبلغ A$900 يعادل نحو 33,000 جنيه مصري. هذا تقدير إلى أن نحصل على عروض أسعار من ثلاث ورش.",
+ "<b>Our check:</b> A$900 is about 33,000 EGP. This is an estimate until we have quotes from three workshops. The quotes also need to cover engineering, testing, refrigeration, water and waste, mounting and installation, so this may go up.": {
+  "ar": "<b>مراجعتنا:</b> مبلغ A$900 يعادل نحو 33,000 جنيه مصري. وهو تقدير إلى أن نحصل على عروض أسعار من ثلاث ورش. ويجب أن تشمل العروض أيضًا الهندسة والاختبار والتبريد والمياه والنفايات والتثبيت والتركيب، لذا قد يرتفع هذا المبلغ.",
   "pages": [
    "costings.html"
   ]
@@ -3669,8 +3693,8 @@
    "costings.html"
   ]
  },
- "Transferring the truck into our name, its licence and roadworthy test, a year of insurance, and the Cairo licence for a mobile food unit.": {
-  "ar": "نقل ملكية الشاحنة باسمنا، وترخيصها وفحصها الفني، وتأمين لمدة عام، وترخيص القاهرة لوحدة طعام متنقلة.",
+ "Transferring the truck into our name, its licence and roadworthy test, a year of insurance, and whichever food-unit licence applies to us.": {
+  "ar": "نقل ملكية الشاحنة باسمنا، وترخيصها وفحصها، وتأمين لمدة عام، وأيّ ترخيص لوحدة طعام ينطبق علينا.",
   "pages": [
    "costings.html"
   ]
@@ -3687,14 +3711,14 @@
    "costings.html"
   ]
  },
- "Cairo requires every mobile food unit to hold a licence approved by the National Food Safety Authority. The fees are not published, so we will ask.": {
-  "ar": "تشترط القاهرة أن تحمل كل وحدة طعام متنقلة ترخيصًا معتمدًا من الهيئة القومية لسلامة الغذاء. الرسوم غير منشورة، لذلك سنسأل عنها.",
+ "Cairo has required mobile food units to hold a licence approved by the National Food Safety Authority. Which approvals apply to an animal-feed truck is still being assessed, and those fees are not published, so we will ask.": {
+  "ar": "كانت القاهرة تشترط أن تحمل وحدات الطعام المتنقلة ترخيصًا معتمدًا من الهيئة القومية لسلامة الغذاء. وما زلنا ندرس الموافقات التي تنطبق على شاحنة أعلاف حيوانية، وهذه الرسوم غير منشورة، لذا سنسأل عنها.",
   "pages": [
    "costings.html"
   ]
  },
- "<b>Our check:</b> A$500 is about 19,000 EGP. That covers the published fees several times over, with room for the food-unit licence and the ownership transfer.": {
-  "ar": "<b>مراجعتنا:</b> مبلغ A$500 يعادل نحو 19,000 جنيه مصري. وهذا يغطّي الرسوم المنشورة عدة مرات، مع هامش لترخيص وحدة الطعام ونقل الملكية.",
+ "<b>Our check:</b> A$500 is about 19,000 EGP. That covers the published fees several times over, but the full approval costs are not known yet, so this may change.": {
+  "ar": "<b>مراجعتنا:</b> مبلغ A$500 يعادل نحو 19,000 جنيه مصري. وهو يغطي الرسوم المنشورة عدة مرات، لكن تكاليف الموافقات الكاملة غير معروفة بعد، لذا قد يتغيّر.",
   "pages": [
    "costings.html"
   ]
@@ -3705,8 +3729,8 @@
    "costings.html"
   ]
  },
- "Rice, vegetables and cooking gas for 90 days of rounds. The meat is butchers’ leftovers, given free, so it costs us nothing.": {
-  "ar": "أرز وخضار وغاز طهي لـ 90 يومًا من الجولات. اللحم من بواقي الجزّارين ويُعطى لنا مجانًا، فلا يكلّفنا شيئًا.",
+ "Rice, vegetables and cooking gas for 90 days of rounds. We plan to ask butchers for accepted, traceable surplus meat at no charge. Free ingredients still cost money to check, sort, keep cold, cook, transport and clean up after.": {
+  "ar": "أرز وخضار وغاز للطهي لمدة 90 يومًا من الجولات. نخطط لأن نطلب من الجزارين لحمًا فائضًا مقبولًا ومعروف المصدر دون مقابل. ومع ذلك فالمكوّنات المجانية تكلّف مالًا لفحصها وفرزها وتبريدها وطهيها ونقلها والتنظيف بعدها.",
   "pages": [
    "costings.html"
   ]
@@ -3729,14 +3753,14 @@
    "costings.html"
   ]
  },
- "We work on about 10 EGP for one warm meal.": {
-  "ar": "نحسب نحو 10 جنيهات مصرية للوجبة الدافئة الواحدة.",
+ "We work on about 10 EGP of ingredients for one meal, an early estimate.": {
+  "ar": "نعتمد على نحو 10 جنيهات مصرية من المكوّنات للوجبة الواحدة، وهو تقدير أولي.",
   "pages": [
    "costings.html"
   ]
  },
- "<b>Our check:</b> A$1,200 is about 44,000 EGP. After fuel, about 35,000 EGP is left for food. That is about 3,500 meals, or roughly 40 animals fed every day for three months.": {
-  "ar": "<b>مراجعتنا:</b> مبلغ A$1,200 يعادل نحو 44,000 جنيه مصري. بعد الوقود، يتبقّى نحو 35,000 جنيه مصري للطعام. أي نحو 3,500 وجبة، أو إطعام قرابة 40 حيوانًا كل يوم لمدة ثلاثة أشهر.",
+ "<b>Our check:</b> A$1,200 is about 44,000 EGP. After fuel, about 35,000 EGP is left for food. That is about 3,500 meals, or roughly 40 animals a day for three months. This is our working daily target until trials confirm portion sizes.": {
+  "ar": "<b>مراجعتنا:</b> مبلغ A$1,200 يعادل نحو 44,000 جنيه مصري. بعد الوقود، يبقى نحو 35,000 جنيه للطعام. أي نحو 3,500 وجبة، أو قرابة 40 حيوانًا يوميًا لثلاثة أشهر. وهذا هدفنا اليومي المبدئي إلى أن تؤكد التجارب أحجام الحصص.",
   "pages": [
    "costings.html"
   ]
@@ -3795,14 +3819,14 @@
    "costings.html"
   ]
  },
- "Our first budget was A$8,000. When we checked it against real prices in Cairo, A$4,500 would only have bought a truck from the late 1990s, and the driver was paid for one month of the three. We would rather ask for what the plan really costs than run out halfway, so the goal is now <b>A$11,000</b>.": {
-  "ar": "كانت ميزانيتنا الأولى A$8,000. وحين راجعناها مقابل الأسعار الحقيقية في القاهرة، وجدنا أن A$4,500 لم تكن لتشتري إلا شاحنة من أواخر التسعينيات، وأن أجر السائق كان محسوبًا لشهر واحد من الثلاثة. نفضّل أن نطلب ما تكلّفه الخطة فعلًا على أن نتوقّف في منتصف الطريق، لذلك أصبح الهدف الآن <b>A$11,000</b>.",
+ "Our first budget was A$8,000. When we checked it against real prices in Cairo, A$4,500 would only have bought a truck from the late 1990s, and the driver was paid for one month of the three. We would rather ask for what the plan really costs than run out halfway, so our initial funding target is now <b>A$11,000</b>.": {
+  "ar": "كانت ميزانيتنا الأولى A$8,000. وعندما راجعناها مقابل الأسعار الحقيقية في القاهرة، وجدنا أن A$4,500 لا تشتري إلا شاحنة من أواخر التسعينيات، وأن السائق كان سيتقاضى أجر شهر واحد من الثلاثة. نفضّل أن نطلب ما تكلّفه الخطة فعلًا على أن ينفد المال في منتصف الطريق، لذا أصبح هدف التمويل المبدئي <b>A$11,000</b>.",
   "pages": [
    "costings.html"
   ]
  },
- "Before we buy anything we will get three quotes each for the truck, the kitchen and the licences. If something costs less than planned, the difference goes to more meals. We will publish what we actually spent here.": {
-  "ar": "قبل أن نشتري أي شيء، سنحصل على ثلاثة عروض أسعار لكلٍّ من الشاحنة والمطبخ والتراخيص. وإذا كلّف شيء أقل من المخطّط، يذهب الفرق إلى مزيد من الوجبات. وسننشر هنا ما أنفقناه فعلًا.",
+ "Before we buy anything we plan to get three quotes each for the truck, the kitchen and the licences. Quotes and approvals may change the amount or timing. If something costs less than planned, the difference goes to more meals. We will show estimates, quotes and actual spending separately here.": {
+  "ar": "قبل أن نشتري أي شيء، نخطط للحصول على ثلاثة عروض أسعار لكلٍّ من الشاحنة والمطبخ والتراخيص. وقد تغيّر عروض الأسعار والموافقات المبلغ أو التوقيت. وإذا كلّف شيء أقل من المخطط، يذهب الفرق إلى مزيد من الوجبات. وسنعرض هنا التقديرات وعروض الأسعار والإنفاق الفعلي كلًّا على حدة.",
   "pages": [
    "costings.html"
   ]
@@ -3981,8 +4005,8 @@
    "shared-paws.html"
   ]
  },
- "Thousands of dogs and cats live on Egypt’s streets, and most of them go to sleep hungry.\n      We want to build a food truck that collects the meat butchers would throw away, cooks it safely on\n      board, and serves it warm to the animals where they already are.": {
-  "ar": "آلاف الكلاب والقطط تعيش في شوارع مصر، وأغلبها ينام جائعًا.\n      نريد أن نبني عربة طعام تجمع اللحوم التي كان الجزارون سيرمونها، وتطهوها بأمان على متنها،\n      وتقدّمها دافئة للحيوانات في أماكنها.",
+ "Thousands of dogs and cats live on Egypt’s streets, and most of them go to sleep hungry.\n      We want to build a food truck that collects surplus meat from butchers, cooks it on\n      board, and serves it fresh to the animals where they already are.": {
+  "ar": "آلاف الكلاب والقطط تعيش في شوارع مصر، ومعظمها ينام جائعًا.\n      نريد بناء شاحنة طعام تجمع اللحوم الفائضة من الجزارين، وتطهوها على متنها، وتقدّمها طازجة للحيوانات حيث تعيش.",
   "pages": [
    "404.html"
   ]
