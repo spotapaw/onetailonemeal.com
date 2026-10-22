@@ -355,7 +355,7 @@
    "404.html"
   ]
  },
- "App screen: Spot a Paw map of feeding spots in Cairo": {
+ "App screen: Spot aPaw map of feeding spots in Cairo": {
   "ar": "شاشة التطبيق: خريطة Spot aPaw لأماكن الإطعام في القاهرة",
   "pages": [
    "vision.html",
@@ -377,14 +377,14 @@
    "404.html"
   ]
  },
- "Spot a Paw is the app we built so anyone can\n        report an animal in trouble, plan a feeding round, or pass on spare meat.": {
+ "Spot aPaw is the app we built so anyone can\n        report an animal in trouble, plan a feeding round, or pass on spare meat.": {
   "ar": "Spot aPaw هو التطبيق الذي بنيناه حتى يتمكن أي شخص من\n        الإبلاغ عن حيوان في خطر، أو تخطيط جولة إطعام، أو تقديم اللحوم الفائضة.",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
- "Open Spot a Paw": {
+ "Open Spot aPaw": {
   "ar": "افتح Spot aPaw",
   "pages": [
    "vision.html",
@@ -727,7 +727,7 @@
    "404.html"
   ]
  },
- "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Spot a Paw app</a>": {
+ "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Spot aPaw app</a>": {
   "ar": "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">تطبيق Spot aPaw</a>",
   "pages": [
    "vision.html",
@@ -2993,12 +2993,6 @@
    "a-paw.html"
   ]
  },
- "Spot a Paw": {
-  "ar": "Spot a Paw",
-  "pages": [
-   "a-paw.html"
-  ]
- },
  "Free forever. It earns nothing; the paid apps pay\n        for it.": {
   "ar": "مجاني للأبد. لا يحقق أي دخل؛ والتطبيقات المدفوعة\n        تموّله.",
   "pages": [
@@ -3137,8 +3131,8 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-planned\">Planned</span><span>Plan truck routes and portions from Spot a Paw's feeding records, so meals go where they are most needed.</span>": {
-  "ar": "<span class=\"apaw-tag t-planned\">مخطَّط</span><span>تخطيط مسارات الشاحنة وكميات الطعام من سجلات الإطعام في Spot a Paw، لتذهب الوجبات إلى حيث الحاجة إليها أكبر.</span>",
+ "<span class=\"apaw-tag t-planned\">Planned</span><span>Plan truck routes and portions from Spot aPaw's feeding records, so meals go where they are most needed.</span>": {
+  "ar": "<span class=\"apaw-tag t-planned\">مخطَّط</span><span>تخطيط مسارات الشاحنة وكميات الطعام من سجلات الإطعام في Spot aPaw، لتذهب الوجبات إلى حيث الحاجة إليها أكبر.</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3227,8 +3221,8 @@
    "a-paw.html"
   ]
  },
- "Spot a Paw began on the streets of Cairo, in Arabic and English. Nothing about the apps is tied to one\n        place: a map, a community, a round of feeding spots and a shelter work the same in Lisbon, Lagos or\n        Bangkok.": {
-  "ar": "بدأ Spot a Paw في شوارع القاهرة، بالعربية والإنجليزية. لا شيء في التطبيقات مرتبط بمكان\n        واحد: الخريطة والمجتمع وجولة على أماكن الإطعام والملجأ، كلها تعمل بالطريقة نفسها في لشبونة أو لاغوس أو\n        بانكوك.",
+ "Spot aPaw began on the streets of Cairo, in Arabic and English. Nothing about the apps is tied to one\n        place: a map, a community, a round of feeding spots and a shelter work the same in Lisbon, Lagos or\n        Bangkok.": {
+  "ar": "بدأ Spot aPaw في شوارع القاهرة، بالعربية والإنجليزية. لا شيء في التطبيقات مرتبط بمكان\n        واحد: الخريطة والمجتمع وجولة على أماكن الإطعام والملجأ، كلها تعمل بالطريقة نفسها في لشبونة أو لاغوس أو\n        بانكوك.",
   "pages": [
    "a-paw.html"
   ]
@@ -3251,8 +3245,8 @@
    "a-paw.html"
   ]
  },
- "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Visit Spot a Paw</a>": {
-  "ar": "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">زُر Spot a Paw</a>",
+ "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Visit Spot aPaw</a>": {
+  "ar": "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">زُر Spot aPaw</a>",
   "pages": [
    "a-paw.html"
   ]
@@ -3515,8 +3509,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot a Paw is free and always will be.<br/>The paid aPaw apps pay for it.": {
-  "ar": "Spot a Paw مجاني وسيبقى كذلك دائمًا.<br/>تطبيقات aPaw المدفوعة تتكفّل بتكلفته.",
+ "Spot aPaw is free and always will be.<br/>The paid aPaw apps pay for it.": {
+  "ar": "Spot aPaw مجاني وسيبقى كذلك دائمًا.<br/>تطبيقات aPaw المدفوعة تتكفّل بتكلفته.",
   "pages": [
    "a-paw-spot.html"
   ]
