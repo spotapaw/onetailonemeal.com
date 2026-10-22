@@ -109,8 +109,8 @@
    "404.html"
   ]
  },
- "a-Paw apps": {
-  "ar": "تطبيقات a-Paw",
+ "aPaw apps": {
+  "ar": "تطبيقات aPaw",
   "pages": [
    "vision.html",
    "index.html",
@@ -356,7 +356,7 @@
   ]
  },
  "App screen: Spot a Paw map of feeding spots in Cairo": {
-  "ar": "شاشة التطبيق: خريطة Spot-a-Paw لأماكن الإطعام في القاهرة",
+  "ar": "شاشة التطبيق: خريطة Spot aPaw لأماكن الإطعام في القاهرة",
   "pages": [
    "vision.html",
    "404.html"
@@ -378,14 +378,14 @@
   ]
  },
  "Spot a Paw is the app we built so anyone can\n        report an animal in trouble, plan a feeding round, or pass on spare meat.": {
-  "ar": "Spot-a-Paw هو التطبيق الذي بنيناه حتى يتمكن أي شخص من\n        الإبلاغ عن حيوان في خطر، أو تخطيط جولة إطعام، أو تقديم اللحوم الفائضة.",
+  "ar": "Spot aPaw هو التطبيق الذي بنيناه حتى يتمكن أي شخص من\n        الإبلاغ عن حيوان في خطر، أو تخطيط جولة إطعام، أو تقديم اللحوم الفائضة.",
   "pages": [
    "vision.html",
    "404.html"
   ]
  },
  "Open Spot a Paw": {
-  "ar": "افتح Spot-a-Paw",
+  "ar": "افتح Spot aPaw",
   "pages": [
    "vision.html",
    "404.html"
@@ -728,7 +728,7 @@
   ]
  },
  "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Spot a Paw app</a>": {
-  "ar": "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">تطبيق Spot-a-Paw</a>",
+  "ar": "<a href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">تطبيق Spot aPaw</a>",
   "pages": [
    "vision.html",
    "index.html",
@@ -741,8 +741,8 @@
    "404.html"
   ]
  },
- "<a href=\"a-paw.html\">The a-Paw family of apps</a>": {
-  "ar": "<a href=\"a-paw.html\">عائلة تطبيقات a-Paw</a>",
+ "<a href=\"a-paw.html\">The aPaw family of apps</a>": {
+  "ar": "<a href=\"a-paw.html\">عائلة تطبيقات aPaw</a>",
   "pages": [
    "vision.html",
    "index.html",
@@ -916,10 +916,12 @@
    "404.html"
   ]
  },
- "Spot-a-Paw": {
-  "ar": "Spot-a-Paw",
+ "Spot aPaw": {
+  "ar": "Spot aPaw",
   "pages": [
    "index.html",
+   "a-paw.html",
+   "a-paw-spot.html",
    "404.html"
   ]
  },
@@ -972,10 +974,11 @@
    "404.html"
   ]
  },
- "a-Paw Family": {
-  "ar": "a-Paw Family",
+ "aPaw Family": {
+  "ar": "aPaw Family",
   "pages": [
    "index.html",
+   "a-paw.html",
    "a-paw-spot.html",
    "404.html"
   ]
@@ -2439,8 +2442,8 @@
    "plates.html"
   ]
  },
- "The a-Paw family - One Tail One Meal": {
-  "ar": "عائلة a-Paw - One Tail One Meal",
+ "The aPaw family - One Tail One Meal": {
+  "ar": "عائلة aPaw - One Tail One Meal",
   "pages": [
    "a-paw.html"
   ]
@@ -2451,8 +2454,8 @@
    "a-paw.html"
   ]
  },
- "The a-Paw family": {
-  "ar": "عائلة a-Paw",
+ "The aPaw family": {
+  "ar": "عائلة aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2463,14 +2466,14 @@
    "a-paw.html"
   ]
  },
- "Two apps with one purpose: make sure street animals are seen,<br/>fed and given a home.<br/>Spot-a-Paw is free, for the street.<br/>The a-Paw Family app is for pets at home, and it pays for meals.": {
-  "ar": "تطبيقان لهدف واحد: أن نضمن أن حيوانات الشارع تُرى،<br/>وتُطعَم وتجد بيتًا.<br/>Spot-a-Paw مجاني، للشارع.<br/>وتطبيق a-Paw Family لحيوانات البيت، وهو يموّل الوجبات.",
+ "Two apps with one purpose: make sure street animals are seen,<br/>fed and given a home.<br/>Spot aPaw is free, for the street.<br/>The aPaw Family app is for pets at home, and it pays for meals.": {
+  "ar": "تطبيقان لهدف واحد: أن نضمن أن حيوانات الشارع تُرى،<br/>وتُطعَم وتجد بيتًا.<br/>Spot aPaw مجاني، للشارع.<br/>وتطبيق aPaw Family لحيوانات البيت، وهو يموّل الوجبات.",
   "pages": [
    "a-paw.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"#apps\">Meet the apps</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Try Spot-a-Paw in your browser</a>\n<a class=\"btn btn-ghost\" href=\"#ai\">How we use AI</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"#apps\">تعرّف على التطبيقات</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">جرّب Spot-a-Paw في متصفحك</a>\n<a class=\"btn btn-ghost\" href=\"#ai\">كيف نستخدم الذكاء الاصطناعي</a>",
+ "<a class=\"btn btn-orange\" href=\"#apps\">Meet the apps</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Try Spot aPaw in your browser</a>\n<a class=\"btn btn-ghost\" href=\"#ai\">How we use AI</a>": {
+  "ar": "<a class=\"btn btn-orange\" href=\"#apps\">تعرّف على التطبيقات</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">جرّب Spot aPaw في متصفحك</a>\n<a class=\"btn btn-ghost\" href=\"#ai\">كيف نستخدم الذكاء الاصطناعي</a>",
   "pages": [
    "a-paw.html"
   ]
@@ -2589,13 +2592,6 @@
    "a-paw.html"
   ]
  },
- "Spot‑a‑Paw": {
-  "ar": "Spot‑a‑Paw",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
  "See it. Spot it. Save it.": {
   "ar": "شوفه. ارصده. أنقذه.",
   "pages": [
@@ -2649,14 +2645,8 @@
    "a-paw.html"
   ]
  },
- "Care, Track, Snap, Adopt, Mind and Feed, together in one app: the a-Paw Family.<br/>Each one is its own part of the app.": {
-  "ar": "Care و Track و Snap و Adopt و Mind و Feed، معًا في تطبيق واحد: a-Paw Family.<br/>كل واحد منها قسم مستقل في التطبيق.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "a‑Paw Family": {
-  "ar": "a‑Paw Family",
+ "Care, Track, Snap, Adopt, Mind and Feed, together in one app: the aPaw Family.<br/>Each one is its own part of the app.": {
+  "ar": "Care و Track و Snap و Adopt و Mind و Feed، معًا في تطبيق واحد: aPaw Family.<br/>كل واحد منها قسم مستقل في التطبيق.",
   "pages": [
    "a-paw.html"
   ]
@@ -2679,14 +2669,14 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screens": {
-  "ar": "شاشات a-Paw Family",
+ "aPaw Family screens": {
+  "ar": "شاشات aPaw Family",
   "pages": [
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Welcome": {
-  "ar": "شاشة من a-Paw Family: الترحيب",
+ "aPaw Family screen: Welcome": {
+  "ar": "شاشة من aPaw Family: الترحيب",
   "pages": [
    "a-paw.html"
   ]
@@ -2697,8 +2687,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Home": {
-  "ar": "شاشة من a-Paw Family: الرئيسية",
+ "aPaw Family screen: Home": {
+  "ar": "شاشة من aPaw Family: الرئيسية",
   "pages": [
    "a-paw.html"
   ]
@@ -2709,8 +2699,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: An app page": {
-  "ar": "شاشة من a-Paw Family: صفحة تطبيق",
+ "aPaw Family screen: An app page": {
+  "ar": "شاشة من aPaw Family: صفحة تطبيق",
   "pages": [
    "a-paw.html"
   ]
@@ -2721,14 +2711,14 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: The plan": {
-  "ar": "شاشة من a-Paw Family: الخطة",
+ "aPaw Family screen: The plan": {
+  "ar": "شاشة من aPaw Family: الخطة",
   "pages": [
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Care": {
-  "ar": "شاشة من a-Paw Family: Care",
+ "aPaw Family screen: Care": {
+  "ar": "شاشة من aPaw Family: Care",
   "pages": [
    "a-paw.html"
   ]
@@ -2739,8 +2729,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Track": {
-  "ar": "شاشة من a-Paw Family: Track",
+ "aPaw Family screen: Track": {
+  "ar": "شاشة من aPaw Family: Track",
   "pages": [
    "a-paw.html"
   ]
@@ -2751,8 +2741,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Snap": {
-  "ar": "شاشة من a-Paw Family: Snap",
+ "aPaw Family screen: Snap": {
+  "ar": "شاشة من aPaw Family: Snap",
   "pages": [
    "a-paw.html"
   ]
@@ -2763,8 +2753,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Adopt": {
-  "ar": "شاشة من a-Paw Family: Adopt",
+ "aPaw Family screen: Adopt": {
+  "ar": "شاشة من aPaw Family: Adopt",
   "pages": [
    "a-paw.html"
   ]
@@ -2775,8 +2765,8 @@
    "a-paw.html"
   ]
  },
- "a-Paw Family screen: Mind": {
-  "ar": "شاشة من a-Paw Family: Mind",
+ "aPaw Family screen: Mind": {
+  "ar": "شاشة من aPaw Family: Mind",
   "pages": [
    "a-paw.html"
   ]
@@ -2787,8 +2777,8 @@
    "a-paw.html"
   ]
  },
- "Care-a-Paw": {
-  "ar": "Care-a-Paw",
+ "Care aPaw": {
+  "ar": "Care aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2811,8 +2801,8 @@
    "a-paw.html"
   ]
  },
- "Track-a-Paw": {
-  "ar": "Track-a-Paw",
+ "Track aPaw": {
+  "ar": "Track aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2835,8 +2825,8 @@
    "a-paw.html"
   ]
  },
- "Snap-a-Paw": {
-  "ar": "Snap-a-Paw",
+ "Snap aPaw": {
+  "ar": "Snap aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2859,8 +2849,8 @@
    "a-paw.html"
   ]
  },
- "Adopt-a-Paw": {
-  "ar": "Adopt-a-Paw",
+ "Adopt aPaw": {
+  "ar": "Adopt aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2883,8 +2873,8 @@
    "a-paw.html"
   ]
  },
- "Mind-a-Paw": {
-  "ar": "Mind-a-Paw",
+ "Mind aPaw": {
+  "ar": "Mind aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2907,8 +2897,8 @@
    "a-paw.html"
   ]
  },
- "Feed-a-Paw": {
-  "ar": "Feed-a-Paw",
+ "Feed aPaw": {
+  "ar": "Feed aPaw",
   "pages": [
    "a-paw.html"
   ]
@@ -2931,8 +2921,8 @@
    "a-paw.html"
   ]
  },
- "The a‑Paw Family plan": {
-  "ar": "خطة a‑Paw Family",
+ "The aPaw Family plan": {
+  "ar": "خطة aPaw Family",
   "pages": [
    "a-paw.html"
   ]
@@ -2979,8 +2969,8 @@
    "a-paw.html"
   ]
  },
- "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">Privacy policy</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">Terms of use</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">Manage your a-Paw account</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>": {
-  "ar": "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">سياسة الخصوصية</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">شروط الاستخدام</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">إدارة حسابك في a-Paw</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>",
+ "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">Privacy policy</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">Terms of use</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">Manage your aPaw account</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>": {
+  "ar": "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">سياسة الخصوصية</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">شروط الاستخدام</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">إدارة حسابك في aPaw</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>",
   "pages": [
    "a-paw.html"
   ]
@@ -3141,12 +3131,6 @@
    "a-paw.html"
   ]
  },
- "Feed‑a‑Paw": {
-  "ar": "Feed‑a‑Paw",
-  "pages": [
-   "a-paw.html"
-  ]
- },
  "<span class=\"apaw-tag t-soon\">Coming soon</span><span>A live count of meals served, from the round the truck team logs.</span>": {
   "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>عدّاد مباشر للوجبات التي ستُقدَّم، من الجولات التي سيسجّلها فريق الشاحنة.</span>",
   "pages": [
@@ -3155,12 +3139,6 @@
  },
  "<span class=\"apaw-tag t-planned\">Planned</span><span>Plan truck routes and portions from Spot a Paw's feeding records, so meals go where they are most needed.</span>": {
   "ar": "<span class=\"apaw-tag t-planned\">مخطَّط</span><span>تخطيط مسارات الشاحنة وكميات الطعام من سجلات الإطعام في Spot a Paw، لتذهب الوجبات إلى حيث الحاجة إليها أكبر.</span>",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Adopt‑a‑Paw": {
-  "ar": "Adopt‑a‑Paw",
   "pages": [
    "a-paw.html"
   ]
@@ -3183,26 +3161,14 @@
    "a-paw.html"
   ]
  },
- "Care‑a‑Paw": {
-  "ar": "Care‑a‑Paw",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Pet movies from a photo (Snap-a-Paw inside the app).</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>أفلام للحيوانات الأليفة من صورة (Snap-a-Paw داخل التطبيق).</span>",
+ "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Pet movies from a photo (Snap aPaw inside the app).</span>": {
+  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>أفلام للحيوانات الأليفة من صورة (Snap aPaw داخل التطبيق).</span>",
   "pages": [
    "a-paw.html"
   ]
  },
  "<span class=\"apaw-tag t-planned\">Planned</span><span>Photograph a vaccination certificate and have the record filled in for you to check.</span>": {
   "ar": "<span class=\"apaw-tag t-planned\">مخطَّط</span><span>صوّر شهادة التطعيم ليُملأ السجل تلقائيًا ثم تراجعه أنت.</span>",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Track‑a‑Paw": {
-  "ar": "Track‑a‑Paw",
   "pages": [
    "a-paw.html"
   ]
@@ -3219,12 +3185,6 @@
    "a-paw.html"
   ]
  },
- "Snap‑a‑Paw": {
-  "ar": "Snap‑a‑Paw",
-  "pages": [
-   "a-paw.html"
-  ]
- },
  "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Turns a pet photo into a short movie of your pet, brought to life.</span>": {
   "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>يحوّل صورة حيوانك إلى فيلم قصير ينبض بالحياة.</span>",
   "pages": [
@@ -3233,12 +3193,6 @@
  },
  "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Safety checks on every upload: pets only, nothing unsafe, and people are never included.</span>": {
   "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>فحص أمان لكل صورة: الحيوانات الأليفة فقط، لا شيء غير آمن، ولا يظهر أي شخص أبدًا.</span>",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Mind‑a‑Paw": {
-  "ar": "Mind‑a‑Paw",
   "pages": [
    "a-paw.html"
   ]
@@ -3285,8 +3239,8 @@
    "a-paw.html"
   ]
  },
- "<span><b>One account</b> works across every a-Paw app.</span>": {
-  "ar": "<span><b>حساب واحد</b> يعمل في كل تطبيقات a-Paw.</span>",
+ "<span><b>One account</b> works across every aPaw app.</span>": {
+  "ar": "<span><b>حساب واحد</b> يعمل في كل تطبيقات aPaw.</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3303,14 +3257,14 @@
    "a-paw.html"
   ]
  },
- "Spot-a-Paw - the a-Paw family - One Tail One Meal": {
-  "ar": "Spot-a-Paw - عائلة a-Paw - One Tail One Meal",
+ "Spot aPaw - the aPaw family - One Tail One Meal": {
+  "ar": "Spot aPaw - عائلة aPaw - One Tail One Meal",
   "pages": [
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: See it. Spot it. Save it. Let anyone photograph a street animal that needs help and put it on a map, so the people nearby — feeders, drivers, rescuers, vets, shelters and butchers — can sort it out between them.": {
-  "ar": "Spot-a-Paw: شوفه. ارصده. أنقذه. يتيح لأي شخص تصوير حيوان شارع يحتاج إلى مساعدة ووضعه على الخريطة، ليتولى الناس القريبون — المُطعِمون والسائقون والمنقذون والأطباء البيطريون والملاجئ والجزّارون — أمره فيما بينهم.",
+ "Spot aPaw: See it. Spot it. Save it. Let anyone photograph a street animal that needs help and put it on a map, so the people nearby — feeders, drivers, rescuers, vets, shelters and butchers — can sort it out between them.": {
+  "ar": "Spot aPaw: شوفه. ارصده. أنقذه. يتيح لأي شخص تصوير حيوان شارع يحتاج إلى مساعدة ووضعه على الخريطة، ليتولى الناس القريبون — المُطعِمون والسائقون والمنقذون والأطباء البيطريون والملاجئ والجزّارون — أمره فيما بينهم.",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3327,8 +3281,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw main screen": {
-  "ar": "الشاشة الرئيسية في Spot-a-Paw",
+ "Spot aPaw main screen": {
+  "ar": "الشاشة الرئيسية في Spot aPaw",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3345,8 +3299,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: Report an animal": {
-  "ar": "Spot-a-Paw: الإبلاغ عن حيوان",
+ "Spot aPaw: Report an animal": {
+  "ar": "Spot aPaw: الإبلاغ عن حيوان",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3363,8 +3317,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: animals pinned on the map of Cairo": {
-  "ar": "Spot-a-Paw: حيوانات مُثبَّتة على خريطة القاهرة",
+ "Spot aPaw: animals pinned on the map of Cairo": {
+  "ar": "Spot aPaw: حيوانات مُثبَّتة على خريطة القاهرة",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3381,8 +3335,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: Feeding spots and routes": {
-  "ar": "Spot-a-Paw: أماكن الإطعام والمسارات",
+ "Spot aPaw: Feeding spots and routes": {
+  "ar": "Spot aPaw: أماكن الإطعام والمسارات",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3399,8 +3353,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot-a-Paw: Every paw you helped": {
-  "ar": "Spot-a-Paw: كل حيوان ساعدته",
+ "Spot aPaw: Every paw you helped": {
+  "ar": "Spot aPaw: كل حيوان ساعدته",
   "pages": [
    "a-paw-spot.html"
   ]
@@ -3561,8 +3515,8 @@
    "a-paw-spot.html"
   ]
  },
- "Spot a Paw is free and always will be.<br/>The paid a-Paw apps pay for it.": {
-  "ar": "Spot a Paw مجاني وسيبقى كذلك دائمًا.<br/>تطبيقات a-Paw المدفوعة تتكفّل بتكلفته.",
+ "Spot a Paw is free and always will be.<br/>The paid aPaw apps pay for it.": {
+  "ar": "Spot a Paw مجاني وسيبقى كذلك دائمًا.<br/>تطبيقات aPaw المدفوعة تتكفّل بتكلفته.",
   "pages": [
    "a-paw-spot.html"
   ]
