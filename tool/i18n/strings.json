@@ -1034,8 +1034,8 @@
    "index.html"
   ]
  },
- "See it, spot it,<br/><span class=\"accent draw\">save it.</span>": {
-  "ar": "شاهِده، حدِّد مكانه،<br/><span class=\"accent draw\">أنقِذه.</span>",
+ "See it, <span class=\"hs-g\">spot it,</span><br/><span class=\"accent draw hs-o\">save it.</span>": {
+  "ar": "شاهِده، <span class=\"hs-g\">حدِّد مكانه،</span><br/><span class=\"accent draw hs-o\">أنقِذه.</span>",
   "pages": [
    "index.html"
   ]

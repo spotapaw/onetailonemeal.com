@@ -657,3 +657,11 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .btn-mini.btn-spot img{width:30px;height:30px;border-radius:9px;flex:none}
 .btn-mini.btn-spot:hover{background:var(--ivory);color:var(--nile)}
 [dir="rtl"] .btn-mini.btn-spot{padding:.3rem .3rem .3rem .9rem}
+/* Light (ivory) sections: eyebrow green, heading first line orange, accent line green (Ashraf, 23 Oct) */
+.eyebrow:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *){color:var(--nile)}
+h2:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *){color:var(--orange)}
+h2:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *) .accent{color:var(--nile)}
+/* #spot heading exception: See it (orange), spot it (green), save it (orange) */
+h2.h-spot{color:var(--orange)}
+h2.h-spot .hs-g{color:var(--nile)}
+h2.h-spot .accent.hs-o{color:var(--orange)}
