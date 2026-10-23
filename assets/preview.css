@@ -653,3 +653,7 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 [dir="rtl"] .sb-soon{right:auto;left:-.4rem;letter-spacing:0}
 .store-badge.sb-off > em.sb-soon{opacity:1;filter:none}
 [dir="rtl"] .store-badge.sb-off:not([href])::after{content:none}
+.btn-mini.btn-spot{gap:.5rem;padding:.3rem .9rem .3rem .3rem;background:rgba(242,235,221,.92);color:var(--nile);border-color:var(--orange);box-shadow:0 4px 14px rgba(0,0,0,.18)}
+.btn-mini.btn-spot img{width:30px;height:30px;border-radius:9px;flex:none}
+.btn-mini.btn-spot:hover{background:var(--ivory);color:var(--nile)}
+[dir="rtl"] .btn-mini.btn-spot{padding:.3rem .3rem .3rem .9rem}

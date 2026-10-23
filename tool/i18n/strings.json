@@ -803,8 +803,20 @@
    "index.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">Help build the first truck</a>\n<a class=\"btn btn-ghost\" href=\"food-truck.html\">See the truck</a>\n<a class=\"btn-mini\" href=\"#spot\">Spot a stray ›</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">ساعدنا في بناء أول شاحنة</a>\n<a class=\"btn btn-ghost\" href=\"food-truck-ar.html\">شاهد الشاحنة</a>\n<a class=\"btn-mini\" href=\"#spot\">أبلغ عن حيوان شارد ‹</a>",
+ "Help build the first truck": {
+  "ar": "ساعدنا في بناء أول شاحنة",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "See the truck": {
+  "ar": "شاهد الشاحنة",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "Spot a stray ›": {
+  "ar": "أبلغ عن حيوان شارد ‹",
   "pages": [
    "index.html"
   ]
