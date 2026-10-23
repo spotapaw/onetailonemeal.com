@@ -646,3 +646,10 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .spot-phones .sp-front{position:relative;transform:translateX(22%) rotate(4deg)}
 @media (max-width:760px){.spot-phones{min-height:360px;margin-top:1rem}}
 [dir="rtl"] .store-badge:not([href])::after{content:"قريبًا";right:auto;left:-.4rem}
+.store-badge.sb-off{background:#3a3a3a;border-color:#6b6b6b;cursor:default;pointer-events:none}
+.store-badge.sb-off > svg,.store-badge.sb-off > span{opacity:.5;filter:grayscale(1)}
+.store-badge.sb-off::after{content:none}
+.sb-soon{position:absolute;top:-.6rem;right:-.4rem;background:var(--orange);color:var(--nile);font-style:normal;font-size:.62rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:.12rem .45rem;box-shadow:0 2px 6px rgba(0,0,0,.2)}
+[dir="rtl"] .sb-soon{right:auto;left:-.4rem;letter-spacing:0}
+.store-badge.sb-off > em.sb-soon{opacity:1;filter:none}
+[dir="rtl"] .store-badge.sb-off:not([href])::after{content:none}
