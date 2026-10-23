@@ -803,8 +803,8 @@
    "index.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">Help build the first truck</a>\n<a class=\"btn btn-ghost\" href=\"food-truck.html\">See the truck</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">ساعدنا في بناء أول شاحنة</a>\n<a class=\"btn btn-ghost\" href=\"food-truck.html\">شاهد الشاحنة</a>",
+ "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">Help build the first truck</a>\n<a class=\"btn btn-ghost\" href=\"food-truck.html\">See the truck</a>\n<a class=\"btn-mini\" href=\"#spot\">Spot a stray ›</a>": {
+  "ar": "<a class=\"btn btn-orange\" href=\"https://gofund.me/ea6b4eece\" rel=\"noopener\" target=\"_blank\">ساعدنا في بناء أول شاحنة</a>\n<a class=\"btn btn-ghost\" href=\"food-truck-ar.html\">شاهد الشاحنة</a>\n<a class=\"btn-mini\" href=\"#spot\">أبلغ عن حيوان شارد ‹</a>",
   "pages": [
    "index.html"
   ]
@@ -916,11 +916,11 @@
    "404.html"
   ]
  },
- "Spot-a-Paw": {
-  "ar": "Spot-a-Paw",
+ "Spot a Paw": {
+  "ar": "Spot a Paw",
   "pages": [
    "index.html",
-   "404.html"
+   "a-paw.html"
   ]
  },
  "The clean stainless-steel cooking area inside the truck": {
@@ -1014,6 +1014,62 @@
   "pages": [
    "index.html",
    "404.html"
+  ]
+ },
+ "Technology for every tail": {
+  "ar": "تقنية من أجل كل ذيل",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "See it, spot it,<br/><span class=\"accent draw\">save it.</span>": {
+  "ar": "شاهِده، حدِّد مكانه،<br/><span class=\"accent draw\">أنقِذه.</span>",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "Spot a Paw is our free app for anyone who cares about street animals.<br/>Pin a dog or cat you see, share who’s feeding them, and team up with neighbours to look after the strays on your street.<br/>AI helps spot the animals that need a vet and the streets that need the most help.": {
+  "ar": "Spot a Paw تطبيقنا المجاني لكل من يهتم بحيوانات الشارع.<br/>حدّد مكان أي كلب أو قطة تراها، وشارك من يُطعمها، وتعاون مع جيرانك لرعاية الحيوانات الشاردة في شارعك.<br/>ويساعد الذكاء الاصطناعي في رصد الحيوانات التي تحتاج إلى طبيب بيطري والشوارع الأكثر حاجة إلى المساعدة.",
+  "pages": [
+   "index.html"
+  ]
+ },
+ "Get it on Google Play": {
+  "ar": "احصل عليه من Google Play",
+  "pages": [
+   "index.html",
+   "a-paw.html",
+   "a-paw-spot.html"
+  ]
+ },
+ "<small>GET IT ON</small>Google Play": {
+  "ar": "<small>احصل عليه من</small>Google Play",
+  "pages": [
+   "index.html",
+   "a-paw.html",
+   "a-paw-spot.html"
+  ]
+ },
+ "Download on the App Store": {
+  "ar": "نزّله من App Store",
+  "pages": [
+   "index.html",
+   "a-paw.html",
+   "a-paw-spot.html"
+  ]
+ },
+ "<small>Download on the</small>App Store": {
+  "ar": "<small>نزّله من</small>App Store",
+  "pages": [
+   "index.html",
+   "a-paw.html",
+   "a-paw-spot.html"
+  ]
+ },
+ "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com\" rel=\"noopener\" target=\"_blank\">Visit spot-a-paw.com →</a>": {
+  "ar": "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com\" rel=\"noopener\" target=\"_blank\">زُر spot-a-paw.com ←</a>",
+  "pages": [
+   "index.html"
   ]
  },
  "A street dog and cat eating from plates made of vegetables": {
@@ -2604,34 +2660,6 @@
    "a-paw-spot.html"
   ]
  },
- "Get it on Google Play": {
-  "ar": "احصل عليه من Google Play",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
- "<small>GET IT ON</small>Google Play": {
-  "ar": "<small>احصل عليه من</small>Google Play",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
- "Download on the App Store": {
-  "ar": "نزّله من App Store",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
- "<small>Download on the</small>App Store": {
-  "ar": "<small>نزّله من</small>App Store",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
  "Read more ›": {
   "ar": "اقرأ المزيد ›",
   "pages": [
@@ -2994,12 +3022,6 @@
  },
  "Both apps have a job in feeding street animals. The share is written down in advance, so\n        it can be checked.": {
   "ar": "لكلٍّ من التطبيقين دور في إطعام حيوانات الشارع. الحصة مكتوبة مسبقًا،\n        حتى يمكن التحقق منها.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Spot a Paw": {
-  "ar": "Spot a Paw",
   "pages": [
    "a-paw.html"
   ]
@@ -4008,6 +4030,12 @@
  },
  "One Tail One Meal feeds the street animals of Cairo, one warm meal at a time,\n      and builds the tools that let people anywhere in the world do the same for the animals on their\n      own streets.": {
   "ar": "One Tail One Meal تُطعم حيوانات الشارع في القاهرة، وجبة دافئة تلو الأخرى،\n      وتبني الأدوات التي تتيح للناس في أي مكان في العالم أن يفعلوا الشيء نفسه للحيوانات في\n      شوارعهم.",
+  "pages": [
+   "404.html"
+  ]
+ },
+ "Spot-a-Paw": {
+  "ar": "Spot-a-Paw",
   "pages": [
    "404.html"
   ]
