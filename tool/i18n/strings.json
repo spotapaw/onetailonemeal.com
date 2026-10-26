@@ -1062,10 +1062,12 @@
    "a-paw-spot.html"
   ]
  },
- "App Store: coming soon": {
-  "ar": "App Store: قريبًا",
+ "Download on the App Store": {
+  "ar": "نزّله من App Store",
   "pages": [
-   "index.html"
+   "index.html",
+   "a-paw.html",
+   "a-paw-spot.html"
   ]
  },
  "<small>Download on the</small>App Store": {
@@ -1074,13 +1076,6 @@
    "index.html",
    "a-paw.html",
    "a-paw-spot.html"
-  ]
- },
- "Coming soon": {
-  "ar": "قريبًا",
-  "pages": [
-   "index.html",
-   "a-paw.html"
   ]
  },
  "<a class=\"btn btn-nile\" href=\"https://spot-a-paw.com\" rel=\"noopener\" target=\"_blank\">Visit spot-a-paw.com →</a>": {
@@ -2677,13 +2672,6 @@
    "a-paw-spot.html"
   ]
  },
- "Download on the App Store": {
-  "ar": "نزّله من App Store",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
-  ]
- },
  "Read more ›": {
   "ar": "اقرأ المزيد ›",
   "pages": [
@@ -2710,6 +2698,12 @@
  },
  "Pet care, lost pets, adoption": {
   "ar": "رعاية الحيوانات الأليفة، الحيوانات المفقودة، التبنّي",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Coming soon": {
+  "ar": "قريبًا",
   "pages": [
    "a-paw.html"
   ]
