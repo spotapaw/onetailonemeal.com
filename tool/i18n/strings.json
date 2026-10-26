@@ -601,8 +601,8 @@
    "404.html"
   ]
  },
- "<a href=\"index.html#vision\">What we want to build</a>": {
-  "ar": "<a href=\"index.html#vision\">ما نريد أن نبنيه</a>",
+ "<a href=\"/#vision\">What we want to build</a>": {
+  "ar": "<a href=\"/#vision\">ما نريد أن نبنيه</a>",
   "pages": [
    "vision.html",
    "index.html",

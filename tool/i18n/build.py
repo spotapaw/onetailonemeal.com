@@ -16,25 +16,39 @@ AR_FONT = ('<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500;
 def ar_name(p):
     return p[:-5] + '-ar.html'
 
+def home(page):
+    return '/' if page == 'index.html' else page
+
+def page_url(page, lang):
+    base = 'https://onetailonemeal.com/'
+    if lang == 'ar':
+        return base + ar_name(page)
+    return base + ('' if page == 'index.html' else page)
+
 def switch_html(page, lang):
-    en, ar = page, ar_name(page)
+    en, ar = home(page), ar_name(page)
     on_en = ' class="on" aria-current="true"' if lang == 'en' else ''
     on_ar = ' class="on" aria-current="true"' if lang == 'ar' else ''
     return (f'<span class="{SWITCH_CLASS}" role="group" aria-label="Language">'
             f'<a{on_en} href="{en}" hreflang="en" lang="en">EN</a>'
             f'<a{on_ar} href="{ar}" hreflang="ar" lang="ar">عربي</a></span>')
 
+NOINDEX = '<meta name="robots" content="noindex">'
+
 def alternates(page):
-    base = 'https://onetailonemeal.com/'
-    en = base + ('' if page == 'index.html' else page)
-    return (f'<link rel="alternate" hreflang="en" href="{en}">\n'
-            f'<link rel="alternate" hreflang="ar" href="{base + ar_name(page)}">\n')
+    # 404 pages are not indexed: no canonical or hreflang, just noindex
+    if page == '404.html':
+        return NOINDEX + '\n'
+    return (f'<link rel="canonical" href="{page_url(page, "en")}">\n'
+            f'<link rel="alternate" hreflang="en" href="{page_url(page, "en")}">\n'
+            f'<link rel="alternate" hreflang="ar" href="{page_url(page, "ar")}">\n')
 
 def add_to_english(page):
     path = os.path.join(ROOT, page)
     s = open(path, encoding='utf-8').read()
     s = re.sub(r'\n    <span class="lang-switch".*?</a></span>', '', s, flags=re.S)
-    s = re.sub(r'<link rel="alternate" hreflang="(en|ar)"[^>]*>\n', '', s)
+    s = re.sub(r'<link rel="(alternate" hreflang="(en|ar)|canonical)"[^>]*>\n', '', s)
+    s = s.replace(NOINDEX + '\n', '')
     s = s.replace('</nav>\n  </div>\n</header>', '</nav>\n    ' + switch_html(page, 'en') + '\n  </div>\n</header>', 1)
     s = s.replace('</head>', alternates(page) + '</head>', 1)
     open(path, 'w', encoding='utf-8').write(s)
@@ -58,7 +72,12 @@ def build_arabic(page, tr):
         else:
             el[kind.split(':', 1)[1]] = ar
     html = soup.find('html'); html['lang'] = 'ar'; html['dir'] = 'rtl'
+    canon = soup.find('link', rel='canonical')
+    if canon:
+        canon['href'] = page_url(page, 'ar')
     for a in soup.find_all('a', href=True):
+        if a['href'] == '/' or a['href'].startswith('/#'):
+            a['href'] = 'index.html' + a['href'][1:]
         m = LINK_RE.match(a['href'])
         if m and not a.find_parent('span', class_=SWITCH_CLASS):
             a['href'] = ar_name(m.group(1)) + (m.group(2) or '')
