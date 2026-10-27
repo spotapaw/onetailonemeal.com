@@ -2702,8 +2702,8 @@
    "a-paw.html"
   ]
  },
- "Coming soon": {
-  "ar": "قريبًا",
+ "On Google Play": {
+  "ar": "على Google Play",
   "pages": [
    "a-paw.html"
   ]
@@ -3008,8 +3008,14 @@
    "a-paw.html"
   ]
  },
- "Coming soon to Google Play and the App Store.": {
-  "ar": "قريبًا على Google Play و App Store.",
+ "App Store: coming soon": {
+  "ar": "App Store: قريبًا",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Coming soon": {
+  "ar": "قريبًا",
   "pages": [
    "a-paw.html"
   ]
