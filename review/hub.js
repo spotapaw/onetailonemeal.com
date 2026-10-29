@@ -66,6 +66,8 @@
     if (cb) cb.onclick = async () => { try { await navigator.clipboard.writeText((p.title ? p.title + '\n\n' : '') + p.text); cb.textContent = 'Copied'; } catch { cb.textContent = 'Copy failed'; } };
   }
 
+  const asOwner = (s) => s.replace(/Waiting for \S+ to press/g, 'Waiting for the owner to press')
+    .replace(/Waiting for \S+'s approval/g, "Waiting for the owner's approval").replace(/^\S+ rejected this/, 'The owner rejected this');
   function renderPublish(day) {
     const s = live[day.task_id];
     const pubs = s ? s.publications : [];
@@ -78,7 +80,8 @@
       // Until Metricool is set up, one line says so instead of repeating every setup step per platform.
       let blockers = x.blockers || [];
       if (settings && !settings.brand_connected) blockers = blockers.filter((b) => !/Metricool|connected/.test(b)).concat('Metricool not set up yet');
-      const why = x.attention || (blockers.length ? 'Before sending: ' + blockers.join(' · ') : '');
+      // Backend texts name a person; show them as "the owner" (no personal details on public pages).
+      const why = asOwner(x.attention || (blockers.length ? 'Before sending: ' + blockers.join(' · ') : ''));
       return `<li><span>${esc(p.label)}</span><span class="pill ${cls}">${esc(label)}</span>${links ? `<span class="why">${links}</span>` : ''}${why ? `<span class="why">${esc(why)}</span>` : ''}</li>`;
     }).join('');
     const od = s && s.owner_decision && s.owner_decision.decision;
@@ -114,7 +117,7 @@
     $('rv-name').value = $('rv-name').value || store.get('otm-reviewer') || (isOwner ? 'Owner' : '');
     $('rv-scope').textContent = isOwner
       ? 'You are signed in as owner. Your Yes approves the video, every platform\'s text and the posting time for this day. It does not send anything by itself.'
-      : 'Your review is saved as feedback for the owner. Only the owner's decision approves a post.';
+      : 'Your review is saved as feedback for the owner. Only owner decisions approve a post.';
     const s = live[d.task_id];
     $('rv-last').textContent = s && s.owner_decision ? `Owner's latest decision on this revision: ${({ yes: 'Yes', no: 'No', changes_needed: 'Changes needed' })[s.owner_decision.decision]} (${new Date(s.owner_decision.at).toLocaleString('en-AU')}).` : '';
     $('pb-state').textContent = '';
