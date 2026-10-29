@@ -40,7 +40,7 @@
     if (od === 'yes') return [pubs.some((p) => p.send_requested) ? 'Sent to Metricool' : 'Approved', 'ok'];
     if (od === 'no') return ['Rejected', 'bad'];
     if (od === 'changes_needed') return ['Changes needed', 'warn'];
-    return [s.feedback_count ? `Awaiting Ashraf · ${s.feedback_count} review${s.feedback_count > 1 ? 's' : ''}` : 'Awaiting review', 'muted'];
+    return [s.feedback_count ? `Awaiting owner · ${s.feedback_count} review${s.feedback_count > 1 ? 's' : ''}` : 'Awaiting review', 'muted'];
   }
 
   function renderCards() {
@@ -111,12 +111,12 @@
     $('d-prev').disabled = i === 0; $('d-next').disabled = i === D.days.length - 1;
     document.querySelectorAll('.choices button').forEach((b) => b.setAttribute('aria-checked', 'false'));
     $('rv-msg').value = '';
-    $('rv-name').value = $('rv-name').value || store.get('otm-reviewer') || (isOwner ? 'Ashraf' : '');
+    $('rv-name').value = $('rv-name').value || store.get('otm-reviewer') || (isOwner ? 'Owner' : '');
     $('rv-scope').textContent = isOwner
       ? 'You are signed in as owner. Your Yes approves the video, every platform\'s text and the posting time for this day. It does not send anything by itself.'
-      : 'Your review is saved as feedback for Ashraf. Only his decision approves a post.';
+      : 'Your review is saved as feedback for the owner. Only the owner's decision approves a post.';
     const s = live[d.task_id];
-    $('rv-last').textContent = s && s.owner_decision ? `Ashraf's latest decision on this revision: ${({ yes: 'Yes', no: 'No', changes_needed: 'Changes needed' })[s.owner_decision.decision]} (${new Date(s.owner_decision.at).toLocaleString('en-AU')}).` : '';
+    $('rv-last').textContent = s && s.owner_decision ? `Owner's latest decision on this revision: ${({ yes: 'Yes', no: 'No', changes_needed: 'Changes needed' })[s.owner_decision.decision]} (${new Date(s.owner_decision.at).toLocaleString('en-AU')}).` : '';
     $('pb-state').textContent = '';
     renderTabs(d); renderPublish(d); onReviewEdit();
     if (!$('day').open) $('day').showModal();
@@ -156,7 +156,7 @@
     await refresh(); renderPublish(d);
   }
 
-  // Days still needing Ashraf's yes: current, not on hold, not already approved, sent, scheduled or published.
+  // Days still needing the owner's yes: current, not on hold, not already approved, sent, scheduled or published.
   function pendingDays() {
     return D.days.filter((d) => {
       const s = live[d.task_id];
@@ -181,7 +181,7 @@
     for (const d of days) {
       btn.textContent = `Approving ${ok + failed.length + 1} of ${days.length}…`;
       try {
-        const r = await api({ action: 'submit', p_task: d.task_id, p_revision: d.revision, p_fingerprint: d.fingerprint, p_reviewer: 'Ashraf', p_decision: 'yes', p_message: 'Approved with Approve all', p_request_id: uuid(), p_website: '', owner_code: ownerCode });
+        const r = await api({ action: 'submit', p_task: d.task_id, p_revision: d.revision, p_fingerprint: d.fingerprint, p_reviewer: 'Owner', p_decision: 'yes', p_message: 'Approved with Approve all', p_request_id: uuid(), p_website: '', owner_code: ownerCode });
         if (r.receipt_id && r.is_owner) ok++; else failed.push(d.label);
       } catch { failed.push(d.label); }
     }

@@ -262,7 +262,7 @@ footer .socials .lbl{color:var(--orange)}
 .pl-q{list-style:none;margin:0;padding:0;display:grid;gap:1rem}
 .pl-q b{display:block;color:var(--nile)}
 .pl-test .split{align-items:start}
-/* Green accent heading (Ashraf, plates page) */
+/* Green accent heading (owner, plates page) */
 h2 .accent.accent-green,h1 .accent.accent-green{color:var(--nile)!important;text-decoration-color:var(--nile)}
 .accent.accent-green.draw{background-image:linear-gradient(var(--nile),var(--nile))}
 
@@ -453,11 +453,11 @@ html[dir=rtl] .hp{left:auto;right:-9999px}
 .drum-note{text-align:center;font-size:.88rem;opacity:.75;max-width:70ch;margin:0 auto}
 @media (max-width:860px){.drum-steps{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){.drum-steps{grid-template-columns:1fr}.drum-facts{grid-template-columns:1fr;gap:.8rem}}
-/* Standard heading: plain first line, orange underlined second line (Ashraf 18 Oct) */
+/* Standard heading: plain first line, orange underlined second line (owner 18 Oct) */
 h1 .accent,h2 .accent{color:var(--orange)}
 
 .drum-steps li.has-pic{padding:0 0 1.4rem;overflow:hidden}.drum-steps li.has-pic>:not(.card-pic){margin-left:1.4rem;margin-right:1.4rem}.drum-steps .card-pic{height:150px}
-/* Rule (Ashraf 18 Oct): text on orange is always our green, never white or black */
+/* Rule (owner 18 Oct): text on orange is always our green, never white or black */
 .btn-orange,.nav-donate,.card-btn,.lang-switch a.on,.drum-n,.shotcard .n,.t-soon,.cost-n,.tour-ctl button,.soc:hover,.soc:focus-visible{color:var(--nile)!important}
 .ap-ico-img{overflow:hidden}.ap-ico-img img{width:70%;height:70%;object-fit:contain;display:block}
 .ap-cols{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;max-width:1000px;margin:3rem auto 0}
@@ -501,7 +501,7 @@ html[dir=rtl] .ap-next-card{text-align:right}.ap-next-card>div{flex:1}
 footer a:not(.soc):not(.btn):not(.brand){transition:color .15s ease}
 footer a:not(.soc):not(.btn):not(.brand):hover,footer a:not(.soc):not(.btn):not(.brand):focus-visible{color:var(--orange)}
 
-/* Section titles (Ashraf 18 Oct): orange all caps with a thick orange bracket, everywhere */
+/* Section titles (owner 18 Oct): orange all caps with a thick orange bracket, everywhere */
 .eyebrow,.eyebrow.eyebrow-green{display:inline-flex;align-items:center;gap:.75rem;font:500 clamp(.95rem,1.5vw,1.1rem)/1.1 'Fraunces',Georgia,serif;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
 .eyebrow::before,.eyebrow.eyebrow-green::before{content:"";flex:none;width:.55em;height:1.6em;background:none;border:5px solid var(--orange);border-right:0;border-radius:0}
 html[dir=rtl] .eyebrow::before{border-right:5px solid var(--orange);border-left:0}
@@ -657,7 +657,7 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .btn-mini.btn-spot img{width:30px;height:30px;border-radius:9px;flex:none}
 .btn-mini.btn-spot:hover{background:var(--ivory);color:var(--nile)}
 [dir="rtl"] .btn-mini.btn-spot{padding:.3rem .3rem .3rem .9rem}
-/* Light (ivory) sections: eyebrow green, heading first line orange, accent line green (Ashraf, 23 Oct) */
+/* Light (ivory) sections: eyebrow green, heading first line orange, accent line green (owner, 23 Oct) */
 .eyebrow:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *){color:var(--nile)}
 h2:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *){color:var(--orange)}
 h2:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap-hero,.ap-hero-grid,.why,.cost-sum,.drive,.help-hero) *) .accent{color:var(--nile)}

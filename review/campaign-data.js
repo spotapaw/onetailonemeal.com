@@ -6,7 +6,7 @@ window.ROUND_DATA = {
  "rules": [
   "Post video to IG Reel (+ share to Story), FB Reel, YouTube Short, TikTok; X gets its own text",
   "Turn on each platform AI-generated label",
-  "Ashraf approves before anything goes live"
+  "The owner approves before anything goes live"
  ],
  "days": [
   {
