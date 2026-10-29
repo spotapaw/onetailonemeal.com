@@ -841,7 +841,6 @@
   "pages": [
    "index.html",
    "food-truck.html",
-   "a-paw.html",
    "costings.html",
    "404.html"
   ]
@@ -2972,32 +2971,8 @@
    "a-paw.html"
   ]
  },
- "Care Premium and Track Protect in one plan for": {
-  "ar": "Care Premium و Track Protect في خطة واحدة بسعر",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "or": {
-  "ar": "أو",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "(Australian dollars), less than buying both.": {
-  "ar": "(دولار أسترالي)، أقل من شراء الاثنين معًا.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "A$9.99 a month": {
-  "ar": "A$9.99 شهريًا",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "A$79.99 a year": {
-  "ar": "A$79.99 سنويًا",
+ "Care Premium and Track Protect in one plan, monthly or yearly, for less than buying both. Prices show in the app in your own currency.": {
+  "ar": "Care Premium و Track Protect في خطة واحدة، شهريًا أو سنويًا، بسعر أقل من شراء الاثنين معًا. تظهر الأسعار داخل التطبيق بعملتك.",
   "pages": [
    "a-paw.html"
   ]
@@ -3074,8 +3049,8 @@
    "a-paw.html"
   ]
  },
- "One meal in Cairo costs about A$0.27 (10 Egyptian pounds). The meals come out of our revenue: a subscriber pays only the price of\n      the app. Each year we will publish how many meals the apps funded.": {
-  "ar": "تكلفة الوجبة الواحدة في القاهرة نحو A$0.27 (10 جنيه مصري). الوجبات تُموَّل من إيراداتنا: المشترك يدفع ثمن\n      التطبيق فقط. وسننشر كل عام عدد الوجبات التي موّلتها التطبيقات.",
+ "One meal in Cairo costs about 10 Egyptian pounds. The meals come out of our revenue: a subscriber pays only the price of\n      the app. Each year we will publish how many meals the apps funded.": {
+  "ar": "تكلفة الوجبة الواحدة في القاهرة نحو 10 جنيهات مصرية. الوجبات تُموَّل من إيراداتنا: المشترك يدفع ثمن\n      التطبيق فقط. وسننشر كل عام عدد الوجبات التي موّلتها التطبيقات.",
   "pages": [
    "a-paw.html"
   ]
