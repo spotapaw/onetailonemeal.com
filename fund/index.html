@@ -126,7 +126,7 @@ fetch("progress.json", { cache: "no-store" }).then(function (r) { return r.json(
 var live = false;
 document.querySelectorAll("#amounts [data-link]").forEach(function (a) {
   var url = LINKS[a.getAttribute("data-link")];
-  if (url) { a.href = url; live = true; } else { a.setAttribute("aria-disabled", "true"); a.hidden = true; }
+  if (url) { a.href = url; live = true; } else { a.setAttribute("aria-disabled", "true"); a.style.display = "none"; }
 });
 if (live) document.getElementById("fund-status").textContent = "You'll pay securely through Stripe. Your receipt comes from THE PET WELLBEING COMPANY PTY LTD.";
 </script>
