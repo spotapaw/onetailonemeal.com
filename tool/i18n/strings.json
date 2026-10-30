@@ -1206,8 +1206,8 @@
    "404.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">Donate on GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">See where it goes</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">تبرّع على GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">شاهد أين تذهب</a>",
+ "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">Donate now</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">See where it goes</a>": {
+  "ar": "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">تبرّع الآن</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">شاهد أين تذهب</a>",
   "pages": [
    "index.html",
    "404.html"
@@ -1228,8 +1228,8 @@
    "404.html"
   ]
  },
- "See progress on GoFundMe →": {
-  "ar": "تابع التقدم على GoFundMe ←",
+ "See progress →": {
+  "ar": "تابع التقدم ←",
   "pages": [
    "index.html",
    "food-truck.html",
@@ -1864,8 +1864,8 @@
    "food-truck.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">Donate on GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">How we worked out each cost</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">تبرّع عبر GoFundMe</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">كيف حسبنا كل تكلفة</a>",
+ "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">Donate now</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">How we worked out each cost</a>": {
+  "ar": "<a class=\"btn btn-orange\" href=\"https://onetailonemeal.com/fund\" rel=\"noopener\" target=\"_blank\">تبرّع الآن</a>\n<a class=\"btn btn-ghost\" href=\"costings.html\">كيف حسبنا كل تكلفة</a>",
   "pages": [
    "food-truck.html"
   ]
