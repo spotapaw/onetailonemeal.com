@@ -665,3 +665,12 @@ h2:not(:is(.hero,.phero,.mission,.nile-bg,.give,.card.nile,.card.deep,footer,.ap
 h2.h-spot{color:var(--orange)}
 h2.h-spot .hs-g{color:var(--nile)}
 h2.h-spot .accent.hs-o{color:var(--orange)}
+/* Home hero: three equal-width buttons, Spot with a pulsing orange outline */
+.hero-cta.hero-cta--equal,.phero .hero-cta.hero-cta--equal{display:inline-grid;grid-auto-flow:column;grid-auto-columns:1fr;width:max-content;max-width:100%}
+.hero-cta--equal .btn{justify-content:center;text-align:center;white-space:nowrap}
+.btn.btn-spot{background:rgba(242,235,221,.92);color:var(--nile);border-color:var(--orange);animation:spotPulse 2s ease-out infinite}
+.btn.btn-spot img{width:30px;height:30px;border-radius:9px;flex:none;margin:-.4rem 0}
+.btn.btn-spot:hover{background:var(--ivory);color:var(--nile)}
+@keyframes spotPulse{0%{box-shadow:0 0 0 0 rgba(255,121,0,.7)}70%{box-shadow:0 0 0 8px rgba(255,121,0,0)}100%{box-shadow:0 0 0 0 rgba(255,121,0,0)}}
+@media (max-width:560px){.hero-cta.hero-cta--equal,.phero .hero-cta.hero-cta--equal{display:grid;grid-auto-flow:row;grid-template-columns:1fr;width:auto;max-width:none}}
+@media (prefers-reduced-motion:reduce){.btn.btn-spot{animation:none}}
