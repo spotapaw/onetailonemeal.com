@@ -3139,8 +3139,8 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>A live count of meals served, from the round the truck team logs.</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>عدّاد مباشر للوجبات التي ستُقدَّم، من الجولات التي سيسجّلها فريق الشاحنة.</span>",
+ "<span class=\"apaw-tag t-today\">Now on Google Play and Apple</span><span>A live count of meals served, from the round the truck team logs.</span>": {
+  "ar": "<span class=\"apaw-tag t-today\">متاح الآن على Google Play وApple</span><span>عدّاد مباشر للوجبات التي ستُقدَّم، من الجولات التي سيسجّلها فريق الشاحنة.</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3169,8 +3169,8 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Pet movies from a photo (Snap aPaw inside the app).</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>أفلام للحيوانات الأليفة من صورة (Snap aPaw داخل التطبيق).</span>",
+ "<span class=\"apaw-tag t-today\">Now on Google Play and Apple</span><span>Pet movies from a photo (Snap aPaw inside the app).</span>": {
+  "ar": "<span class=\"apaw-tag t-today\">متاح الآن على Google Play وApple</span><span>أفلام للحيوانات الأليفة من صورة (Snap aPaw داخل التطبيق).</span>",
   "pages": [
    "a-paw.html"
   ]
@@ -3193,14 +3193,14 @@
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Turns a pet photo into a short movie of your pet, brought to life.</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>يحوّل صورة حيوانك إلى فيلم قصير ينبض بالحياة.</span>",
+ "<span class=\"apaw-tag t-today\">Now on Google Play and Apple</span><span>Turns a pet photo into a short movie of your pet, brought to life.</span>": {
+  "ar": "<span class=\"apaw-tag t-today\">متاح الآن على Google Play وApple</span><span>يحوّل صورة حيوانك إلى فيلم قصير ينبض بالحياة.</span>",
   "pages": [
    "a-paw.html"
   ]
  },
- "<span class=\"apaw-tag t-soon\">Coming soon</span><span>Safety checks on every upload: pets only, nothing unsafe, and people are never included.</span>": {
-  "ar": "<span class=\"apaw-tag t-soon\">قريبًا</span><span>فحص أمان لكل صورة: الحيوانات الأليفة فقط، لا شيء غير آمن، ولا يظهر أي شخص أبدًا.</span>",
+ "<span class=\"apaw-tag t-today\">Now on Google Play and Apple</span><span>Safety checks on every upload: pets only, nothing unsafe, and people are never included.</span>": {
+  "ar": "<span class=\"apaw-tag t-today\">متاح الآن على Google Play وApple</span><span>فحص أمان لكل صورة: الحيوانات الأليفة فقط، لا شيء غير آمن، ولا يظهر أي شخص أبدًا.</span>",
   "pages": [
    "a-paw.html"
   ]
