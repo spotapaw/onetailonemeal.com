@@ -31,6 +31,9 @@
  .sbar-tab{right:14px;bottom:calc(84px + env(safe-area-inset-bottom))}
  [dir=rtl] .sbar-tab{right:auto;left:14px}
  body{padding-bottom:calc(150px + env(safe-area-inset-bottom))}
+ .sbar.at-top{bottom:auto;top:calc(var(--sbar-top,64px) + 8px + env(safe-area-inset-top));transform:translate(-50%,-24px)}
+ .sbar.at-top.show{transform:translate(-50%,0)}
+ .sbar-tab.at-top{bottom:auto;top:calc(var(--sbar-top,64px) + 8px + env(safe-area-inset-top))}
  }
 @media (max-width:374px){.sbar-label{display:none}}
 @media (prefers-reduced-motion:reduce){.sbar{transition:none}}
