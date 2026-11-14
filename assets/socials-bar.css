@@ -1,0 +1,40 @@
+/* Floating "Follow us" socials bar (home page) */
+.sbar{position:fixed;z-index:70;display:flex;align-items:center;gap:.35rem;background:#1F5148;color:#F2EBDD;border-radius:999px;box-shadow:0 10px 28px rgba(0,0,0,.32);border:1px solid rgba(242,235,221,.18);padding:.35rem;opacity:0;pointer-events:none;transition:opacity .45s ease,transform .45s cubic-bezier(.2,.8,.2,1)}
+.sbar.show{opacity:1;pointer-events:auto}
+.sbar[hidden],.sbar-tab[hidden]{display:none!important}
+.sbar-label{font-family:var(--display,inherit);font-weight:700;font-size:.92rem;color:#F2EBDD;white-space:nowrap;padding:0 .35rem 0 .55rem}
+.sbar a,.sbar button,.sbar-tab{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;flex:none;border-radius:50%;border:0;background:transparent;color:#F2EBDD;cursor:pointer;text-decoration:none;padding:0;transition:color .2s,background .2s}
+.sbar a:hover,.sbar a:focus-visible,.sbar button:hover,.sbar button:focus-visible{color:#FF7900;background:rgba(242,235,221,.08);outline:none}
+.sbar a:focus-visible,.sbar button:focus-visible,.sbar-tab:focus-visible{box-shadow:0 0 0 2px #FF7900}
+.sbar .sbar-ctl{width:34px;height:34px;color:rgba(242,235,221,.75)}
+.sbar .sbar-ctl svg{width:16px;height:16px}
+.sbar-tab{position:fixed;z-index:70;background:#FF7900;color:#1F5148;box-shadow:0 8px 22px rgba(0,0,0,.3);border:2px solid #F2EBDD}
+.sbar-tab:hover{background:#ff8f26}
+/* Desktop: vertical bar on the edge, middle height */
+@media (min-width:861px){
+ .sbar{top:50%;right:14px;flex-direction:column;transform:translate(24px,-50%)}
+ .sbar.show{transform:translate(0,-50%)}
+ .sbar-label{writing-mode:vertical-rl;transform:rotate(180deg);padding:.5rem 0 .3rem}
+ .sbar-tab{top:50%;right:14px;transform:translateY(-50%)}
+ [dir=rtl] .sbar{right:auto;left:14px;transform:translate(-24px,-50%)}
+ [dir=rtl] .sbar.show{transform:translate(0,-50%)}
+ [dir=rtl] .sbar-label{transform:none}
+ [dir=rtl] .sbar-tab{right:auto;left:14px}
+ }
+/* Phones: pill centred above the bottom section bar */
+@media (max-width:860px){
+ .sbar{left:50%;bottom:calc(84px + env(safe-area-inset-bottom));transform:translate(-50%,24px);max-width:calc(100vw - 24px);gap:0;padding:.2rem .3rem}
+ .sbar.show{transform:translate(-50%,0)}
+ .sbar-label{font-size:.82rem;padding:0 .3rem 0 .45rem}
+ .sbar a{width:44px;height:44px}
+ .sbar .sbar-ctl{width:30px;height:44px}
+ .sbar-tab{right:14px;bottom:calc(84px + env(safe-area-inset-bottom))}
+ [dir=rtl] .sbar-tab{right:auto;left:14px}
+ body{padding-bottom:calc(150px + env(safe-area-inset-bottom))}
+ }
+@media (max-width:374px){.sbar-label{display:none}}
+@media (prefers-reduced-motion:reduce){.sbar{transition:none}}
+.sbar a{color:#FF7900}
+.sbar a:hover,.sbar a:focus-visible{color:#F2EBDD;background:rgba(242,235,221,.08)}
+.sbar a:focus-visible{box-shadow:0 0 0 2px #F2EBDD}
+.sbar-label{color:#F2EBDD}
