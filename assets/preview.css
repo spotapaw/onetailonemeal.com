@@ -674,3 +674,20 @@ h2.h-spot .accent.hs-o{color:var(--orange)}
 @keyframes spotPulse{0%{box-shadow:0 0 0 0 rgba(255,121,0,.7)}70%{box-shadow:0 0 0 8px rgba(255,121,0,0)}100%{box-shadow:0 0 0 0 rgba(255,121,0,0)}}
 @media (max-width:560px){.hero-cta.hero-cta--equal,.phero .hero-cta.hero-cta--equal{display:grid;grid-auto-flow:row;grid-template-columns:1fr;width:auto;max-width:none}}
 @media (prefers-reduced-motion:reduce){.btn.btn-spot{animation:none}}
+
+/* Apps page: both apps as the hero */
+.app-heroes{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:860px;margin-top:1.6rem;align-items:stretch}
+.app-hero{display:flex;flex-direction:column;gap:.7rem;background:rgba(4,52,49,.72);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border:1px solid rgba(242,235,221,.2);border-radius:22px;padding:1.1rem 1.15rem 1rem;color:var(--ivory,#F2EBDD);box-shadow:0 14px 34px rgba(0,0,0,.28);min-width:0}
+.app-hero-top{display:flex;align-items:center;gap:.8rem}
+.app-hero-top img{width:56px;height:56px;border-radius:14px;flex:none}
+.app-hero h3{margin:0;color:var(--orange,#FF7900);font-size:1.3rem;line-height:1.15}
+.app-hero p{margin:0;color:var(--ivory,#F2EBDD);font-size:.98rem;line-height:1.45;flex:1}
+.app-hero .store-badges{margin:0}
+.app-hero-more{color:var(--ivory,#F2EBDD);font-weight:700;text-decoration:none;border-bottom:2px solid var(--orange,#FF7900);align-self:flex-start;padding-bottom:1px}
+.app-hero-more:hover{color:var(--orange,#FF7900)}
+.app-hero-col{display:flex;flex-direction:column;gap:.5rem;min-width:0}
+.app-hero-col>.app-hero{flex:1}
+.app-hero-try{color:rgba(242,235,221,.85);font-size:.88rem;text-decoration:underline;text-underline-offset:3px;padding:0 .3rem}
+.app-hero-try:hover{color:var(--orange,#FF7900)}
+.app-hero-pad{visibility:hidden}
+@media (max-width:700px){.app-heroes{grid-template-columns:1fr}.app-hero-pad{display:none}}

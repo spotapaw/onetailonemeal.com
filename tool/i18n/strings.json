@@ -2555,104 +2555,33 @@
    "a-paw.html"
   ]
  },
- "<a class=\"btn btn-orange\" href=\"#apps\">Meet the apps</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">Try Spot-a-Paw in your browser</a>": {
-  "ar": "<a class=\"btn btn-orange\" href=\"#apps\">تعرّف على التطبيقات</a>\n<a class=\"btn btn-ghost\" href=\"https://spot-a-paw.com/\" rel=\"noopener\" target=\"_blank\">جرّب Spot-a-Paw في متصفحك</a>",
+ "Spot‑a‑Paw": {
+  "ar": "Spot‑a‑Paw",
+  "pages": [
+   "a-paw.html",
+   "a-paw-spot.html"
+  ]
+ },
+ "Free, for the street. See it. Spot it. Save it.": {
+  "ar": "مجاني، للشارع. شوفه. ارصده. أنقذه.",
   "pages": [
    "a-paw.html"
   ]
  },
- "Why technology": {
-  "ar": "لماذا التقنية",
+ "See more ›": {
+  "ar": "اعرف المزيد ›",
   "pages": [
    "a-paw.html"
   ]
  },
- "Kindness is everywhere.<br/><span class=\"accent\">Coordination isn’t.</span>": {
-  "ar": "الطيبة موجودة في كل مكان.<br/><span class=\"accent\">أما التنسيق فلا.</span>",
+ "Try Spot-a-Paw in your browser": {
+  "ar": "جرّب Spot-a-Paw في متصفحك",
   "pages": [
    "a-paw.html"
   ]
  },
- "In every city there are people who feed, rescue and rehome street animals. What they lack is\n        a way to see where help is needed, find each other, and keep going without running out of money.": {
-  "ar": "في كل مدينة أناس يُطعمون حيوانات الشارع وينقذونها ويجدون لها بيوتًا جديدة. ما ينقصهم هو\n        طريقة لمعرفة أين تُحتاج المساعدة، والوصول إلى بعضهم، والاستمرار دون أن تنفد أموالهم.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Seen": {
-  "ar": "مرئي",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "An animal in trouble on the map, with a photo and what it needs, so it is never passed by twice.": {
-  "ar": "حيوان في محنة يظهر على الخريطة، مع صورته وما يحتاج إليه، فلا يُتجاهَل مرتين أبدًا.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Feeders": {
-  "ar": "المُطعِمون",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Drivers": {
-  "ar": "السائقون",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Rescuers": {
-  "ar": "المنقذون",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Vets": {
-  "ar": "الأطباء البيطريون",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Shelters": {
-  "ar": "الملاجئ",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Butchers": {
-  "ar": "الجزّارون",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Coordinated": {
-  "ar": "منسَّق",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Feeders, drivers, rescuers, vets, shelters and butchers who can see who is already on the way, and who is covering which street.": {
-  "ar": "مُطعِمون وسائقون ومنقذون وأطباء بيطريون وملاجئ وجزّارون يرون من في الطريق بالفعل، ومن يغطي أي شارع.",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Meals": {
-  "ar": "وجبات",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Funded": {
-  "ar": "مموَّل",
-  "pages": [
-   "a-paw.html"
-  ]
- },
- "Apps that pet owners pay for, each sending a published share of its revenue to meals for the animals that have no owner at all.": {
-  "ar": "تطبيقات يدفع ثمنها أصحاب الحيوانات الأليفة، يخصّص كلٌّ منها حصة معلنة من إيراداته لوجبات الحيوانات التي ليس لها صاحب على الإطلاق.",
+ "For pets at home: Care, Track, Snap, Adopt, Mind, Feed. It pays for meals.": {
+  "ar": "للحيوانات الأليفة في البيت: Care، Track، Snap، Adopt، Mind، Feed. ويموّل الوجبات.",
   "pages": [
    "a-paw.html"
   ]
@@ -2673,13 +2602,6 @@
   "ar": "كل من يُطعم حيوانًا أو ينقذه أو يبلّغ عنه لا يدفع شيئًا أبدًا.",
   "pages": [
    "a-paw.html"
-  ]
- },
- "Spot‑a‑Paw": {
-  "ar": "Spot‑a‑Paw",
-  "pages": [
-   "a-paw.html",
-   "a-paw-spot.html"
   ]
  },
  "See it. Spot it. Save it.": {
@@ -3003,6 +2925,102 @@
  },
  "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">Privacy policy</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">Terms of use</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">Manage your aPaw account</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>": {
   "ar": "<a href=\"https://spotapaw.github.io/care-a-paw-site/privacy.html\" rel=\"noopener\" target=\"_blank\">سياسة الخصوصية</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/terms.html\" rel=\"noopener\" target=\"_blank\">شروط الاستخدام</a> · <a href=\"https://spotapaw.github.io/care-a-paw-site/account/\" rel=\"noopener\" target=\"_blank\">إدارة حسابك في aPaw</a> · <a href=\"mailto:support@spot-a-paw.com\">support@spot-a-paw.com</a>",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Why technology": {
+  "ar": "لماذا التقنية",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Kindness is everywhere.<br/><span class=\"accent\">Coordination isn’t.</span>": {
+  "ar": "الطيبة موجودة في كل مكان.<br/><span class=\"accent\">أما التنسيق فلا.</span>",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "In every city there are people who feed, rescue and rehome street animals. What they lack is\n        a way to see where help is needed, find each other, and keep going without running out of money.": {
+  "ar": "في كل مدينة أناس يُطعمون حيوانات الشارع وينقذونها ويجدون لها بيوتًا جديدة. ما ينقصهم هو\n        طريقة لمعرفة أين تُحتاج المساعدة، والوصول إلى بعضهم، والاستمرار دون أن تنفد أموالهم.",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Seen": {
+  "ar": "مرئي",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "An animal in trouble on the map, with a photo and what it needs, so it is never passed by twice.": {
+  "ar": "حيوان في محنة يظهر على الخريطة، مع صورته وما يحتاج إليه، فلا يُتجاهَل مرتين أبدًا.",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Feeders": {
+  "ar": "المُطعِمون",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Drivers": {
+  "ar": "السائقون",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Rescuers": {
+  "ar": "المنقذون",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Vets": {
+  "ar": "الأطباء البيطريون",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Shelters": {
+  "ar": "الملاجئ",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Butchers": {
+  "ar": "الجزّارون",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Coordinated": {
+  "ar": "منسَّق",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Feeders, drivers, rescuers, vets, shelters and butchers who can see who is already on the way, and who is covering which street.": {
+  "ar": "مُطعِمون وسائقون ومنقذون وأطباء بيطريون وملاجئ وجزّارون يرون من في الطريق بالفعل، ومن يغطي أي شارع.",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Meals": {
+  "ar": "وجبات",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Funded": {
+  "ar": "مموَّل",
+  "pages": [
+   "a-paw.html"
+  ]
+ },
+ "Apps that pet owners pay for, each sending a published share of its revenue to meals for the animals that have no owner at all.": {
+  "ar": "تطبيقات يدفع ثمنها أصحاب الحيوانات الأليفة، يخصّص كلٌّ منها حصة معلنة من إيراداته لوجبات الحيوانات التي ليس لها صاحب على الإطلاق.",
   "pages": [
    "a-paw.html"
   ]
