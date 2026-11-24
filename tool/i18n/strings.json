@@ -755,15 +755,13 @@
    "404.html"
   ]
  },
- "© 2026 One Tail One Meal. Every tail deserves a meal.<br/>An initiative of THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). Not a registered charity, so gifts are not tax deductible.<br/>Pictures of the truck, kitchen, meals and plates are AI concepts of what we plan to build.": {
-  "ar": "© 2026 One Tail One Meal. كل ذيل يستحق وجبة.<br/>مبادرة من THE PET WELLBEING COMPANY PTY LTD (ABN 13 673 319 652). ليست جمعية خيرية مسجلة، لذا فالتبرعات غير قابلة للخصم الضريبي.<br/>صور الشاحنة والمطبخ والوجبات والأطباق هي تصورات بالذكاء الاصطناعي لما نخطط لبنائه.",
+ "© 2026 The Pet Wellbeing Company Pty Ltd · ABN 13 673 319 652<br/>Built by PTAH Apps™<br/>One Tail One Meal is not a registered charity, so gifts are not tax deductible.<br/>Pictures of the truck, kitchen, meals and plates are AI concepts of what we plan to build.": {
+  "ar": "© 2026 The Pet Wellbeing Company Pty Ltd · ABN 13 673 319 652<br/>من تطوير PTAH Apps™<br/>One Tail One Meal ليست جمعية خيرية مسجلة، لذا فالتبرعات غير قابلة للخصم الضريبي.<br/>صور الشاحنة والمطبخ والوجبات والأطباق هي تصورات بالذكاء الاصطناعي لما نخطط لبنائه.",
   "pages": [
    "vision.html",
    "index.html",
    "food-truck.html",
    "plates.html",
-   "a-paw.html",
-   "a-paw-spot.html",
    "costings.html",
    "shared-paws.html",
    "404.html"
@@ -3239,6 +3237,13 @@
   "ar": "<a href=\"a-paw-terms.html\">شروط aPaw</a>",
   "pages": [
    "a-paw.html"
+  ]
+ },
+ "© 2026 Made by PTAH Apps™, a business name of The Pet Wellbeing Company Pty Ltd · ABN 13 673 319 652<br/>One Tail One Meal is not a registered charity, so gifts are not tax deductible.<br/>Pictures of the truck, kitchen, meals and plates are AI concepts of what we plan to build.": {
+  "ar": "© 2026 من صنع PTAH Apps™، وهو اسم تجاري لشركة The Pet Wellbeing Company Pty Ltd · ABN 13 673 319 652<br/>One Tail One Meal ليست جمعية خيرية مسجلة، لذا فالتبرعات غير قابلة للخصم الضريبي.<br/>صور الشاحنة والمطبخ والوجبات والأطباق هي تصورات بالذكاء الاصطناعي لما نخطط لبنائه.",
+  "pages": [
+   "a-paw.html",
+   "a-paw-spot.html"
   ]
  },
  "Spot-a-Paw - the aPaw family - One Tail One Meal": {
