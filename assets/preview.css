@@ -621,6 +621,8 @@ html[dir=rtl] .eyebrow{font-family:'Cairo','Tajawal',system-ui,sans-serif;font-w
 .st-now{background:var(--orange);color:var(--nile)}
 .st-next{background:transparent;color:var(--nile);border:1.5px solid rgba(31,81,72,.35)}
 .st-then{background:transparent;color:var(--orange);border:1.5px dashed var(--orange)}
+.status-top{display:block;margin:1rem 0 -.4rem}
+.status-title{margin:0 0 .7rem;font-size:1.05rem;color:var(--nile)}
 .status-foot{margin:.9rem 0 0;font-size:.85rem;color:var(--nile);opacity:.8}
 @media (max-width:420px){.status-list li{grid-template-columns:5.6rem 1fr;gap:.5rem;font-size:.9rem}}
 /* Guidance reference cards (food-truck.html #permits) */

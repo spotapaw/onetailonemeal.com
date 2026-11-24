@@ -1691,68 +1691,164 @@
    "food-truck.html"
   ]
  },
- "Our first truck is in development.<br/>The right operating structure in Egypt and the approvals we need are being assessed.<br/>Nothing below is approved yet. We will only mark a step done when we have a dated receipt or certificate.": {
-  "ar": "أول شاحنة لنا قيد التطوير.<br/>ندرس الآن الهيكل التشغيلي المناسب في مصر والموافقات التي نحتاجها.<br/>لم تتم الموافقة على أي شيء أدناه بعد. ولن نعتبر أي خطوة منجزة إلا عندما يكون لدينا إيصال أو شهادة مؤرَّخة.",
+ "We don’t have every answer yet. We are working towards our vision one step at a time, and each open question below is a step we are working on.<br/>As we learn the rules, we will adapt the plan, and these panels will show what changed. Nothing below is approved yet.": {
+  "ar": "ليست لدينا كل الإجابات بعد. نعمل نحو رؤيتنا خطوة بخطوة، وكل سؤال مفتوح أدناه هو خطوة نعمل عليها.<br/>وكلما عرفنا القواعد أكثر سنعدّل الخطة، وستعرض هذه اللوحات ما تغيّر. لم تتم الموافقة على أي شيء أدناه بعد.",
   "pages": [
    "food-truck.html"
   ]
  },
- "Updated 21 October 2026": {
-  "ar": "آخر تحديث: 21 أكتوبر 2026",
+ "Updated 24 November 2026 · we update these panels every two weeks": {
+  "ar": "آخر تحديث: 24 نوفمبر 2026 · نحدّث هذه اللوحات كل أسبوعين",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-done\">Done</span><span><b>Design brief.</b> A preliminary technical requirements and design brief, ready for specialist review (20 October 2026).</span>": {
-  "ar": "<span class=\"st st-done\">تم</span><span><b>موجز التصميم.</b> موجز مبدئي للمتطلبات الفنية والتصميم، جاهز لمراجعة المتخصّصين (20 أكتوبر 2026).</span>",
+ "Building the truck": {
+  "ar": "بناء الشاحنة",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-done\">Done</span><span><b>Approval routes researched.</b> Possible Egyptian routes for the operating structure, the vehicle and food hygiene.</span>": {
-  "ar": "<span class=\"st st-done\">تم</span><span><b>دراسة مسارات الموافقة.</b> المسارات المصرية الممكنة للهيكل التشغيلي والمركبة وسلامة الغذاء.</span>",
+ "<span class=\"st st-done\">Done</span><span><b>Funding goal set.</b> A$11,000 to build the truck and run the first three months (17 October 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>تحديد هدف التمويل.</b> 11,000 دولار أسترالي لبناء الشاحنة وتشغيل الأشهر الثلاثة الأولى (17 أكتوبر 2026).</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-now\">In progress</span><span><b>Operating structure in Egypt.</b> Options researched. The right route is being assessed.</span>": {
-  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>الهيكل التشغيلي في مصر.</b> دُرست الخيارات، ونقيّم الآن المسار المناسب.</span>",
+ "<span class=\"st st-done\">Done</span><span><b>Blueprint.</b> A full study of the truck, the costs and the risks (18 October 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>المخطط.</b> دراسة كاملة للشاحنة والتكاليف والمخاطر (18 أكتوبر 2026).</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Vehicle and fit-out.</b> Choose the vehicle, then get engineering review and approval for the changes to it.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>المركبة والتجهيز.</b> اختيار المركبة، ثم الحصول على مراجعة هندسية وموافقة على التعديلات عليها.</span>",
+ "<span class=\"st st-done\">Done</span><span><b>Design brief.</b> Ready for specialist review (20 October 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>موجز التصميم.</b> جاهز لمراجعة المتخصّصين (20 أكتوبر 2026).</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Recipes and hygiene.</b> Review the recipes and confirm which feed and hygiene approvals apply to us.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>الوصفات والنظافة.</b> مراجعة الوصفات والتأكد من موافقات الأعلاف والنظافة التي تنطبق علينا.</span>",
+ "<span class=\"st st-now\">In progress</span><span><b>Raising the funds.</b> Through our fund page. Every purchase in our apps helps too.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>جمع التمويل.</b> من خلال صفحة التمويل. وكل عملية شراء في تطبيقاتنا تساعد أيضًا.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Equipment quotes.</b> Get quotes for the drum (Qidra), heating, water and fit-out.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>عروض أسعار المعدات.</b> الحصول على عروض أسعار للبرميل (القِدرة) والتسخين والمياه والتجهيز.</span>",
+ "<span class=\"st st-now\">In progress</span><span><b>Choosing the truck.</b> We plan a used small pickup, with A$7,000 for the truck, the body and the wrap.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>اختيار الشاحنة.</b> نخطط لشاحنة نقل صغيرة مستعملة، بميزانية 7,000 دولار أسترالي للشاحنة والصندوق والتغليف.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Gas, fire and safety.</b> Have the installation checked and certified.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>الغاز والحريق والسلامة.</b> فحص التركيب واعتماده.</span>",
+ "<span class=\"st st-now\">In progress</span><span><b>Working out meals a day.</b> How many meals one cook and our budget can serve each day at the start.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>تحديد عدد الوجبات يوميًا.</b> كم وجبة يستطيع طاهٍ واحد وميزانيتنا تقديمها يوميًا في البداية.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Feeding sites and waste.</b> Confirm permission for each place we serve.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>أماكن الإطعام والنفايات.</b> الحصول على إذن لكل مكان نخدمه.</span>",
+ "<span class=\"st st-next\">Next</span><span><b>Workshop quotes.</b> Three quotes from Cairo workshops for the body and fit-out.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>عروض أسعار الورش.</b> ثلاثة عروض أسعار من ورش في القاهرة للصندوق والتجهيز.</span>",
   "pages": [
    "food-truck.html"
   ]
  },
- "<span class=\"st st-next\">Next</span><span><b>Insurance.</b> Cover volunteers, the public, the animals and the equipment.</span>": {
-  "ar": "<span class=\"st st-next\">التالي</span><span><b>التأمين.</b> تغطية المتطوعين والجمهور والحيوانات والمعدات.</span>",
+ "<span class=\"st st-then\">Then</span><span><b>Build and first round.</b> Fit the truck, pass its checks and start feeding, with the build shown here.</span>": {
+  "ar": "<span class=\"st st-then\">ثم</span><span><b>البناء والجولة الأولى.</b> تجهيز الشاحنة واجتياز فحوصاتها وبدء الإطعام، مع عرض مراحل البناء هنا.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "The food drum": {
+  "ar": "القِدرة",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-done\">Done</span><span><b>Drum design.</b> A drum that cooks while the truck is parked and keeps food hot while it drives (20 October 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>تصميم القِدرة.</b> قِدرة تطهو والشاحنة متوقفة وتحفظ الطعام ساخنًا أثناء سيرها (20 أكتوبر 2026).</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-now\">In progress</span><span><b>Choosing the type.</b> We plan a simple drum, an insulated pot on a gas burner, with about A$900 for the kitchen. A larger drum with a mixer is still being looked at.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>اختيار النوع.</b> نخطط لقِدرة بسيطة، وعاء معزول فوق موقد غاز، بميزانية نحو 900 دولار أسترالي للمطبخ. وما زلنا ندرس قِدرة أكبر بخلّاط.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Quotes.</b> Prices from Cairo workshops for building the drum.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>عروض الأسعار.</b> أسعار من ورش في القاهرة لتصنيع القِدرة.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Test cook.</b> Cook a full batch before we buy, to check it cooks evenly and stays hot.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>تجربة طهي.</b> طهي دفعة كاملة قبل الشراء للتأكد من أنها تطهو بالتساوي وتبقى ساخنة.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-then\">Then</span><span><b>Fit it to the truck.</b> Once the traffic department and the gas safety checks approve it.</span>": {
+  "ar": "<span class=\"st st-then\">ثم</span><span><b>تركيبها على الشاحنة.</b> بعد موافقة إدارة المرور واجتياز فحوصات سلامة الغاز.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "Permits": {
+  "ar": "التصاريح",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-done\">Done</span><span><b>Rules checked.</b> We checked the official Egyptian rules for the vehicle, the mobile food unit licence and food safety (24 November 2026).</span>": {
+  "ar": "<span class=\"st st-done\">تم</span><span><b>مراجعة القواعد.</b> راجعنا القواعد الرسمية في مصر الخاصة بالمركبة وترخيص وحدة الطعام المتنقلة وسلامة الغذاء (24 نوفمبر 2026).</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-now\">In progress</span><span><b>Ask the officials.</b> Confirm with the Cairo district office, the National Food Safety Authority and the veterinary services which rules apply to a truck that feeds animals for free.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>سؤال الجهات المختصة.</b> نتأكد من الحي في القاهرة والهيئة القومية لسلامة الغذاء والهيئة العامة للخدمات البيطرية من القواعد التي تنطبق على شاحنة تُطعم الحيوانات مجانًا.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-now\">In progress</span><span><b>Finding a partner.</b> We are reaching out to Egyptian associations, shelters and rescue groups to find a partner association to hold our licences.</span>": {
+  "ar": "<span class=\"st st-now\">جارٍ</span><span><b>البحث عن شريك.</b> نتواصل مع جمعيات مصرية وملاجئ ومجموعات إنقاذ للعثور على جمعية شريكة تحمل تراخيصنا.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Vehicle.</b> Buy the truck, transfer it, take out compulsory insurance and license it.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>المركبة.</b> شراء الشاحنة ونقل ملكيتها والتأمين الإجباري وترخيصها.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Fit-out approval.</b> Tell the traffic department before fitting the drum, then pass the technical inspection.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>اعتماد التجهيز.</b> إبلاغ إدارة المرور قبل تركيب القِدرة، ثم اجتياز الفحص الفني.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Gas and fire safety.</b> A licensed technician fits and certifies the gas, with a Civil Defense check and fire extinguishers on board.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>الغاز والسلامة من الحريق.</b> يركّب فنّي مرخَّص الغاز ويعتمده، مع فحص الحماية المدنية وطفايات حريق على متن الشاحنة.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Food approval.</b> The food safety or veterinary approval that the officials confirm applies to us.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>اعتماد الطعام.</b> موافقة سلامة الغذاء أو الموافقة البيطرية، حسب ما تؤكده الجهات المختصة.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Mobile food unit licence.</b> From the district office under Law 92 of 2018, naming the area we serve.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>ترخيص وحدة الطعام المتنقلة.</b> من الحي وفقًا للقانون رقم 92 لسنة 2018، مع تحديد المنطقة التي نعمل فيها.</span>",
+  "pages": [
+   "food-truck.html"
+  ]
+ },
+ "<span class=\"st st-next\">Next</span><span><b>Feeding sites and insurance.</b> Permission for each place we serve, and cover for volunteers and the public.</span>": {
+  "ar": "<span class=\"st st-next\">التالي</span><span><b>أماكن الإطعام والتأمين.</b> إذن لكل مكان نُطعم فيه، وتأمين يغطي المتطوعين والجمهور.</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -1763,8 +1859,8 @@
    "food-truck.html"
   ]
  },
- "This is not yet a build-ready design or an operating approval. We will update this panel with dated evidence as each step is done.": {
-  "ar": "هذا ليس بعد تصميمًا جاهزًا للتصنيع ولا موافقة تشغيل. سنحدّث هذه اللوحة بأدلة مؤرَّخة كلما أنجزنا خطوة.",
+ "<b>If the cooking permit is refused,</b> a licensed partner kitchen will cook the food, and the drum on the truck will only keep it hot.": {
+  "ar": "<b>إذا رُفض تصريح الطهي،</b> سيطهو مطبخ شريك مرخَّص الطعام، وستُستخدم القِدرة على الشاحنة لحفظه ساخنًا فقط.",
   "pages": [
    "food-truck.html"
   ]
@@ -1781,8 +1877,8 @@
    "food-truck.html"
   ]
  },
- "<b>National Food Safety Authority (NFSA)</b><span>Official hygiene registration routes, including mobile food units. Whether they apply to our animal-feed truck is still to be confirmed.</span>": {
-  "ar": "<b>الهيئة القومية لسلامة الغذاء</b><span>مسارات التسجيل الرسمية للنظافة، ومنها وحدات الطعام المتنقلة. وما زال علينا التأكد مما إذا كانت تنطبق على شاحنة الأعلاف الحيوانية.</span>",
+ "<b>National Food Safety Authority (NFSA)</b><span>Food safety rules for food sold to people, including mobile food units. If our truck counts as a food unit, we follow this route. Animal feed comes under the veterinary services.</span>": {
+  "ar": "<b>الهيئة القومية لسلامة الغذاء</b><span>قواعد سلامة الغذاء المقدَّم للناس، ومنها وحدات الطعام المتنقلة. إذا اعتُبرت شاحنتنا وحدة طعام فسنتبع هذا المسار. أما أعلاف الحيوانات فتتبع الخدمات البيطرية.</span>",
   "pages": [
    "food-truck.html"
   ]
@@ -3583,8 +3679,8 @@
    "costings.html"
   ]
  },
- "Cairo has required mobile food units to hold a licence approved by the National Food Safety Authority. Which approvals apply to an animal-feed truck is still being assessed, and those fees are not published, so we will ask.": {
-  "ar": "كانت القاهرة تشترط أن تحمل وحدات الطعام المتنقلة ترخيصًا معتمدًا من الهيئة القومية لسلامة الغذاء. وما زلنا ندرس الموافقات التي تنطبق على شاحنة أعلاف حيوانية، وهذه الرسوم غير منشورة، لذا سنسأل عنها.",
+ "Cairo requires mobile food units to hold a licence under Law 92 of 2018, at about 5,000 EGP a year (2019 rate). Which approvals apply to an animal-feed truck is still being confirmed with the officials.": {
+  "ar": "تشترط القاهرة حصول وحدات الطعام المتنقلة على ترخيص وفقًا للقانون رقم 92 لسنة 2018، بنحو 5,000 جنيه سنويًا (سعر 2019). وما زلنا نتأكد مع الجهات المختصة من الموافقات التي تنطبق على شاحنة أعلاف حيوانية.",
   "pages": [
    "costings.html"
   ]
